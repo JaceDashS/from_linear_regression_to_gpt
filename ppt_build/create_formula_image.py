@@ -1,0 +1,118 @@
+from pathlib import Path
+
+from PIL import Image, ImageDraw, ImageFont
+
+OUT = Path(r"C:\workspace\Attention is all you need\ppt_build\assets")
+OUT.mkdir(parents=True, exist_ok=True)
+
+font_path = r"C:\Windows\Fonts\cambria.ttc"
+blue = (37, 99, 235, 255)
+
+img = Image.new("RGBA", (980, 92), (255, 255, 255, 0))
+draw = ImageDraw.Draw(img)
+
+font_main = ImageFont.truetype(font_path, 39)
+font_small = ImageFont.truetype(font_path, 26)
+font_hat = ImageFont.truetype(font_path, 22)
+
+def text(x, y, value, font=font_main):
+    draw.text((x, y), value, font=font, fill=blue)
+
+text(10, 25, "MSE =")
+text(152, 4, "1", font_small)
+draw.line((142, 40, 205, 40), fill=blue, width=2)
+text(159, 45, "n", font_small)
+text(225, 25, "Σ")
+text(284, 25, "(")
+text(315, 25, "y", font_main)
+text(339, 52, "i", font_small)
+text(374, 25, "-")
+text(420, 25, "y", font_main)
+text(415, 8, "^", font_hat)
+text(444, 52, "i", font_small)
+text(476, 25, ")")
+text(507, 9, "2", font_small)
+
+text(630, 25, "y", font_main)
+text(625, 8, "^", font_hat)
+text(665, 25, "= wx + b")
+
+img.save(OUT / "mse_formula.png")
+
+gd = Image.new("RGBA", (1000, 82), (255, 255, 255, 0))
+draw = ImageDraw.Draw(gd)
+font = ImageFont.truetype(font_path, 34)
+font_s = ImageFont.truetype(font_path, 22)
+
+draw.text((8, 24), "w", font=font, fill=blue)
+draw.text((36, 48), "new", font=font_s, fill=blue)
+draw.text((92, 24), "= w", font=font, fill=blue)
+draw.text((172, 48), "old", font=font_s, fill=blue)
+draw.text((218, 24), "- α", font=font, fill=blue)
+draw.text((300, 5), "∂MSE", font=font_s, fill=blue)
+draw.line((296, 39, 380, 39), fill=blue, width=2)
+draw.text((312, 43), "∂w", font=font_s, fill=blue)
+
+draw.text((520, 24), "b", font=font, fill=blue)
+draw.text((545, 48), "new", font=font_s, fill=blue)
+draw.text((600, 24), "= b", font=font, fill=blue)
+draw.text((675, 48), "old", font=font_s, fill=blue)
+draw.text((720, 24), "- α", font=font, fill=blue)
+draw.text((802, 5), "∂MSE", font=font_s, fill=blue)
+draw.line((798, 39, 882, 39), fill=blue, width=2)
+draw.text((816, 43), "∂b", font=font_s, fill=blue)
+gd.save(OUT / "gd_update_formula.png")
+
+bt = Image.new("RGBA", (900, 86), (255, 255, 255, 0))
+draw = ImageDraw.Draw(bt)
+font = ImageFont.truetype(font_path, 34)
+font_s = ImageFont.truetype(font_path, 23)
+draw.text((15, 24), "try α", font=font, fill=blue)
+draw.text((150, 24), "→", font=font, fill=blue)
+draw.text((215, 24), "if MSE goes down, keep it", font=font, fill=blue)
+draw.text((15, 58), "if not, shrink α and try again", font=font_s, fill=blue)
+bt.save(OUT / "backtracking_formula.png")
+
+pd = Image.new("RGBA", (980, 84), (255, 255, 255, 0))
+draw = ImageDraw.Draw(pd)
+font = ImageFont.truetype(font_path, 34)
+font_s = ImageFont.truetype(font_path, 23)
+draw.text((35, 18), "∂MSE", font=font_s, fill=blue)
+draw.line((28, 52, 118, 52), fill=blue, width=2)
+draw.text((58, 56), "∂w", font=font_s, fill=blue)
+draw.text((145, 31), "=", font=font, fill=blue)
+draw.text((205, 24), "how MSE changes when w changes", font=font, fill=blue)
+draw.text((35, 118), "", font=font_s, fill=blue)
+pd.save(OUT / "partial_w_formula.png")
+
+pb = Image.new("RGBA", (980, 84), (255, 255, 255, 0))
+draw = ImageDraw.Draw(pb)
+draw.text((35, 18), "∂MSE", font=font_s, fill=blue)
+draw.line((28, 52, 118, 52), fill=blue, width=2)
+draw.text((58, 56), "∂b", font=font_s, fill=blue)
+draw.text((145, 31), "=", font=font, fill=blue)
+draw.text((205, 24), "how MSE changes when b changes", font=font, fill=blue)
+pb.save(OUT / "partial_b_formula.png")
+
+print(OUT / "mse_formula.png")
+print(OUT / "gd_update_formula.png")
+print(OUT / "backtracking_formula.png")
+print(OUT / "partial_w_formula.png")
+print(OUT / "partial_b_formula.png")
+
+basic = Image.new("RGBA", (1120, 200), (255, 255, 255, 0))
+draw = ImageDraw.Draw(basic)
+font_big = ImageFont.truetype(font_path, 38)
+font_mid = ImageFont.truetype(font_path, 31)
+font_small = ImageFont.truetype(font_path, 24)
+black = (11, 15, 25, 255)
+orange = (249, 115, 22, 255)
+green = (16, 185, 129, 255)
+
+draw.text((20, 10), "f(x, y) = x² + 3xy + y²", font=font_big, fill=blue)
+draw.text((20, 72), "∂f/∂x: treat y as constant", font=font_mid, fill=orange)
+draw.text((585, 72), "∂f/∂y: treat x as constant", font=font_mid, fill=green)
+draw.text((20, 126), "∂f/∂x = 2x + 3y", font=font_big, fill=black)
+draw.text((585, 126), "∂f/∂y = 3x + 2y", font=font_big, fill=black)
+basic.save(OUT / "partial_derivative_basic.png")
+print(OUT / "partial_derivative_basic.png")
