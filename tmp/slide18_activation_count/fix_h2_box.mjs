@@ -1,0 +1,17 @@
+import fs from "node:fs/promises";
+import { FileBlob, PresentationFile } from "../../ppt_build/node_modules/@oai/artifact-tool/dist/artifact_tool.mjs";
+const source="C:\\workspace\\from_linear_regression_to_gpt\\from_linear_regression_to_gpt.pptx";
+const output="C:\\workspace\\from_linear_regression_to_gpt\\tmp\\slide18_activation_count\\edited_h2.pptx";
+const preview="C:\\workspace\\from_linear_regression_to_gpt\\tmp\\slide18_activation_count\\slide-18-h2.png";
+const p=await PresentationFile.importPptx(await FileBlob.load(source));
+const slide=p.slides.getItem(17);
+const layout=JSON.parse(await (await slide.export({format:"layout"})).text());
+const h2=layout.elements.find(e=>typeof e.text==="string"&&e.text.includes("h₂ = σ(w₂h₁"));
+const outputBox=layout.elements.find(e=>e.text==="ŷ = w₃h₂ + b₃");
+const connector=layout.elements.find(e=>e.geometry==="rightArrow"&&(e.bbox??[])[0]===1003);
+if(!h2||!outputBox||!connector)throw new Error("Expected h2, connector, and output shapes were not found");
+const h2Shape=p.resolve(h2.aid);h2Shape.position={left:875,top:305,width:145,height:98};h2Shape.text.replace(h2.text,"h₂ = σ(w₂h₁ + b₂)");h2Shape.text.style={fontSize:16,bold:true,color:"#10B981",alignment:"center",typeface:"Calibri"};h2Shape.text.verticalAlignment="middle";
+const connectorShape=p.resolve(connector.aid);connectorShape.position={left:1023,top:334,width:20,height:38};
+const outputShape=p.resolve(outputBox.aid);outputShape.position={left:1045,top:315,width:120,height:78};outputShape.text.verticalAlignment="middle";
+const png=await p.export({slide,format:"png",scale:1});await fs.writeFile(preview,Buffer.from(await png.arrayBuffer()));
+const pptx=await PresentationFile.exportPptx(p);await pptx.save(output);
