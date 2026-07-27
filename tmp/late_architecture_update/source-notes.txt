@@ -1,0 +1,6 @@
+Slide 55
+- Inception official Mercury 2 announcement: https://www.inceptionlabs.ai/blog/introducing-mercury-2
+- Mercury technical report: https://arxiv.org/abs/2506.17298
+
+Slide 56
+- Leviathan, Kalman, and Matias, “Fast Inference from Transformers via Speculative Decoding”: https://arxiv.org/abs/2211.17192

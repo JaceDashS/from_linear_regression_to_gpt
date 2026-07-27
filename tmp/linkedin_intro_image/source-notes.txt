@@ -1,0 +1,4 @@
+Externally supplied asset:
+https://media.licdn.com/dms/image/v2/D4D22AQEwD7fMcLTAdQ/feedshare-shrink_800/B4DZd9bUoRG8Ag-/0/1750156005031?e=2147483647&v=beta&t=dCR6tdHvBihBUouwX60e8hqjI_j5cD386Zc8Bszzw_M
+
+Usage: orientation image on output slide 2. The image is reproduced as supplied, including its embedded labels.

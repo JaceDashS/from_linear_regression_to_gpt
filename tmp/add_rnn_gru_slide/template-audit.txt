@@ -1,0 +1,5 @@
+Source: from_linear_regression_to_gpt_with_llm_loading_svg_curves_chain_rule_equation_nn_connections_fixed_cnn_added.pptx
+Structure: 53-slide 16:9 technical learning deck with blue eyebrow, large black title, pale rounded content frame, and bottom-right page marker.
+Insertion contract: duplicate source slide 13 because it provides an inherited wide image zone and takeaway line. Insert after current slide 26 (Long memory fades), replace source-specific image/diagram content, and preserve the panel, title hierarchy, and footer.
+Narrative placement: RNN introduces sequential state, the next slide shows fading memory, the new slide shows LSTM/GRU gating as a recurrence-based response, and the following slide transitions to attention.
+Roadmap: Language expands to slides 22-27; Attention, Transformer, and GPT ranges move forward by one page.

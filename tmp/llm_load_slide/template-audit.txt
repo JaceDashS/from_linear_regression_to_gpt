@@ -1,0 +1,6 @@
+Source deck: from_linear_regression_to_gpt.pptx (51 slides, 1280 x 720)
+Communication job: help learners connect pretraining outputs to the concrete pieces required for inference.
+Insertion contract: duplicate source slide 40, retain its header, panel, typography, spacing, and footer; replace only the center training diagram.
+Typography: Calibri; 42 pt bold titles, 16 pt blue kickers, 18-27 pt diagram text, 13 pt page markers.
+Reusable pattern: white background, pale-gray rounded content field, sparse blue/green/orange conceptual objects.
+Placement: insert after source slide 40 and before source slide 41.

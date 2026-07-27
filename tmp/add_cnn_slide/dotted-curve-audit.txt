@@ -1,0 +1,3 @@
+slides=53
+remainingDottedPointClusters=0
+svgDottedCurveImages=0

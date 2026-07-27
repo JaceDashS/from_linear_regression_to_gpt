@@ -1,0 +1,5 @@
+Source deck: from_linear_regression_to_gpt_with_llm_loading.pptx (52 slides, 1280 x 720).
+Communication and layout remain unchanged.
+Audit result: slides with existing curve graphics already use embedded SVGs; the only remaining dotted curve built from individual PowerPoint shapes is slide 14.
+Slide 14 source pattern: white background, pale-gray content frame, axes and labels, three large decision markers, and a dotted U-shaped loss curve.
+Replacement contract: preserve every inherited object except the 115 small ellipse shapes that form the blue/red/green dotted curve; replace those exact shapes with one transparent, full-slide SVG.

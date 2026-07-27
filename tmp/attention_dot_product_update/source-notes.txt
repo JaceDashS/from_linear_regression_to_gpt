@@ -1,0 +1,3 @@
+Slides 32–33 retain their existing source notes citing Vaswani et al. (2017), “Attention Is All You Need,” arXiv:1706.03762.
+
+The added explanatory wording was supplied by the user and paraphrased into the deck's existing English teaching style.

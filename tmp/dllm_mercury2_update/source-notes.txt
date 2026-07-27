@@ -1,0 +1,14 @@
+Mercury 2 official overview:
+https://www.inceptionlabs.ai/blog/introducing-mercury-2
+
+Mercury technical report:
+https://arxiv.org/abs/2506.17298
+
+LLaDA:
+https://arxiv.org/abs/2502.09992
+
+Masked diffusion language models:
+https://arxiv.org/abs/2406.07524
+
+Speculative decoding:
+https://arxiv.org/abs/2211.17192

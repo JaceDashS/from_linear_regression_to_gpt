@@ -1,0 +1,2 @@
+User-provided image: https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F146659%2F90f26267-2445-f2dc-b0c6-80f384054ae0.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=17811178f02900b58011bbcc4220f974
+The image visibly shows the Transformer encoder and decoder stacks, including multi-head attention, masked attention, cross-attention, feed-forward blocks, residual normalization, embeddings, and positional encoding.

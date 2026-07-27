@@ -1,0 +1,6 @@
+Slide 54 image supplied by the user:
+https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/04/image-114.png?resize=652%2C863&ssl=1
+
+Original paper:
+Dai et al., “Knowledge Neurons in Pretrained Transformers,” ACL 2022.
+https://aclanthology.org/2022.acl-long.581/

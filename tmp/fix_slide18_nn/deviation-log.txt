@@ -1,0 +1,1 @@
+Slide 18: replace 50 ordinary line shapes with straight connectors anchored to the right and left sides of the existing neuron ellipses. Reason: imported line direction/flip metadata renders several edges from empty space rather than from neuron nodes.

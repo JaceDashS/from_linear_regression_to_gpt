@@ -1,0 +1,1305 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"From Linear Regression to GPT","textShapes":25}
+{"kind":"textbox","id":"sh/jmts7alo","slide":1,"text":"From Linear Regression to GPT","textPreview":"From Linear Regression to GPT","textChars":29,"textLines":1,"bbox":[70,56,870,62]}
+{"kind":"textbox","id":"sh/ax87ehwf","slide":1,"text":"Roadmap","textPreview":"Roadmap","textChars":7,"textLines":1,"bbox":[74,128,260,40]}
+{"kind":"textbox","id":"sh/218zuh4v","slide":1,"text":"From simple prediction to GPT","textPreview":"From simple prediction to GPT","textChars":29,"textLines":1,"bbox":[280,132,520,34]}
+{"kind":"shape","id":"sh/7ylcvmho","slide":1,"bbox":[70,215,1140,350]}
+{"kind":"shape","id":"sh/idgnm5kz","slide":1,"bbox":[160,390,960,1]}
+{"kind":"textbox","id":"sh/4fmhsb69","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[128,348,84,84]}
+{"kind":"textbox","id":"sh/uhgbm18r","slide":1,"text":"Foundations","textPreview":"Foundations","textChars":11,"textLines":1,"bbox":[75,455,190,30]}
+{"kind":"textbox","id":"sh/mpgf2h8f","slide":1,"text":"MSE, partials,\ngradients","textPreview":"MSE, partials, | gradients","textChars":24,"textLines":2,"bbox":[74,492,192,52]}
+{"kind":"textbox","id":"sh/toryx8rm","slide":1,"text":"Slides 2-21","textPreview":"Slides 2-21","textChars":11,"textLines":1,"bbox":[90,300,160,26]}
+{"kind":"textbox","id":"sh/2943qpkb","slide":1,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[360,348,84,84]}
+{"kind":"textbox","id":"sh/gbaxsri5","slide":1,"text":"Language","textPreview":"Language","textChars":8,"textLines":1,"bbox":[307,455,190,30]}
+{"kind":"textbox","id":"sh/9kz6l8ra","slide":1,"text":"tokens and\nembeddings","textPreview":"tokens and | embeddings","textChars":21,"textLines":2,"bbox":[306,492,192,52]}
+{"kind":"textbox","id":"sh/8vu9o3il","slide":1,"text":"Slides 22-28","textPreview":"Slides 22-28","textChars":12,"textLines":1,"bbox":[322,300,160,26]}
+{"kind":"textbox","id":"sh/k76dk32h","slide":1,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[592,348,84,84]}
+{"kind":"textbox","id":"sh/nyxwbe58","slide":1,"text":"Attention","textPreview":"Attention","textChars":9,"textLines":1,"bbox":[539,455,190,30]}
+{"kind":"textbox","id":"sh/bydgjehs","slide":1,"text":"query, key,\nvalue","textPreview":"query, key, | value","textChars":17,"textLines":2,"bbox":[538,492,192,52]}
+{"kind":"textbox","id":"sh/7ehcbetg","slide":1,"text":"Slides 29-36","textPreview":"Slides 29-36","textChars":12,"textLines":1,"bbox":[554,300,160,26]}
+{"kind":"textbox","id":"sh/gzmt4vmd","slide":1,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[824,348,84,84]}
+{"kind":"textbox","id":"sh/5cv2xov6","slide":1,"text":"Transformer","textPreview":"Transformer","textChars":11,"textLines":1,"bbox":[771,455,190,30]}
+{"kind":"textbox","id":"sh/yxcjyhk3","slide":1,"text":"blocks and\nmasking","textPreview":"blocks and | masking","textChars":18,"textLines":2,"bbox":[770,492,192,52]}
+{"kind":"textbox","id":"sh/udsfupcf","slide":1,"text":"Slides 37-41","textPreview":"Slides 37-41","textChars":12,"textLines":1,"bbox":[786,300,160,26]}
+{"kind":"textbox","id":"sh/ni9cve1o","slide":1,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1056,348,84,84]}
+{"kind":"textbox","id":"sh/qxcv2lw3","slide":1,"text":"GPT","textPreview":"GPT","textChars":3,"textLines":1,"bbox":[1003,455,190,30]}
+{"kind":"textbox","id":"sh/zy1g76xw","slide":1,"text":"next-token\nprediction","textPreview":"next-token | prediction","textChars":21,"textLines":2,"bbox":[1002,492,192,52]}
+{"kind":"textbox","id":"sh/v6torutg","slide":1,"text":"Slides 42-57","textPreview":"Slides 42-57","textChars":12,"textLines":1,"bbox":[1018,300,160,26]}
+{"kind":"textbox","id":"sh/jetofylo","slide":1,"text":"Goal: understand why attention made GPT possible","textPreview":"Goal: understand why attention made GPT possible","textChars":48,"textLines":1,"bbox":[205,608,870,40]}
+{"kind":"textbox","id":"sh/yx8nadc7","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources]\nThis slide now functions as the table of contents: foundations, language representation, attention, Transformer, and GPT."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/e5wva9s7","slide":2,"text":"Linear regression","textPreview":"Linear regression","textChars":17,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/t03qlgra","slide":2,"text":"Start with a bad line","textPreview":"Start with a bad line","textChars":21,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/ed4zq5kv","slide":2,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/g7y94ryd","slide":2,"bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/6xo76dkv","slide":2,"bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/bqdkby9g","slide":2,"text":"MSE ≈ 4.75","textPreview":"MSE ≈ 4.75","textChars":10,"textLines":1,"bbox":[1015,285,145,66]}
+{"kind":"textbox","id":"sh/bepgna54","slide":2,"text":"large errors","textPreview":"large errors","textChars":12,"textLines":1,"bbox":[995,370,190,78]}
+{"kind":"shape","id":"sh/rq9cvatw","slide":2,"bbox":[275,346.17,1,166.83]}
+{"kind":"shape","id":"sh/budonedo","slide":2,"bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/pgjeh4rq","slide":2,"bbox":[405,357,1,121.33]}
+{"kind":"shape","id":"sh/d0f2lgru","slide":2,"bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/9kv2h8b6","slide":2,"bbox":[535,367.83,1,80.17]}
+{"kind":"shape","id":"sh/jmls3ah8","slide":2,"bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/l8j2hon2","slide":2,"bbox":[665,378.67,1,26]}
+{"kind":"shape","id":"sh/3id07elo","slide":2,"bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/ofmxcrmh","slide":2,"bbox":[795,374.33,1,15.17]}
+{"kind":"shape","id":"sh/pgje10zu","slide":2,"bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/ml8bi9cj","slide":2,"bbox":[925,339.67,1,60.67]}
+{"kind":"shape","id":"sh/69832l4n","slide":2,"bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/9sbudknm","slide":2,"text":"data","textPreview":"data","textChars":4,"textLines":1,"bbox":[260,267,80,28]}
+{"kind":"textbox","id":"sh/a5wzmlkz","slide":2,"text":"model line","textPreview":"model line","textChars":10,"textLines":1,"bbox":[705,450,160,30]}
+{"kind":"textbox","id":"sh/gr29snqp","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/1gz2t4nm","slide":2,"bbox":[249,348,705,56]}
+{"kind":"image","id":"im/xkridw3m","slide":2,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/gnmx07ih","slide":3,"text":"Linear regression","textPreview":"Linear regression","textChars":17,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/mxsrqlsn","slide":3,"text":"Change w and b to lower MSE","textPreview":"Change w and b to lower MSE","textChars":27,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/w7yhsvyh","slide":3,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/c7uh8ny9","slide":3,"bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/a1s3ahkj","slide":3,"bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/gzqxcfu5","slide":3,"text":"MSE ≈ 0.19","textPreview":"MSE ≈ 0.19","textChars":10,"textLines":1,"bbox":[1015,285,145,66]}
+{"kind":"textbox","id":"sh/v2h0fi5k","slide":3,"text":"closer line","textPreview":"closer line","textChars":11,"textLines":1,"bbox":[995,370,190,78]}
+{"kind":"shape","id":"sh/ql8n6xw7","slide":3,"bbox":[275,487,1,26]}
+{"kind":"shape","id":"sh/r2xkrmp8","slide":3,"bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/rqp4vit0","slide":3,"bbox":[405,463.17,1,15.17]}
+{"kind":"shape","id":"sh/xkruh4ve","slide":3,"bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/7uhsbylw","slide":3,"bbox":[535,439.33,1,8.67]}
+{"kind":"shape","id":"sh/3ql4fed4","slide":3,"bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/6dgz6d0v","slide":3,"bbox":[665,404.67,1,10.83]}
+{"kind":"shape","id":"sh/z2lsv61k","slide":3,"bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/ri5grat4","slide":3,"bbox":[795,374.33,1,17.33]}
+{"kind":"shape","id":"sh/zep03ahg","slide":3,"bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/ozixsnmp","slide":3,"bbox":[925,339.67,1,28.17]}
+{"kind":"shape","id":"sh/q1g3qdo3","slide":3,"bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/lkjed07y","slide":3,"text":"data","textPreview":"data","textChars":4,"textLines":1,"bbox":[260,267,80,28]}
+{"kind":"textbox","id":"sh/25gjil8f","slide":3,"text":"model line","textPreview":"model line","textChars":10,"textLines":1,"bbox":[705,390,160,30]}
+{"kind":"textbox","id":"sh/md8jm5kr","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/f610za90","slide":3,"name":"solidguide_flipV","bbox":[249,363.07,702,128.7]}
+{"kind":"image","id":"im/l0by1grq","slide":3,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/xczat0ju","slide":4,"text":"Linear regression","textPreview":"Linear regression","textChars":17,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/bi5cvepo","slide":4,"text":"The fitted line makes MSE small","textPreview":"The fitted line makes MSE small","textChars":31,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/6dsna14n","slide":4,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/54bq5s7i","slide":4,"bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/twf2ho3q","slide":4,"bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/cf2hkvul","slide":4,"text":"MSE ≈ 0.01","textPreview":"MSE ≈ 0.01","textChars":10,"textLines":1,"bbox":[1015,285,145,66]}
+{"kind":"textbox","id":"sh/4v2lgbit","slide":4,"text":"small errors","textPreview":"small errors","textChars":12,"textLines":1,"bbox":[995,370,190,78]}
+{"kind":"shape","id":"sh/9gnalk3y","slide":4,"bbox":[275,513,1,2.17]}
+{"kind":"shape","id":"sh/6lgj6dwn","slide":4,"bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/rexk7u1w","slide":4,"bbox":[405,478.33,1,2.17]}
+{"kind":"shape","id":"sh/nyds3qps","slide":4,"bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/up4f2dwr","slide":4,"bbox":[535,445.83,1,2.17]}
+{"kind":"shape","id":"sh/654fm5oz","slide":4,"bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/s369wza5","slide":4,"bbox":[665,404.67,1,6.5]}
+{"kind":"shape","id":"sh/nq90v6xw","slide":4,"bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/qxwrehcz","slide":4,"bbox":[795,374.33,1,2.17]}
+{"kind":"shape","id":"sh/uhgz2d4j","slide":4,"bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/p4bex8ru","slide":4,"bbox":[925,339.67,1,2.17]}
+{"kind":"shape","id":"sh/6pgbuh4f","slide":4,"bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/ut8zat43","slide":4,"text":"data","textPreview":"data","textChars":4,"textLines":1,"bbox":[260,267,80,28]}
+{"kind":"textbox","id":"sh/w3i98jmt","slide":4,"text":"model line","textPreview":"model line","textChars":10,"textLines":1,"bbox":[705,348,160,30]}
+{"kind":"textbox","id":"sh/3e98na58","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/2pwf61sn","slide":4,"name":"solidguide_flipV","bbox":[249,334.9,702,187.2]}
+{"kind":"image","id":"im/n6187ix4","slide":4,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Linear regression","textShapes":9}
+{"kind":"textbox","id":"sh/gvatc3u9","slide":5,"text":"Linear regression","textPreview":"Linear regression","textChars":17,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/e1cf6dgn","slide":5,"text":"Example: attendance predicts grades","textPreview":"Example: attendance predicts grades","textChars":35,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/4nadwve1","slide":5,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/7qtsnu50","slide":5,"bbox":[200,560,780,1]}
+{"kind":"shape","id":"sh/m1o36l0v","slide":5,"bbox":[200,260,1,300]}
+{"kind":"textbox","id":"sh/i583y947","slide":5,"text":"attendance (%)","textPreview":"attendance (%)","textChars":14,"textLines":1,"bbox":[500,590,210,28]}
+{"kind":"textbox","id":"sh/ri9ofu5c","slide":5,"text":"grade","textPreview":"grade","textChars":5,"textLines":1,"bbox":[128,385,70,28]}
+{"kind":"shape","id":"sh/vydwf618","slide":5,"bbox":[222.7,464.23,17,17]}
+{"kind":"shape","id":"sh/psnah4z6","slide":5,"bbox":[269.5,535.14,17,17]}
+{"kind":"shape","id":"sh/0rip0bqt","slide":5,"bbox":[300.7,431.5,17,17]}
+{"kind":"shape","id":"sh/bylwfyl4","slide":5,"bbox":[363.1,480.59,17,17]}
+{"kind":"shape","id":"sh/yhsr21oz","slide":5,"bbox":[394.3,398.77,17,17]}
+{"kind":"shape","id":"sh/d0bexk3m","slide":5,"bbox":[441.1,502.41,17,17]}
+{"kind":"shape","id":"sh/8ra9g3yx","slide":5,"bbox":[487.9,382.41,17,17]}
+{"kind":"shape","id":"sh/7elgrmd4","slide":5,"bbox":[534.7,415.14,17,17]}
+{"kind":"shape","id":"sh/e1k3q907","slide":5,"bbox":[597.1,349.68,17,17]}
+{"kind":"shape","id":"sh/a50r61w7","slide":5,"bbox":[628.3,442.41,17,17]}
+{"kind":"shape","id":"sh/dgnep8bi","slide":5,"bbox":[675.1,316.95,17,17]}
+{"kind":"shape","id":"sh/1w7ed8be","slide":5,"bbox":[721.9,376.95,17,17]}
+{"kind":"shape","id":"sh/36lojm1c","slide":5,"bbox":[768.7,284.23,17,17]}
+{"kind":"shape","id":"sh/dknq1kry","slide":5,"bbox":[815.5,344.23,17,17]}
+{"kind":"shape","id":"sh/5sju5cvu","slide":5,"bbox":[862.3,306.05,17,17]}
+{"kind":"shape","id":"sh/8b2d4zmp","slide":5,"bbox":[909.1,404.23,17,17]}
+{"kind":"shape","id":"sh/i54f21kn","slide":5,"bbox":[940.3,267.86,17,17]}
+{"kind":"textbox","id":"sh/6p8ze9kr","slide":5,"text":"x = attendance","textPreview":"x = attendance","textChars":14,"textLines":1,"bbox":[995,285,170,58]}
+{"kind":"textbox","id":"sh/ud0bixkj","slide":5,"text":"y = grade","textPreview":"y = grade","textChars":9,"textLines":1,"bbox":[995,360,170,58]}
+{"kind":"textbox","id":"sh/f650z214","slide":5,"text":"line = prediction","textPreview":"line = prediction","textChars":17,"textLines":1,"bbox":[995,435,170,58]}
+{"kind":"textbox","id":"sh/oz6d07ep","slide":5,"text":"more attendance,\nhigher predicted grade","textPreview":"more attendance, | higher predicted grade","textChars":39,"textLines":2,"bbox":[342,178,520,60]}
+{"kind":"textbox","id":"sh/n2dwja5c","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/hwbyl0rq","slide":5,"name":"solidguide_flipV","bbox":[245.6,309.88,668.8,170.45]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Regression","textShapes":9}
+{"kind":"textbox","id":"sh/2l4ji5k3","slide":6,"text":"Regression","textPreview":"Regression","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/ilwvix0b","slide":6,"text":"Nonlinear regression allows curves","textPreview":"Nonlinear regression allows curves","textChars":34,"textLines":1,"bbox":[64,62,1030,62]}
+{"kind":"shape","id":"sh/t0fyh8re","slide":6,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/it4rat0z","slide":6,"bbox":[200,570,760,1]}
+{"kind":"shape","id":"sh/kf2dsz6d","slide":6,"bbox":[200,252,1,318]}
+{"kind":"textbox","id":"sh/fu54vmt8","slide":6,"text":"attendance (%)","textPreview":"attendance (%)","textChars":14,"textLines":1,"bbox":[500,590,210,28]}
+{"kind":"textbox","id":"sh/zi1knutg","slide":6,"text":"grade","textPreview":"grade","textChars":5,"textLines":1,"bbox":[128,385,70,28]}
+{"kind":"shape","id":"sh/k3ilo7mx","slide":6,"bbox":[222.2,469.29,16.4,16.4]}
+{"kind":"shape","id":"sh/2pgjeloz","slide":6,"bbox":[267.8,544.45,16.4,16.4]}
+{"kind":"shape","id":"sh/b2xkjet0","slide":6,"bbox":[298.2,434.6,16.4,16.4]}
+{"kind":"shape","id":"sh/3y9wzal4","slide":6,"bbox":[359,486.64,16.4,16.4]}
+{"kind":"shape","id":"sh/8rihgj6p","slide":6,"bbox":[389.4,399.91,16.4,16.4]}
+{"kind":"shape","id":"sh/ho3qx4zu","slide":6,"bbox":[435,509.76,16.4,16.4]}
+{"kind":"shape","id":"sh/uh8ripcn","slide":6,"bbox":[480.6,382.56,16.4,16.4]}
+{"kind":"shape","id":"sh/qlsr2h4f","slide":6,"bbox":[526.2,417.25,16.4,16.4]}
+{"kind":"shape","id":"sh/f6dgb6dg","slide":6,"bbox":[587,347.87,16.4,16.4]}
+{"kind":"shape","id":"sh/gfuxg3al","slide":6,"bbox":[617.4,446.16,16.4,16.4]}
+{"kind":"shape","id":"sh/fytgbypw","slide":6,"bbox":[663,313.18,16.4,16.4]}
+{"kind":"shape","id":"sh/3uxcnepc","slide":6,"bbox":[708.6,376.78,16.4,16.4]}
+{"kind":"shape","id":"sh/juhc72h8","slide":6,"bbox":[754.2,278.49,16.4,16.4]}
+{"kind":"shape","id":"sh/u54ry1kj","slide":6,"bbox":[799.8,342.09,16.4,16.4]}
+{"kind":"shape","id":"sh/x0re18by","slide":6,"bbox":[845.4,301.62,16.4,16.4]}
+{"kind":"shape","id":"sh/pk7mdcvm","slide":6,"bbox":[891,405.69,16.4,16.4]}
+{"kind":"shape","id":"sh/m1gjqhwn","slide":6,"bbox":[921.4,261.15,16.4,16.4]}
+{"kind":"textbox","id":"sh/kz6lwz6d","slide":6,"text":"linear","textPreview":"linear","textChars":6,"textLines":1,"bbox":[995,315,150,54]}
+{"kind":"textbox","id":"sh/h4bqlobq","slide":6,"text":"nonlinear","textPreview":"nonlinear","textChars":9,"textLines":1,"bbox":[995,390,150,54]}
+{"kind":"textbox","id":"sh/6psn2hwz","slide":6,"text":"same task, more flexible shape","textPreview":"same task, more flexible shape","textChars":30,"textLines":1,"bbox":[355,180,570,36]}
+{"kind":"textbox","id":"sh/u183ypkb","slide":6,"text":"y_hat = f(x)","textPreview":"y_hat = f(x)","textChars":12,"textLines":1,"bbox":[980,485,180,40]}
+{"kind":"textbox","id":"sh/2xgr610b","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/0neponu9","slide":6,"name":"solidguide_flipV","bbox":[230.4,302.13,714.4,182.07]}
+{"kind":"image","id":"im/8zud0nat","slide":6,"name":"","bbox":[200,252,760,318]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Regression","textShapes":8}
+{"kind":"textbox","id":"sh/k7udkz69","slide":7,"text":"Regression","textPreview":"Regression","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/0nelk7ad","slide":7,"text":"Too much flexibility can overfit","textPreview":"Too much flexibility can overfit","textChars":32,"textLines":1,"bbox":[64,62,1030,62]}
+{"kind":"shape","id":"sh/h0jixo3i","slide":7,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/jyh0bipc","slide":7,"bbox":[200,570,760,1]}
+{"kind":"shape","id":"sh/lo3etwna","slide":7,"bbox":[200,252,1,318]}
+{"kind":"textbox","id":"sh/byd0vm5s","slide":7,"text":"attendance (%)","textPreview":"attendance (%)","textChars":14,"textLines":1,"bbox":[500,590,210,28]}
+{"kind":"textbox","id":"sh/vm18vqlo","slide":7,"text":"grade","textPreview":"grade","textChars":5,"textLines":1,"bbox":[128,385,70,28]}
+{"kind":"shape","id":"sh/ahgvyl0b","slide":7,"bbox":[222.2,469.29,16.4,16.4]}
+{"kind":"shape","id":"sh/cziho3u5","slide":7,"bbox":[267.8,544.45,16.4,16.4]}
+{"kind":"shape","id":"sh/ovm1w7yp","slide":7,"bbox":[298.2,434.6,16.4,16.4]}
+{"kind":"shape","id":"sh/036hkf2h","slide":7,"bbox":[359,486.64,16.4,16.4]}
+{"kind":"shape","id":"sh/vm18v6l8","slide":7,"bbox":[389.4,399.91,16.4,16.4]}
+{"kind":"shape","id":"sh/ylkbmh47","slide":7,"bbox":[435,509.76,16.4,16.4]}
+{"kind":"shape","id":"sh/yp4nmd4n","slide":7,"bbox":[480.6,382.56,16.4,16.4]}
+{"kind":"shape","id":"sh/gr2d4rmt","slide":7,"bbox":[526.2,417.25,16.4,16.4]}
+{"kind":"shape","id":"sh/hkzitore","slide":7,"bbox":[587,347.87,16.4,16.4]}
+{"kind":"shape","id":"sh/ipwv650r","slide":7,"bbox":[617.4,446.16,16.4,16.4]}
+{"kind":"shape","id":"sh/8rqt4b6l","slide":7,"bbox":[663,313.18,16.4,16.4]}
+{"kind":"shape","id":"sh/1kj2dgbq","slide":7,"bbox":[708.6,376.78,16.4,16.4]}
+{"kind":"shape","id":"sh/d03q50zy","slide":7,"bbox":[754.2,278.49,16.4,16.4]}
+{"kind":"shape","id":"sh/t8jud03m","slide":7,"bbox":[799.8,342.09,16.4,16.4]}
+{"kind":"shape","id":"sh/dgjqtojm","slide":7,"bbox":[845.4,301.62,16.4,16.4]}
+{"kind":"shape","id":"sh/nmtcfatk","slide":7,"bbox":[891,405.69,16.4,16.4]}
+{"kind":"shape","id":"sh/vy5s7eto","slide":7,"bbox":[921.4,261.15,16.4,16.4]}
+{"kind":"textbox","id":"sh/wjupkjm1","slide":7,"text":"fits noise","textPreview":"fits noise","textChars":10,"textLines":1,"bbox":[990,315,160,54]}
+{"kind":"textbox","id":"sh/6hcnml0r","slide":7,"text":"better trend","textPreview":"better trend","textChars":12,"textLines":1,"bbox":[990,390,160,54]}
+{"kind":"textbox","id":"sh/6lgvix0r","slide":7,"text":"low training error, weak generalization","textPreview":"low training error, weak generalization","textChars":39,"textLines":1,"bbox":[300,180,680,36]}
+{"kind":"textbox","id":"sh/wzehcval","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/o3ql07ep","slide":7,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Regression","textShapes":28}
+{"kind":"textbox","id":"sh/gvylk7a9","slide":8,"text":"Regression","textPreview":"Regression","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/i1gvm18f","slide":8,"text":"Data is split to separate learning from judging","textPreview":"Data is split to separate learning from judging","textChars":47,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/jyxo76tc","slide":8,"bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/p8bi9kn6","slide":8,"bbox":[122,184,314,372]}
+{"kind":"textbox","id":"sh/mxwba90f","slide":8,"text":"train","textPreview":"train","textChars":5,"textLines":1,"bbox":[144,212,270,36]}
+{"kind":"textbox","id":"sh/vq107ilc","slide":8,"text":"learn the model","textPreview":"learn the model","textChars":15,"textLines":1,"bbox":[146,270,266,52]}
+{"kind":"textbox","id":"sh/qdovy10b","slide":8,"text":"uses","textPreview":"uses","textChars":4,"textLines":1,"bbox":[152,354,74,24]}
+{"kind":"textbox","id":"sh/ylcn6h4b","slide":8,"text":"examples + labels","textPreview":"examples + labels","textChars":17,"textLines":1,"bbox":[228,352,178,34]}
+{"kind":"shape","id":"sh/7mpgn6x8","slide":8,"bbox":[152,392,254,1]}
+{"kind":"textbox","id":"sh/edozmtgf","slide":8,"text":"affects","textPreview":"affects","textChars":7,"textLines":1,"bbox":[152,408,74,24]}
+{"kind":"textbox","id":"sh/0fat0b61","slide":8,"text":"weights directly","textPreview":"weights directly","textChars":16,"textLines":1,"bbox":[228,406,178,34]}
+{"kind":"shape","id":"sh/adkjep0n","slide":8,"bbox":[152,446,254,1]}
+{"kind":"textbox","id":"sh/s7ydwjyt","slide":8,"text":"timing","textPreview":"timing","textChars":6,"textLines":1,"bbox":[152,462,74,24]}
+{"kind":"textbox","id":"sh/cnq5o7q5","slide":8,"text":"every update","textPreview":"every update","textChars":12,"textLines":1,"bbox":[228,460,178,34]}
+{"kind":"shape","id":"sh/ojq9ony9","slide":8,"bbox":[483,184,314,372]}
+{"kind":"textbox","id":"sh/wbe90zmh","slide":8,"text":"validation","textPreview":"validation","textChars":10,"textLines":1,"bbox":[505,212,270,36]}
+{"kind":"textbox","id":"sh/r2103qt8","slide":8,"text":"choose the setup","textPreview":"choose the setup","textChars":16,"textLines":1,"bbox":[507,270,266,52]}
+{"kind":"textbox","id":"sh/9kjix07e","slide":8,"text":"uses","textPreview":"uses","textChars":4,"textLines":1,"bbox":[513,354,74,24]}
+{"kind":"textbox","id":"sh/gvelcbah","slide":8,"text":"held-out examples","textPreview":"held-out examples","textChars":17,"textLines":1,"bbox":[589,352,178,34]}
+{"kind":"shape","id":"sh/94zmd8bi","slide":8,"bbox":[513,392,254,1]}
+{"kind":"textbox","id":"sh/d0bi98vi","slide":8,"text":"affects","textPreview":"affects","textChars":7,"textLines":1,"bbox":[513,408,74,24]}
+{"kind":"textbox","id":"sh/oru1cb6p","slide":8,"text":"choices indirectly","textPreview":"choices indirectly","textChars":18,"textLines":1,"bbox":[589,406,178,34]}
+{"kind":"shape","id":"sh/wzmt0nyx","slide":8,"bbox":[513,446,254,1]}
+{"kind":"textbox","id":"sh/nyxsrids","slide":8,"text":"timing","textPreview":"timing","textChars":6,"textLines":1,"bbox":[513,462,74,24]}
+{"kind":"textbox","id":"sh/ts76d4zu","slide":8,"text":"during development","textPreview":"during development","textChars":18,"textLines":1,"bbox":[589,460,178,34]}
+{"kind":"shape","id":"sh/vmdojaxk","slide":8,"bbox":[844,184,314,372]}
+{"kind":"textbox","id":"sh/c7ytg3e9","slide":8,"text":"test","textPreview":"test","textChars":4,"textLines":1,"bbox":[866,212,270,36]}
+{"kind":"textbox","id":"sh/a5orqpwb","slide":8,"text":"estimate final score","textPreview":"estimate final score","textChars":20,"textLines":1,"bbox":[868,270,266,52]}
+{"kind":"textbox","id":"sh/3uh07ixk","slide":8,"text":"uses","textPreview":"uses","textChars":4,"textLines":1,"bbox":[874,354,74,24]}
+{"kind":"textbox","id":"sh/lgvqxgnu","slide":8,"text":"unseen examples","textPreview":"unseen examples","textChars":15,"textLines":1,"bbox":[950,352,178,34]}
+{"kind":"shape","id":"sh/3u50fm1k","slide":8,"bbox":[874,392,254,1]}
+{"kind":"textbox","id":"sh/3qtgzixc","slide":8,"text":"affects","textPreview":"affects","textChars":7,"textLines":1,"bbox":[874,408,74,24]}
+{"kind":"textbox","id":"sh/v25gvqtg","slide":8,"text":"nothing","textPreview":"nothing","textChars":7,"textLines":1,"bbox":[950,406,178,34]}
+{"kind":"shape","id":"sh/qhk7ahg3","slide":8,"bbox":[874,446,254,1]}
+{"kind":"textbox","id":"sh/zut0nqd0","slide":8,"text":"timing","textPreview":"timing","textChars":6,"textLines":1,"bbox":[874,462,74,24]}
+{"kind":"textbox","id":"sh/mdsvu98n","slide":8,"text":"after all choices","textPreview":"after all choices","textChars":17,"textLines":1,"bbox":[950,460,178,34]}
+{"kind":"shape","id":"sh/jihorel0","slide":8,"bbox":[444,370,30,1]}
+{"kind":"shape","id":"sh/2l8va9oj","slide":8,"bbox":[805,370,30,1]}
+{"kind":"textbox","id":"sh/s32hgzap","slide":8,"text":"validation is a development check; test is the final check","textPreview":"validation is a development check; test is the final check","textChars":58,"textLines":1,"bbox":[292,580,700,30]}
+{"kind":"textbox","id":"sh/b2dojyt0","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources]\nEducational synthesis based on standard train/validation/test model evaluation practice.\nTrain data is used to fit parameters. Validation data is used for model selection and hyperparameter tuning, so it can influence the development process. Test data is held out until the end to estimate final generalization."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Regression","textShapes":19}
+{"kind":"textbox","id":"sh/43u9g3al","slide":9,"text":"Regression","textPreview":"Regression","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/uhoj6lcf","slide":9,"text":"Train, validation, and test reveal fit quality","textPreview":"Train, validation, and test reveal fit quality","textChars":46,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"textbox","id":"sh/1k3ul4vy","slide":9,"text":"train","textPreview":"train","textChars":5,"textLines":1,"bbox":[122,154,250,72]}
+{"kind":"textbox","id":"sh/dsza10z2","slide":9,"text":"fit weights","textPreview":"fit weights","textChars":11,"textLines":1,"bbox":[122,236,250,28]}
+{"kind":"shape","id":"sh/ryxwzqxg","slide":9,"bbox":[394,190,66,1]}
+{"kind":"textbox","id":"sh/14f2p0n2","slide":9,"text":"validation","textPreview":"validation","textChars":10,"textLines":1,"bbox":[482,154,250,72]}
+{"kind":"textbox","id":"sh/5gvu5sv6","slide":9,"text":"choose model","textPreview":"choose model","textChars":12,"textLines":1,"bbox":[482,236,250,28]}
+{"kind":"shape","id":"sh/a50v25wv","slide":9,"bbox":[754,190,66,1]}
+{"kind":"textbox","id":"sh/d8ruxon6","slide":9,"text":"test","textPreview":"test","textChars":4,"textLines":1,"bbox":[842,154,250,72]}
+{"kind":"textbox","id":"sh/epcj2pk3","slide":9,"text":"final check","textPreview":"final check","textChars":11,"textLines":1,"bbox":[842,236,250,28]}
+{"kind":"shape","id":"sh/sr2t8vep","slide":9,"bbox":[74,288,1132,348]}
+{"kind":"shape","id":"sh/zipwfql0","slide":9,"bbox":[120,593,1035,1]}
+{"kind":"shape","id":"sh/hona9cbq","slide":9,"bbox":[120,328,1,265]}
+{"kind":"textbox","id":"sh/4v25ozix","slide":9,"text":"model complexity","textPreview":"model complexity","textChars":16,"textLines":1,"bbox":[494,605,300,28]}
+{"kind":"textbox","id":"sh/wbqhgf6t","slide":9,"text":"error","textPreview":"error","textChars":5,"textLines":1,"bbox":[78,316,70,28]}
+{"kind":"textbox","id":"sh/nqx4vu5c","slide":9,"text":"train error","textPreview":"train error","textChars":11,"textLines":1,"bbox":[938,552,150,28]}
+{"kind":"textbox","id":"sh/7et0fydo","slide":9,"text":"validation error","textPreview":"validation error","textChars":16,"textLines":1,"bbox":[935,336,190,28]}
+{"kind":"textbox","id":"sh/cjuxkvud","slide":9,"text":"underfitting","textPreview":"underfitting","textChars":12,"textLines":1,"bbox":[80,294,230,30]}
+{"kind":"textbox","id":"sh/p0badcjq","slide":9,"text":"both errors high","textPreview":"both errors high","textChars":16,"textLines":1,"bbox":[80,566,230,28]}
+{"kind":"textbox","id":"sh/jatoz6pc","slide":9,"text":"best fit","textPreview":"best fit","textChars":8,"textLines":1,"bbox":[450,294,230,30]}
+{"kind":"textbox","id":"sh/kn6tkbe9","slide":9,"text":"validation lowest","textPreview":"validation lowest","textChars":17,"textLines":1,"bbox":[450,566,230,28]}
+{"kind":"textbox","id":"sh/8zypojul","slide":9,"text":"overfitting","textPreview":"overfitting","textChars":11,"textLines":1,"bbox":[797,294,230,30]}
+{"kind":"textbox","id":"sh/7qhoryt4","slide":9,"text":"gap opens","textPreview":"gap opens","textChars":9,"textLines":1,"bbox":[797,566,230,28]}
+{"kind":"textbox","id":"sh/e1onm1kf","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/tk7qh0vy","slide":9,"name":"solidguide_normal","bbox":[195,336,1,257]}
+{"kind":"shape","id":"sh/ry1gju14","slide":9,"name":"solidguide_normal","bbox":[565,336,1,257]}
+{"kind":"image","id":"im/3elo7ylg","slide":9,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources]\nEducational synthesis based on standard machine learning train/validation/test evaluation concepts."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Partial derivatives","textShapes":10}
+{"kind":"textbox","id":"sh/oj6xcj29","slide":10,"text":"Partial derivatives","textPreview":"Partial derivatives","textChars":19,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/3ihszixk","slide":10,"text":"Partial derivatives: one variable at a time","textPreview":"Partial derivatives: one variable at a time","textChars":43,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/gzq1g32h","slide":10,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/u1ovq1sr","slide":10,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[160,410,58,58]}
+{"kind":"textbox","id":"sh/gryd4zyl","slide":10,"text":"Choose the variable","textPreview":"Choose the variable","textChars":19,"textLines":1,"bbox":[235,420,250,34]}
+{"kind":"textbox","id":"sh/kzypgj69","slide":10,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[160,495,58,58]}
+{"kind":"textbox","id":"sh/b6pozitw","slide":10,"text":"Treat the other variable as a constant","textPreview":"Treat the other variable as a constant","textChars":38,"textLines":1,"bbox":[235,505,485,34]}
+{"kind":"textbox","id":"sh/a9gfqx0z","slide":10,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[760,452,58,58]}
+{"kind":"textbox","id":"sh/0j690fml","slide":10,"text":"Differentiate normally","textPreview":"Differentiate normally","textChars":22,"textLines":1,"bbox":[835,462,300,34]}
+{"kind":"textbox","id":"sh/9k329gfe","slide":10,"text":"Partial derivative = slope with respect to one variable.","textPreview":"Partial derivative = slope with respect to one variable.","textChars":56,"textLines":1,"bbox":[245,600,790,34]}
+{"kind":"textbox","id":"sh/vydkjqhk","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/hcbup87a","slide":10,"name":"","bbox":[115,171.25,1050,187.5]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Gradient descent","textShapes":7}
+{"kind":"textbox","id":"sh/0rqtcnu5","slide":11,"text":"Gradient descent","textPreview":"Gradient descent","textChars":16,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/18n6lwfa","slide":11,"text":"Gradient descent changes w and b","textPreview":"Gradient descent changes w and b","textChars":32,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/7m983ulk","slide":11,"bbox":[62.15,163.1,1152,500]}
+{"kind":"shape","id":"sh/2x83yhcz","slide":11,"bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/ul43md4f","slide":11,"bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/l8butgbu","slide":11,"text":"parameter","textPreview":"parameter","textChars":9,"textLines":1,"bbox":[495,590,160,26]}
+{"kind":"textbox","id":"sh/g3mlwz6d","slide":11,"text":"MSE","textPreview":"MSE","textChars":3,"textLines":1,"bbox":[125,380,60,26]}
+{"kind":"shape","id":"sh/e5kf69gf","slide":11,"bbox":[780,450.33,26,26]}
+{"kind":"shape","id":"sh/p836dwnm","slide":11,"bbox":[673.47,390.98,243.02,148.13]}
+{"kind":"shape","id":"sh/wnep4zy5","slide":11,"bbox":[683.2,495.23,22,22]}
+{"kind":"shape","id":"sh/bel0fu5o","slide":11,"bbox":[607.2,511.36,22,22]}
+{"kind":"textbox","id":"sh/t4vixwfm","slide":11,"text":"tangent line","textPreview":"tangent line","textChars":12,"textLines":1,"bbox":[888,373.78,170,28]}
+{"kind":"textbox","id":"sh/p8fulo3i","slide":11,"text":"lower MSE","textPreview":"lower MSE","textChars":9,"textLines":1,"bbox":[785,500,160,30]}
+{"kind":"textbox","id":"sh/y1kjihob","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/qpsbepgv","slide":11,"bbox":[584.6,469.46,261.01,70.4]}
+{"kind":"shape","id":"sh/2donqx07","slide":11,"bbox":[466.2,507.29,323,29.07]}
+{"kind":"image","id":"im/t8vat0zu","slide":11,"name":"","bbox":[190,165.35,845,69.29]}
+{"kind":"image","id":"im/s7mtkvy9","slide":11,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Learning rate","textShapes":9}
+{"kind":"textbox","id":"sh/3qxkv21w","slide":12,"text":"Learning rate","textPreview":"Learning rate","textChars":13,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/4r69wvul","slide":12,"text":"Learning rate controls the step","textPreview":"Learning rate controls the step","textChars":31,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/a1wji9of","slide":12,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/m9sve9ov","slide":12,"bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/i9svitcb","slide":12,"bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/6h8zu90z","slide":12,"text":"parameter","textPreview":"parameter","textChars":9,"textLines":1,"bbox":[495,590,160,26]}
+{"kind":"textbox","id":"sh/147y1wnu","slide":12,"text":"MSE","textPreview":"MSE","textChars":3,"textLines":1,"bbox":[125,380,60,26]}
+{"kind":"shape","id":"sh/bup0rudk","slide":12,"bbox":[795.2,441.53,26,26]}
+{"kind":"shape","id":"sh/fy5oz6hs","slide":12,"bbox":[767.8,461.54,20,20]}
+{"kind":"shape","id":"sh/j658nehc","slide":12,"bbox":[644.2,504.13,24,24]}
+{"kind":"shape","id":"sh/vad83u98","slide":12,"bbox":[401,480.66,24,24]}
+{"kind":"textbox","id":"sh/jahk3e58","slide":12,"text":"small α","textPreview":"small α","textChars":7,"textLines":1,"bbox":[995,300,140,54]}
+{"kind":"textbox","id":"sh/alwv21kj","slide":12,"text":"good α","textPreview":"good α","textChars":6,"textLines":1,"bbox":[995,375,140,54]}
+{"kind":"textbox","id":"sh/3i1wfe50","slide":12,"text":"too large","textPreview":"too large","textChars":9,"textLines":1,"bbox":[995,450,140,54]}
+{"kind":"textbox","id":"sh/ze9gfuls","slide":12,"text":"α is the learning rate","textPreview":"α is the learning rate","textChars":22,"textLines":1,"bbox":[320,182,560,40]}
+{"kind":"textbox","id":"sh/1gnilkbi","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/b6hozihw","slide":12,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Optimization","textShapes":12}
+{"kind":"textbox","id":"sh/exsf250f","slide":13,"text":"Optimization","textPreview":"Optimization","textChars":12,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/5gvihwbi","slide":13,"text":"Annealing reduces randomness over time","textPreview":"Annealing reduces randomness over time","textChars":38,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/fy5k3qp0","slide":13,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/2pw361sf","slide":13,"text":"loss landscape","textPreview":"loss landscape","textChars":14,"textLines":1,"bbox":[132,220,220,30]}
+{"kind":"shape","id":"sh/ydcr6p8j","slide":13,"bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/z2lk7q5c","slide":13,"text":"annealing","textPreview":"annealing","textChars":9,"textLines":1,"bbox":[856,240,190,30]}
+{"kind":"textbox","id":"sh/i5krut03","slide":13,"text":"temperature / learning rate","textPreview":"temperature / learning rate","textChars":27,"textLines":1,"bbox":[856,276,250,24]}
+{"kind":"shape","id":"sh/h832907m","slide":13,"bbox":[884,322,1,136]}
+{"kind":"shape","id":"sh/wv6pcf6h","slide":13,"bbox":[884,458,234,1]}
+{"kind":"textbox","id":"sh/va9cvmhc","slide":13,"text":"high","textPreview":"high","textChars":4,"textLines":1,"bbox":[838,312,50,22]}
+{"kind":"textbox","id":"sh/ihcr2dw3","slide":13,"text":"low","textPreview":"low","textChars":3,"textLines":1,"bbox":[838,446,50,22]}
+{"kind":"textbox","id":"sh/sfyxov2l","slide":13,"text":"time","textPreview":"time","textChars":4,"textLines":1,"bbox":[960,484,80,22]}
+{"kind":"shape","id":"sh/25s7a5wz","slide":13,"bbox":[903.5,343.5,17,17]}
+{"kind":"shape","id":"sh/zitgfet0","slide":13,"bbox":[1087.5,437.5,17,17]}
+{"kind":"textbox","id":"sh/98vet8n6","slide":13,"text":"explore","textPreview":"explore","textChars":7,"textLines":1,"bbox":[896,474,90,26]}
+{"kind":"textbox","id":"sh/tg3e14fa","slide":13,"text":"settle","textPreview":"settle","textChars":6,"textLines":1,"bbox":[1036,474,80,26]}
+{"kind":"textbox","id":"sh/43qx8nyl","slide":13,"text":"early search is wide; later updates become stable","textPreview":"early search is wide; later updates become stable","textChars":49,"textLines":1,"bbox":[306,570,680,34]}
+{"kind":"textbox","id":"sh/t8rqhwbm","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/m5c3el4z","slide":13,"name":"","bbox":[112,206,668,336]}
+{"kind":"image","id":"im/9832p0nq","slide":13,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources]\n3D loss landscape image provided by user: https://miro.medium.com/v2/resize:fit:1400/1*_SYK3prTMdNrTW98Uic4Pg.jpeg\nEducational synthesis based on simulated annealing and learning-rate scheduling concepts.\n\n어닐링 그래프는 “처음에는 크게 탐색하고, 시간이 갈수록 조심스럽게 수렴한다”는 뜻입니다.\n가로축 time: 학습이 진행되는 시간 또는 step\n세로축 temperature / learning rate: 움직임의 크기 또는 랜덤성\n처음, 주황색 explore 구간에서는 값이 높습니다. 그래서 모델이 크게 움직이거나 더 랜덤하게 탐색합니다. 이때는 좋은 방향을 넓게 찾는 단계입니다.\n시간이 지나면 파란 곡선이 내려갑니다. 즉 learning rate나 temperature를 줄입니다. 그러면 업데이트 폭이 작아지고, 모델이 더 안정적으로 움직입니다.\n마지막, 초록색 settle 구간에서는 값이 낮습니다. 이미 찾은 좋은 해 근처에서 미세 조정하는 단계입니다.\n요약하면:\nhigh randomness / large step -> wide search\nlow randomness / small step -> stable convergence\n그래서 슬라이드 문장인 “early search is wide; later updates become stable”은 어닐링의 핵심을 말하는 겁니다."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Line search","textShapes":8}
+{"kind":"textbox","id":"sh/ixgji9sr","slide":14,"text":"Line search","textPreview":"Line search","textChars":11,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/76p43qh8","slide":14,"text":"Backtracking line search shrinks bad steps","textPreview":"Backtracking line search shrinks bad steps","textChars":42,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/sjytorm9","slide":14,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/94vmd4zq","slide":14,"bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/uh8ny1or","slide":14,"bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/jm1sfa18","slide":14,"text":"parameter","textPreview":"parameter","textChars":9,"textLines":1,"bbox":[495,590,160,26]}
+{"kind":"textbox","id":"sh/lo3qd0vm","slide":14,"text":"MSE","textPreview":"MSE","textChars":3,"textLines":1,"bbox":[125,380,60,26]}
+{"kind":"shape","id":"sh/ojmhgfe9","slide":14,"bbox":[780,450.33,26,26]}
+{"kind":"shape","id":"sh/zqlsfaxk","slide":14,"bbox":[370.6,467.17,24,24]}
+{"kind":"shape","id":"sh/nix43axk","slide":14,"bbox":[606.2,510.36,24,24]}
+{"kind":"textbox","id":"sh/oj25cj25","slide":14,"text":"reject","textPreview":"reject","textChars":6,"textLines":1,"bbox":[470,310,120,28]}
+{"kind":"textbox","id":"sh/83mlszap","slide":14,"text":"accept","textPreview":"accept","textChars":6,"textLines":1,"bbox":[760,420,120,28]}
+{"kind":"textbox","id":"sh/7el8j6lg","slide":14,"text":"α → α/2","textPreview":"α → α/2","textChars":7,"textLines":1,"bbox":[995,380,145,62]}
+{"kind":"textbox","id":"sh/don6x07i","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/1c769oze","slide":14,"name":"","bbox":[196.86,160,816.28,78]}
+{"kind":"image","id":"im/gbypgjit","slide":14,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Calculus","textShapes":8}
+{"kind":"textbox","id":"sh/ihsfu14r","slide":15,"text":"Calculus","textPreview":"Calculus","textChars":8,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/ytovap4f","slide":15,"text":"The chain rule connects causes","textPreview":"The chain rule connects causes","textChars":30,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/lcnitoni","slide":15,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/bylw7its","slide":15,"text":"x","textPreview":"x","textChars":1,"textLines":1,"bbox":[160,340,150,76]}
+{"kind":"shape","id":"sh/7a507m9g","slide":15,"bbox":[325,356,70,42]}
+{"kind":"textbox","id":"sh/ofqd0fql","slide":15,"text":"z = wx + b","textPreview":"z = wx + b","textChars":10,"textLines":1,"bbox":[365,340,170,76]}
+{"kind":"shape","id":"sh/udszmpcn","slide":15,"bbox":[550,356,70,42]}
+{"kind":"textbox","id":"sh/excnaxgn","slide":15,"text":"a = f(z)","textPreview":"a = f(z)","textChars":8,"textLines":1,"bbox":[570,340,150,76]}
+{"kind":"shape","id":"sh/1or6to7u","slide":15,"bbox":[735,356,70,42]}
+{"kind":"textbox","id":"sh/4fadsvut","slide":15,"text":"prediction","textPreview":"prediction","textChars":10,"textLines":1,"bbox":[775,340,150,76]}
+{"kind":"shape","id":"sh/mxk321sf","slide":15,"bbox":[940,356,70,42]}
+{"kind":"textbox","id":"sh/a9oba50v","slide":15,"text":"loss","textPreview":"loss","textChars":4,"textLines":1,"bbox":[980,340,150,76]}
+{"kind":"textbox","id":"sh/hsji5cnu","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/cz294rad","slide":15,"name":"","bbox":[150,474,980,96]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Parallel math","textShapes":8}
+{"kind":"textbox","id":"sh/103ih03m","slide":16,"text":"Parallel math","textPreview":"Parallel math","textChars":13,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/z2dkn2ts","slide":16,"text":"Matrices move many numbers at once","textPreview":"Matrices move many numbers at once","textChars":34,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/dcb6ts3y","slide":16,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/5svi5wj2","slide":16,"bbox":[210,255,34,34]}
+{"kind":"shape","id":"sh/x8rq5s72","slide":16,"bbox":[252,255,34,34]}
+{"kind":"shape","id":"sh/u1krqdc3","slide":16,"bbox":[294,255,34,34]}
+{"kind":"shape","id":"sh/zuhgv658","slide":16,"bbox":[210,297,34,34]}
+{"kind":"shape","id":"sh/ydo36xcr","slide":16,"bbox":[252,297,34,34]}
+{"kind":"shape","id":"sh/b25sbilw","slide":16,"bbox":[294,297,34,34]}
+{"kind":"shape","id":"sh/xwrytgvi","slide":16,"bbox":[210,339,34,34]}
+{"kind":"shape","id":"sh/r294zqlw","slide":16,"bbox":[252,339,34,34]}
+{"kind":"shape","id":"sh/m10zmlsr","slide":16,"bbox":[294,339,34,34]}
+{"kind":"shape","id":"sh/hknm5c3y","slide":16,"bbox":[210,381,34,34]}
+{"kind":"shape","id":"sh/krmpgz25","slide":16,"bbox":[252,381,34,34]}
+{"kind":"shape","id":"sh/1ozilwfy","slide":16,"bbox":[294,381,34,34]}
+{"kind":"textbox","id":"sh/nul4fm1g","slide":16,"text":"X","textPreview":"X","textChars":1,"textLines":1,"bbox":[210,435,126,32]}
+{"kind":"textbox","id":"sh/2l0fm5o3","slide":16,"text":"x","textPreview":"x","textChars":1,"textLines":1,"bbox":[375,318,40,40]}
+{"kind":"shape","id":"sh/idozqx8n","slide":16,"bbox":[455,215,34,34]}
+{"kind":"shape","id":"sh/r618rmp8","slide":16,"bbox":[497,215,34,34]}
+{"kind":"shape","id":"sh/by9g729c","slide":16,"bbox":[539,215,34,34]}
+{"kind":"shape","id":"sh/ml4zahgj","slide":16,"bbox":[581,215,34,34]}
+{"kind":"shape","id":"sh/8fqdczup","slide":16,"bbox":[623,215,34,34]}
+{"kind":"shape","id":"sh/zmtknyhc","slide":16,"bbox":[455,257,34,34]}
+{"kind":"shape","id":"sh/w7q9gvqt","slide":16,"bbox":[497,257,34,34]}
+{"kind":"shape","id":"sh/gj29sr25","slide":16,"bbox":[539,257,34,34]}
+{"kind":"shape","id":"sh/72dcrap0","slide":16,"bbox":[581,257,34,34]}
+{"kind":"shape","id":"sh/wn61sni9","slide":16,"bbox":[623,257,34,34]}
+{"kind":"shape","id":"sh/cfq9cbyl","slide":16,"bbox":[455,299,34,34]}
+{"kind":"shape","id":"sh/e1cnil8n","slide":16,"bbox":[497,299,34,34]}
+{"kind":"shape","id":"sh/tkrqdsjm","slide":16,"bbox":[539,299,34,34]}
+{"kind":"shape","id":"sh/d0byhc7m","slide":16,"bbox":[581,299,34,34]}
+{"kind":"shape","id":"sh/6dwrqp8j","slide":16,"bbox":[623,299,34,34]}
+{"kind":"textbox","id":"sh/t4zu9ovi","slide":16,"text":"W","textPreview":"W","textChars":1,"textLines":1,"bbox":[455,353,210,32]}
+{"kind":"textbox","id":"sh/d47a9knm","slide":16,"text":"=","textPreview":"=","textChars":1,"textLines":1,"bbox":[705,318,40,40]}
+{"kind":"shape","id":"sh/etgz210n","slide":16,"bbox":[785,255,34,34]}
+{"kind":"shape","id":"sh/gf2p03ml","slide":16,"bbox":[827,255,34,34]}
+{"kind":"shape","id":"sh/elkfepc3","slide":16,"bbox":[869,255,34,34]}
+{"kind":"shape","id":"sh/1cvyl4n2","slide":16,"bbox":[911,255,34,34]}
+{"kind":"shape","id":"sh/ypk7y1sj","slide":16,"bbox":[953,255,34,34]}
+{"kind":"shape","id":"sh/fe9k7mp0","slide":16,"bbox":[785,297,34,34]}
+{"kind":"shape","id":"sh/0fyd8j6x","slide":16,"bbox":[827,297,34,34]}
+{"kind":"shape","id":"sh/07mdk769","slide":16,"bbox":[869,297,34,34]}
+{"kind":"shape","id":"sh/t87i1onq","slide":16,"bbox":[911,297,34,34]}
+{"kind":"shape","id":"sh/5w7apgfe","slide":16,"bbox":[953,297,34,34]}
+{"kind":"shape","id":"sh/6pwrulg7","slide":16,"bbox":[785,339,34,34]}
+{"kind":"shape","id":"sh/buh4fmh4","slide":16,"bbox":[827,339,34,34]}
+{"kind":"shape","id":"sh/kv6dofah","slide":16,"bbox":[869,339,34,34]}
+{"kind":"shape","id":"sh/zy5s3q1o","slide":16,"bbox":[911,339,34,34]}
+{"kind":"shape","id":"sh/zetcrylg","slide":16,"bbox":[953,339,34,34]}
+{"kind":"shape","id":"sh/mh4rmd8f","slide":16,"bbox":[785,381,34,34]}
+{"kind":"shape","id":"sh/ahoju50n","slide":16,"bbox":[827,381,34,34]}
+{"kind":"shape","id":"sh/nqlozap0","slide":16,"bbox":[869,381,34,34]}
+{"kind":"shape","id":"sh/pkfe1cba","slide":16,"bbox":[911,381,34,34]}
+{"kind":"shape","id":"sh/pgbe1cfy","slide":16,"bbox":[953,381,34,34]}
+{"kind":"textbox","id":"sh/07ihkzu1","slide":16,"text":"Y","textPreview":"Y","textChars":1,"textLines":1,"bbox":[785,435,210,32]}
+{"kind":"textbox","id":"sh/gzihkfyp","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"Neural networks","textShapes":12}
+{"kind":"textbox","id":"sh/u5w3alwv","slide":17,"text":"Neural networks","textPreview":"Neural networks","textChars":15,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/6pwrmtgf","slide":17,"text":"A neuron is a tiny calculator","textPreview":"A neuron is a tiny calculator","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/p0fehcze","slide":17,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/0v6h03ip","slide":17,"text":"x1","textPreview":"x1","textChars":2,"textLines":1,"bbox":[196,226,68,68]}
+{"kind":"shape","id":"sh/lk3al4n6","slide":17,"bbox":[265,260,280,100]}
+{"kind":"textbox","id":"sh/horilw7y","slide":17,"text":"w1","textPreview":"w1","textChars":2,"textLines":1,"bbox":[355,236,50,24]}
+{"kind":"textbox","id":"sh/0vudcfql","slide":17,"text":"x2","textPreview":"x2","textChars":2,"textLines":1,"bbox":[196,326,68,68]}
+{"kind":"shape","id":"sh/cz6lwnqx","slide":17,"bbox":[265,360,280,1]}
+{"kind":"textbox","id":"sh/md4ve1o7","slide":17,"text":"w2","textPreview":"w2","textChars":2,"textLines":1,"bbox":[355,336,50,24]}
+{"kind":"textbox","id":"sh/jupwzq18","slide":17,"text":"x3","textPreview":"x3","textChars":2,"textLines":1,"bbox":[196,426,68,68]}
+{"kind":"shape","id":"sh/elw3654j","slide":17,"bbox":[265,360,280,100]}
+{"kind":"textbox","id":"sh/10bihknq","slide":17,"text":"w3","textPreview":"w3","textChars":2,"textLines":1,"bbox":[355,436,50,24]}
+{"kind":"textbox","id":"sh/ofyx4n6t","slide":17,"text":"sum","textPreview":"sum","textChars":3,"textLines":1,"bbox":[530,290,140,140]}
+{"kind":"textbox","id":"sh/h8j6loby","slide":17,"text":"f","textPreview":"f","textChars":1,"textLines":1,"bbox":[690,338,120,44]}
+{"kind":"textbox","id":"sh/ylwfq5o7","slide":17,"text":"output","textPreview":"output","textChars":6,"textLines":1,"bbox":[842,302,116,116]}
+{"kind":"textbox","id":"sh/t0fexgv6","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"Depth","textShapes":7}
+{"kind":"textbox","id":"sh/qpgb2x0b","slide":18,"text":"Depth","textPreview":"Depth","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/xkfapkze","slide":18,"text":"A network stacks many neurons","textPreview":"A network stacks many neurons","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/ahcjy94r","slide":18,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/rypsvapw","slide":18,"bbox":[206,231,48,48]}
+{"kind":"shape","id":"sh/srqtkby5","slide":18,"bbox":[206,361,48,48]}
+{"kind":"shape","id":"sh/snexgz6p","slide":18,"bbox":[206,491,48,48]}
+{"kind":"shape","id":"sh/lon2pony","slide":18,"bbox":[456,231,48,48]}
+{"kind":"shape","id":"sh/4ji1c7mt","slide":18,"bbox":[456,296,48,48]}
+{"kind":"shape","id":"sh/654jyhkz","slide":18,"bbox":[456,361,48,48]}
+{"kind":"shape","id":"sh/4ny5oba9","slide":18,"bbox":[456,426,48,48]}
+{"kind":"shape","id":"sh/vm9ofid0","slide":18,"bbox":[456,491,48,48]}
+{"kind":"shape","id":"sh/y5gje1k7","slide":18,"bbox":[716,231,48,48]}
+{"kind":"shape","id":"sh/9s32dcvy","slide":18,"bbox":[716,296,48,48]}
+{"kind":"shape","id":"sh/87ap4r21","slide":18,"bbox":[716,361,48,48]}
+{"kind":"shape","id":"sh/4nyhgv29","slide":18,"bbox":[716,426,48,48]}
+{"kind":"shape","id":"sh/gzexkre1","slide":18,"bbox":[716,491,48,48]}
+{"kind":"shape","id":"sh/gfelgral","slide":18,"bbox":[976,231,48,48]}
+{"kind":"shape","id":"sh/kjqdwf6h","slide":18,"bbox":[976,491,48,48]}
+{"kind":"textbox","id":"sh/mt43ad8r","slide":18,"text":"input","textPreview":"input","textChars":5,"textLines":1,"bbox":[165,560,130,28]}
+{"kind":"textbox","id":"sh/ji507up0","slide":18,"text":"hidden","textPreview":"hidden","textChars":6,"textLines":1,"bbox":[415,560,130,28]}
+{"kind":"textbox","id":"sh/9cnat872","slide":18,"text":"hidden","textPreview":"hidden","textChars":6,"textLines":1,"bbox":[675,560,130,28]}
+{"kind":"textbox","id":"sh/8z6pkzul","slide":18,"text":"output","textPreview":"output","textChars":6,"textLines":1,"bbox":[935,560,130,28]}
+{"kind":"textbox","id":"sh/143654ri","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"shape","id":"sh/gz6dc7ap","slide":18,"bbox":[254,255,202,0]}
+{"kind":"shape","id":"sh/v2tc7yt0","slide":18,"bbox":[254,255,202,65]}
+{"kind":"shape","id":"sh/uhkbydcf","slide":18,"bbox":[254,255,202,130]}
+{"kind":"shape","id":"sh/yxsf6lc3","slide":18,"bbox":[254,255,202,195]}
+{"kind":"shape","id":"sh/zy1wf6do","slide":18,"bbox":[254,255,202,260]}
+{"kind":"shape","id":"sh/kzax8bu9","slide":18,"bbox":[254,255,202,130]}
+{"kind":"shape","id":"sh/l0jehgvu","slide":18,"bbox":[254,320,202,65]}
+{"kind":"shape","id":"sh/at8f21c7","slide":18,"bbox":[254,385,202,0]}
+{"kind":"shape","id":"sh/buhwb6ds","slide":18,"bbox":[254,385,202,65]}
+{"kind":"shape","id":"sh/cvqx4bux","slide":18,"bbox":[254,385,202,130]}
+{"kind":"shape","id":"sh/xwjedgvi","slide":18,"bbox":[254,255,202,260]}
+{"kind":"shape","id":"sh/258fy1cv","slide":18,"bbox":[254,320,202,195]}
+{"kind":"shape","id":"sh/n6hw7mdg","slide":18,"bbox":[254,385,202,130]}
+{"kind":"shape","id":"sh/5knid4fy","slide":18,"bbox":[254,450,202,65]}
+{"kind":"shape","id":"sh/4jeh4zed","slide":18,"bbox":[254,515,202,0]}
+{"kind":"shape","id":"sh/ji50bux8","slide":18,"bbox":[504,255,212,0]}
+{"kind":"shape","id":"sh/ixwz2pwn","slide":18,"bbox":[504,255,212,65]}
+{"kind":"shape","id":"sh/hwni9kf2","slide":18,"bbox":[504,255,212,130]}
+{"kind":"shape","id":"sh/wveh0feh","slide":18,"bbox":[504,255,212,195]}
+{"kind":"shape","id":"sh/vul07axw","slide":18,"bbox":[504,255,212,260]}
+{"kind":"shape","id":"sh/utczy5wb","slide":18,"bbox":[504,255,212,65]}
+{"kind":"shape","id":"sh/9s3i5kfq","slide":18,"bbox":[504,320,212,0]}
+{"kind":"shape","id":"sh/8ruhwfe5","slide":18,"bbox":[504,320,212,65]}
+{"kind":"shape","id":"sh/k765obqt","slide":18,"bbox":[504,320,212,130]}
+{"kind":"shape","id":"sh/lsfmhgry","slide":18,"bbox":[504,320,212,195]}
+{"kind":"shape","id":"sh/y54nml8n","slide":18,"bbox":[504,255,212,130]}
+{"kind":"shape","id":"sh/z6x4fq98","slide":18,"bbox":[504,320,212,65]}
+{"kind":"shape","id":"sh/8v65svqp","slide":18,"bbox":[504,385,212,0]}
+{"kind":"shape","id":"sh/twfml0ra","slide":18,"bbox":[504,385,212,65]}
+{"kind":"shape","id":"sh/mtonql8j","slide":18,"bbox":[504,385,212,130]}
+{"kind":"shape","id":"sh/7ux4jq94","slide":18,"bbox":[504,255,212,195]}
+{"kind":"shape","id":"sh/gzq5wvql","slide":18,"bbox":[504,320,212,130]}
+{"kind":"shape","id":"sh/h0z6p0r6","slide":18,"bbox":[504,385,212,65]}
+{"kind":"shape","id":"sh/ru18vuto","slide":18,"bbox":[504,450,212,0]}
+{"kind":"shape","id":"sh/qts7m9s3","slide":18,"bbox":[504,450,212,65]}
+{"kind":"shape","id":"sh/dwjqx4be","slide":18,"bbox":[504,255,212,260]}
+{"kind":"shape","id":"sh/svapozat","slide":18,"bbox":[504,320,212,195]}
+{"kind":"shape","id":"sh/3q18rutc","slide":18,"bbox":[504,385,212,130]}
+{"kind":"shape","id":"sh/ips7ipsr","slide":18,"bbox":[504,450,212,65]}
+{"kind":"shape","id":"sh/5sjqt4bi","slide":18,"bbox":[504,515,212,0]}
+{"kind":"shape","id":"sh/4rapkzax","slide":18,"bbox":[764,255,212,0]}
+{"kind":"shape","id":"sh/nml8netg","slide":18,"bbox":[764,255,212,260]}
+{"kind":"shape","id":"sh/2lc7utsb","slide":18,"bbox":[764,255,212,65]}
+{"kind":"shape","id":"sh/n2pkr6xs","slide":18,"bbox":[764,320,212,195]}
+{"kind":"shape","id":"sh/m1w3y1gn","slide":18,"bbox":[764,255,212,130]}
+{"kind":"shape","id":"sh/9472tgfy","slide":18,"bbox":[764,385,212,130]}
+{"kind":"shape","id":"sh/o3yl0byd","slide":18,"bbox":[764,255,212,195]}
+{"kind":"shape","id":"sh/b6pkvqx4","slide":18,"bbox":[764,450,212,65]}
+{"kind":"shape","id":"sh/a5g32lgj","slide":18,"bbox":[764,255,212,260]}
+{"kind":"shape","id":"sh/x872xgfa","slide":18,"bbox":[764,515,212,0]}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"Vision","textShapes":3}
+{"kind":"textbox","id":"sh/58fqp47a","slide":19,"text":"Vision","textPreview":"Vision","textChars":6,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/epoj2d0j","slide":19,"text":"CNNs reuse filters to find local patterns","textPreview":"CNNs reuse filters to find local patterns","textChars":41,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/qx8vip4j","slide":19,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/8buds7ax","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/03yhczml","slide":19,"name":"","bbox":[172,170.04,936,439.92]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"[Sources]\nCNN overview and claims about local connectivity, feature maps, pooling, and parameter sharing: https://developersbreach.com/convolution-neural-network-deep-learning/\nCNN architecture image supplied by the user: https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1"}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"Training","textShapes":10}
+{"kind":"textbox","id":"sh/1knm50fy","slide":20,"text":"Training","textPreview":"Training","textChars":8,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/gvihgny5","slide":20,"text":"Backprop sends error backward","textPreview":"Backprop sends error backward","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/ulsva50n","slide":20,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/wfqpw765","slide":20,"text":"input","textPreview":"input","textChars":5,"textLines":1,"bbox":[130,320,145,78]}
+{"kind":"textbox","id":"sh/vehw7yp0","slide":20,"text":"hidden","textPreview":"hidden","textChars":6,"textLines":1,"bbox":[345,320,145,78]}
+{"kind":"textbox","id":"sh/ts7edsvu","slide":20,"text":"hidden","textPreview":"hidden","textChars":6,"textLines":1,"bbox":[560,320,145,78]}
+{"kind":"textbox","id":"sh/ilcjqdsb","slide":20,"text":"output","textPreview":"output","textChars":6,"textLines":1,"bbox":[775,320,145,78]}
+{"kind":"textbox","id":"sh/zil0j69c","slide":20,"text":"loss","textPreview":"loss","textChars":4,"textLines":1,"bbox":[990,320,145,78]}
+{"kind":"shape","id":"sh/61kbu10j","slide":20,"bbox":[285,338,82,40]}
+{"kind":"shape","id":"sh/zy58ry9c","slide":20,"bbox":[500,338,82,40]}
+{"kind":"shape","id":"sh/h0rm58jy","slide":20,"bbox":[715,338,82,40]}
+{"kind":"shape","id":"sh/bmp4rqpw","slide":20,"bbox":[930,338,82,40]}
+{"kind":"shape","id":"sh/l8f2lwz2","slide":20,"bbox":[810,455,80,40]}
+{"kind":"shape","id":"sh/x8v21grq","slide":20,"bbox":[595,455,80,40]}
+{"kind":"shape","id":"sh/90ne5obi","slide":20,"bbox":[380,455,80,40]}
+{"kind":"shape","id":"sh/jat8belw","slide":20,"bbox":[165,455,80,40]}
+{"kind":"textbox","id":"sh/5kbq94na","slide":20,"text":"forward","textPreview":"forward","textChars":7,"textLines":1,"bbox":[500,250,160,36]}
+{"kind":"textbox","id":"sh/2xs761sr","slide":20,"text":"gradients","textPreview":"gradients","textChars":9,"textLines":1,"bbox":[500,512,180,36]}
+{"kind":"textbox","id":"sh/mlkn6t8n","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"Loop","textShapes":8}
+{"kind":"textbox","id":"sh/ydsrmxo7","slide":21,"text":"Loop","textPreview":"Loop","textChars":4,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/187ehs7e","slide":21,"text":"Training is a loop","textPreview":"Training is a loop","textChars":18,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/3els3u54","slide":21,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/p0ba5gb2","slide":21,"text":"predict","textPreview":"predict","textChars":7,"textLines":1,"bbox":[578,148,124,124]}
+{"kind":"textbox","id":"sh/u1sn6lkb","slide":21,"text":"measure","textPreview":"measure","textChars":7,"textLines":1,"bbox":[778,318,124,124]}
+{"kind":"textbox","id":"sh/vqpoz6ls","slide":21,"text":"backprop","textPreview":"backprop","textChars":8,"textLines":1,"bbox":[578,488,124,124]}
+{"kind":"textbox","id":"sh/0butsj6x","slide":21,"text":"update","textPreview":"update","textChars":6,"textLines":1,"bbox":[378,318,124,124]}
+{"kind":"shape","id":"sh/5wraxgjm","slide":21,"bbox":[680,238,135,58]}
+{"kind":"shape","id":"sh/obe10n6h","slide":21,"bbox":[660,428,120,58]}
+{"kind":"shape","id":"sh/69o7edor","slide":21,"bbox":[470,428,120,58]}
+{"kind":"shape","id":"sh/xsnu907q","slide":21,"bbox":[333,238,135,58]}
+{"kind":"textbox","id":"sh/lcnahwjq","slide":21,"text":"repeat","textPreview":"repeat","textChars":6,"textLines":1,"bbox":[560,360,160,42]}
+{"kind":"textbox","id":"sh/e1gjuloz","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"Embeddings","textShapes":7}
+{"kind":"textbox","id":"sh/07ylg7et","slide":22,"text":"Embeddings","textPreview":"Embeddings","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/fupg3uds","slide":22,"text":"Words become vectors","textPreview":"Words become vectors","textChars":20,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/kjupwri5","slide":22,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/58jq10fi","slide":22,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[170,320,95,58]}
+{"kind":"textbox","id":"sh/pcr2dkbq","slide":22,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[310,320,95,58]}
+{"kind":"textbox","id":"sh/6pwbmt8b","slide":22,"text":"sat","textPreview":"sat","textChars":3,"textLines":1,"bbox":[450,320,95,58]}
+{"kind":"shape","id":"sh/dwf2l8fi","slide":22,"bbox":[575,325,125,50]}
+{"kind":"shape","id":"sh/gzedwzid","slide":22,"bbox":[780,262.5,35,127.5]}
+{"kind":"shape","id":"sh/cbmhgjy9","slide":22,"bbox":[835,347.5,35,42.5]}
+{"kind":"shape","id":"sh/betcnqlw","slide":22,"bbox":[890,237,35,153]}
+{"kind":"shape","id":"sh/2l83exo7","slide":22,"bbox":[945,322,35,68]}
+{"kind":"shape","id":"sh/aps3mt43","slide":22,"bbox":[1000,288,35,102]}
+{"kind":"textbox","id":"sh/gfm1cvm9","slide":22,"text":"[0.75, 0.25, ...]","textPreview":"[0.75, 0.25, ...]","textChars":17,"textLines":1,"bbox":[765,430,310,40]}
+{"kind":"textbox","id":"sh/ilkjah47","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"Embeddings","textShapes":10}
+{"kind":"textbox","id":"sh/cbi1w3a1","slide":23,"text":"Embeddings","textPreview":"Embeddings","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/kj2ds3y1","slide":23,"text":"Meaning becomes geometry","textPreview":"Meaning becomes geometry","textChars":24,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/vipw7i1w","slide":23,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/wfu1kfix","slide":23,"bbox":[195,535,855,1]}
+{"kind":"shape","id":"sh/5o7i58zi","slide":23,"bbox":[195,205,1,330]}
+{"kind":"shape","id":"sh/zatcr69s","slide":23,"bbox":[359,274,22,22]}
+{"kind":"textbox","id":"sh/0fyt4fmh","slide":23,"text":"king","textPreview":"king","textChars":4,"textLines":1,"bbox":[384,270,90,24]}
+{"kind":"shape","id":"sh/it03ulof","slide":23,"bbox":[409,239,22,22]}
+{"kind":"textbox","id":"sh/5gfmh4f2","slide":23,"text":"queen","textPreview":"queen","textChars":5,"textLines":1,"bbox":[434,235,90,24]}
+{"kind":"shape","id":"sh/kjetsbmh","slide":23,"bbox":[319,369,22,22]}
+{"kind":"textbox","id":"sh/s3e5kj2p","slide":23,"text":"man","textPreview":"man","textChars":3,"textLines":1,"bbox":[344,365,90,24]}
+{"kind":"shape","id":"sh/wzatczml","slide":23,"bbox":[424,354,22,22]}
+{"kind":"textbox","id":"sh/twv2p8f6","slide":23,"text":"woman","textPreview":"woman","textChars":5,"textLines":1,"bbox":[449,350,90,24]}
+{"kind":"shape","id":"sh/87utwzql","slide":23,"bbox":[749,319,22,22]}
+{"kind":"textbox","id":"sh/lwnyp8va","slide":23,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[774,315,90,24]}
+{"kind":"shape","id":"sh/hgbits7e","slide":23,"bbox":[809,289,22,22]}
+{"kind":"textbox","id":"sh/8fitwrep","slide":23,"text":"dog","textPreview":"dog","textChars":3,"textLines":1,"bbox":[834,285,90,24]}
+{"kind":"shape","id":"sh/u9kfmh0b","slide":23,"bbox":[919,464,22,22]}
+{"kind":"textbox","id":"sh/9obe5szy","slide":23,"text":"car","textPreview":"car","textChars":3,"textLines":1,"bbox":[944,460,90,24]}
+{"kind":"textbox","id":"sh/d4jal4nq","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"Sequences","textShapes":9}
+{"kind":"textbox","id":"sh/o3ux83ep","slide":24,"text":"Sequences","textPreview":"Sequences","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/by1k3q9w","slide":24,"text":"Order changes the meaning","textPreview":"Order changes the meaning","textChars":25,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/ihw7m5gz","slide":24,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/3ylkni9c","slide":24,"text":"dog","textPreview":"dog","textChars":3,"textLines":1,"bbox":[250,280,150,62]}
+{"kind":"textbox","id":"sh/2h47ilwn","slide":24,"text":"chased","textPreview":"chased","textChars":6,"textLines":1,"bbox":[430,290,210,42]}
+{"kind":"textbox","id":"sh/mt0jqlkb","slide":24,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[680,280,150,62]}
+{"kind":"textbox","id":"sh/3mx0ryx4","slide":24,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[250,430,150,62]}
+{"kind":"textbox","id":"sh/dcnm5s7m","slide":24,"text":"chased","textPreview":"chased","textChars":6,"textLines":1,"bbox":[430,440,210,42]}
+{"kind":"textbox","id":"sh/upcbe1on","slide":24,"text":"dog","textPreview":"dog","textChars":3,"textLines":1,"bbox":[680,430,150,62]}
+{"kind":"textbox","id":"sh/1onu583m","slide":24,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"Before attention","textShapes":11}
+{"kind":"textbox","id":"sh/3mp07yx8","slide":25,"text":"Before attention","textPreview":"Before attention","textChars":16,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/va94jml4","slide":25,"text":"RNNs read one token at a time","textPreview":"RNNs read one token at a time","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/va9cvehw","slide":25,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/xovad0fy","slide":25,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[165,355,110,60]}
+{"kind":"textbox","id":"sh/atsv25or","slide":25,"text":"h","textPreview":"h","textChars":1,"textLines":1,"bbox":[175,210,90,90]}
+{"kind":"shape","id":"sh/gn6903ml","slide":25,"bbox":[220,310,1,45]}
+{"kind":"shape","id":"sh/4rqdsri9","slide":25,"bbox":[278,236,130,38]}
+{"kind":"textbox","id":"sh/6tcbuhwr","slide":25,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[395,355,110,60]}
+{"kind":"textbox","id":"sh/tkredcvi","slide":25,"text":"h","textPreview":"h","textChars":1,"textLines":1,"bbox":[405,210,90,90]}
+{"kind":"shape","id":"sh/d0na1wzi","slide":25,"bbox":[450,310,1,45]}
+{"kind":"shape","id":"sh/tob2dsfa","slide":25,"bbox":[508,236,130,38]}
+{"kind":"textbox","id":"sh/7uhs3ixs","slide":25,"text":"sat","textPreview":"sat","textChars":3,"textLines":1,"bbox":[625,355,110,60]}
+{"kind":"textbox","id":"sh/obu1s7y1","slide":25,"text":"h","textPreview":"h","textChars":1,"textLines":1,"bbox":[635,210,90,90]}
+{"kind":"shape","id":"sh/juhkjidg","slide":25,"bbox":[680,310,1,45]}
+{"kind":"shape","id":"sh/rex0fals","slide":25,"bbox":[738,236,130,38]}
+{"kind":"textbox","id":"sh/6t8ryhgf","slide":25,"text":"there","textPreview":"there","textChars":5,"textLines":1,"bbox":[855,355,110,60]}
+{"kind":"textbox","id":"sh/fmpgvmx8","slide":25,"text":"h","textPreview":"h","textChars":1,"textLines":1,"bbox":[865,210,90,90]}
+{"kind":"shape","id":"sh/1cf6tojm","slide":25,"bbox":[910,310,1,45]}
+{"kind":"textbox","id":"sh/y5cfu1kf","slide":25,"text":"25","textPreview":"25","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"Limit","textShapes":11}
+{"kind":"textbox","id":"sh/axkvyxsn","slide":26,"text":"Limit","textPreview":"Limit","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/nml4fi5o","slide":26,"text":"Long memory fades","textPreview":"Long memory fades","textChars":17,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/2tkna98v","slide":26,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/uhovah0f","slide":26,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[110,365,105,54]}
+{"kind":"textbox","id":"sh/1o7elw32","slide":26,"text":"animal","textPreview":"animal","textChars":6,"textLines":1,"bbox":[265,365,105,54]}
+{"kind":"textbox","id":"sh/wr2dsfyl","slide":26,"text":"near","textPreview":"near","textChars":4,"textLines":1,"bbox":[420,365,105,54]}
+{"kind":"textbox","id":"sh/8fil4na1","slide":26,"text":"the","textPreview":"the","textChars":3,"textLines":1,"bbox":[575,365,105,54]}
+{"kind":"textbox","id":"sh/83qpw7md","slide":26,"text":"river","textPreview":"river","textChars":5,"textLines":1,"bbox":[730,365,105,54]}
+{"kind":"textbox","id":"sh/o329wnqx","slide":26,"text":"was","textPreview":"was","textChars":3,"textLines":1,"bbox":[885,365,105,54]}
+{"kind":"textbox","id":"sh/i1kjyhgn","slide":26,"text":"tired","textPreview":"tired","textChars":5,"textLines":1,"bbox":[1040,365,105,54]}
+{"kind":"shape","id":"sh/p8fu5wja","slide":26,"bbox":[160,335,880,1]}
+{"kind":"shape","id":"sh/id4ny50b","slide":26,"bbox":[150,325,20,20]}
+{"kind":"shape","id":"sh/cvydorql","slide":26,"bbox":[305,325,20,20]}
+{"kind":"shape","id":"sh/b2587ets","slide":26,"bbox":[460,325,20,20]}
+{"kind":"shape","id":"sh/kzi50vm1","slide":26,"bbox":[615,325,20,20]}
+{"kind":"shape","id":"sh/8vul0v2d","slide":26,"bbox":[770,325,20,20]}
+{"kind":"shape","id":"sh/u1oj2ps7","slide":26,"bbox":[925,325,20,20]}
+{"kind":"shape","id":"sh/adsryt47","slide":26,"bbox":[1030,325,20,20]}
+{"kind":"textbox","id":"sh/xczy1ona","slide":26,"text":"early context must survive many steps","textPreview":"early context must survive many steps","textChars":37,"textLines":1,"bbox":[325,245,630,40]}
+{"kind":"textbox","id":"sh/qhgfe5on","slide":26,"text":"26","textPreview":"26","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":"[Sources]\nEducational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"Memory","textShapes":4}
+{"kind":"textbox","id":"sh/cn29o7ip","slide":27,"text":"Memory","textPreview":"Memory","textChars":6,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/je1cb2x4","slide":27,"text":"LSTM and GRU add gates to the RNN","textPreview":"LSTM and GRU add gates to the RNN","textChars":33,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/l4z6pwrm","slide":27,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/etwz6dgv","slide":27,"text":"Gates decide what to keep, update, and forget","textPreview":"Gates decide what to keep, update, and forget","textChars":45,"textLines":1,"bbox":[306,570,680,34]}
+{"kind":"textbox","id":"sh/f69knqhw","slide":27,"text":"27","textPreview":"27","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/crit4b29","slide":27,"name":"","bbox":[110.29,205,1059.42,307]}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":"[Sources]\nRNN, LSTM, and GRU comparison image supplied by the user: https://media.licdn.com/dms/image/v2/D5612AQGC0XlthYQKjg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1710956751324?e=2147483647&v=beta&t=cwk4Mpnc9zFtGX-fM1mnDOrDxBociQdD0iY3m-ILPEY"}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"Encoder-decoder","textShapes":4}
+{"kind":"textbox","id":"sh/i1o3q5oj","slide":28,"text":"Encoder-decoder","textPreview":"Encoder-decoder","textChars":15,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/pg7ux4vi","slide":28,"text":"Seq2Seq compresses the input into one context","textPreview":"Seq2Seq compresses the input into one context","textChars":45,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/zilsvy18","slide":28,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/4rqlw3al","slide":28,"text":"One context vector must carry the whole input","textPreview":"One context vector must carry the whole input","textChars":45,"textLines":1,"bbox":[306,570,680,34]}
+{"kind":"textbox","id":"sh/1cf61036","slide":28,"text":"28","textPreview":"28","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/ax8zux4v","slide":28,"name":"","bbox":[143.33,175,993.35,370]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":"[Sources]\nSeq2Seq encoder-decoder image supplied by the user: https://blog.octopt.com/wp-content/uploads/2020/04/Seq2Seq.png"}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"Attention","textShapes":9}
+{"kind":"textbox","id":"sh/5kf6tsfu","slide":29,"text":"Attention","textPreview":"Attention","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/fmpovedo","slide":29,"text":"Attention lets words look around","textPreview":"Attention lets words look around","textChars":32,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/uhsjut0f","slide":29,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/lgbutkj2","slide":29,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[174,334,92,92]}
+{"kind":"textbox","id":"sh/83ehcnmd","slide":29,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[344,334,92,92]}
+{"kind":"textbox","id":"sh/z6tcz2dk","slide":29,"text":"sat","textPreview":"sat","textChars":3,"textLines":1,"bbox":[514,334,92,92]}
+{"kind":"textbox","id":"sh/432tk36t","slide":29,"text":"on","textPreview":"on","textChars":2,"textLines":1,"bbox":[684,334,92,92]}
+{"kind":"textbox","id":"sh/g7m14jm1","slide":29,"text":"mat","textPreview":"mat","textChars":3,"textLines":1,"bbox":[854,334,92,92]}
+{"kind":"shape","id":"sh/kridwze9","slide":29,"bbox":[220,380,170,1]}
+{"kind":"shape","id":"sh/zqd47a18","slide":29,"bbox":[390,380,170,1]}
+{"kind":"shape","id":"sh/hozetw7y","slide":29,"bbox":[390,380,340,1]}
+{"kind":"shape","id":"sh/5sbidkva","slide":29,"bbox":[390,380,510,1]}
+{"kind":"textbox","id":"sh/hojm1wri","slide":29,"text":"one token compares with all others","textPreview":"one token compares with all others","textChars":34,"textLines":1,"bbox":[340,245,600,40]}
+{"kind":"textbox","id":"sh/hsjuxcvq","slide":29,"text":"29","textPreview":"29","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"Mechanism","textShapes":9}
+{"kind":"textbox","id":"sh/ylcr218j","slide":30,"text":"Mechanism","textPreview":"Mechanism","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/2x0j6lsr","slide":30,"text":"Query, key, value","textPreview":"Query, key, value","textChars":17,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/sbedknqp","slide":30,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/4fuxcfep","slide":30,"text":"Q","textPreview":"Q","textChars":1,"textLines":1,"bbox":[200,290,140,140]}
+{"kind":"textbox","id":"sh/c3ah8ji9","slide":30,"text":"K","textPreview":"K","textChars":1,"textLines":1,"bbox":[570,195,140,140]}
+{"kind":"textbox","id":"sh/s7i9crq5","slide":30,"text":"V","textPreview":"V","textChars":1,"textLines":1,"bbox":[570,385,140,140]}
+{"kind":"textbox","id":"sh/vm90ri58","slide":30,"text":"match","textPreview":"match","textChars":5,"textLines":1,"bbox":[355,334,185,48]}
+{"kind":"textbox","id":"sh/md4je5k3","slide":30,"text":"carry","textPreview":"carry","textChars":5,"textLines":1,"bbox":[720,435,180,48]}
+{"kind":"textbox","id":"sh/kzmdgzql","slide":30,"text":"context","textPreview":"context","textChars":7,"textLines":1,"bbox":[925,405,160,80]}
+{"kind":"textbox","id":"sh/l4fypwfu","slide":30,"text":"30","textPreview":"30","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"Mechanism","textShapes":8}
+{"kind":"textbox","id":"sh/dwfuh0je","slide":31,"text":"Mechanism","textPreview":"Mechanism","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/fytgvil0","slide":31,"text":"Scores come from dot products","textPreview":"Scores come from dot products","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/58nidk7y","slide":31,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/250nalof","slide":31,"text":"Q","textPreview":"Q","textChars":1,"textLines":1,"bbox":[220,315,110,90]}
+{"kind":"textbox","id":"sh/g7y1gnyx","slide":31,"text":"dot","textPreview":"dot","textChars":3,"textLines":1,"bbox":[380,338,80,38]}
+{"kind":"textbox","id":"sh/h4ra5gbi","slide":31,"text":"K","textPreview":"K","textChars":1,"textLines":1,"bbox":[500,315,110,90]}
+{"kind":"textbox","id":"sh/6xkzi9g7","slide":31,"text":"=","textPreview":"=","textChars":1,"textLines":1,"bbox":[650,338,80,38]}
+{"kind":"shape","id":"sh/q5oby1sf","slide":31,"bbox":[770,390,30,40]}
+{"kind":"shape","id":"sh/z2p0v2t4","slide":31,"bbox":[818,355,30,75]}
+{"kind":"shape","id":"sh/cza5kve1","slide":31,"bbox":[866,405,30,25]}
+{"kind":"shape","id":"sh/ulg7ehwf","slide":31,"bbox":[914,335,30,95]}
+{"kind":"shape","id":"sh/a14f2hwr","slide":31,"bbox":[962,375,30,55]}
+{"kind":"textbox","id":"sh/d0nu5on2","slide":31,"text":"relevance","textPreview":"relevance","textChars":9,"textLines":1,"bbox":[740,455,290,36]}
+{"kind":"textbox","id":"sh/ytwbet4n","slide":31,"text":"31","textPreview":"31","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"Mechanism","textShapes":6}
+{"kind":"textbox","id":"sh/twruhwnq","slide":32,"text":"Mechanism","textPreview":"Mechanism","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/nil47u94","slide":32,"text":"Softmax makes weights","textPreview":"Softmax makes weights","textChars":21,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/kzqtgbi5","slide":32,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/2t4fetsj","slide":32,"bbox":[260,365,30,35]}
+{"kind":"shape","id":"sh/vq1g7ix4","slide":32,"bbox":[308,320,30,80]}
+{"kind":"shape","id":"sh/v2h4je5g","slide":32,"bbox":[356,380,30,20]}
+{"kind":"shape","id":"sh/r6dwzaxg","slide":32,"bbox":[404,305,30,95]}
+{"kind":"shape","id":"sh/5gfaxw7a","slide":32,"bbox":[452,355,30,45]}
+{"kind":"textbox","id":"sh/vix07u50","slide":32,"text":"softmax","textPreview":"softmax","textChars":7,"textLines":1,"bbox":[535,330,170,55]}
+{"kind":"shape","id":"sh/rmd4rm18","slide":32,"bbox":[800,375,30,25]}
+{"kind":"shape","id":"sh/badk72lo","slide":32,"bbox":[848,330,30,70]}
+{"kind":"shape","id":"sh/7udkz6p0","slide":32,"bbox":[896,385,30,15]}
+{"kind":"shape","id":"sh/ozmlgji9","slide":32,"bbox":[944,310,30,90]}
+{"kind":"shape","id":"sh/cvuto3et","slide":32,"bbox":[992,360,30,40]}
+{"kind":"textbox","id":"sh/vixgvih8","slide":32,"text":"raw scores","textPreview":"raw scores","textChars":10,"textLines":1,"bbox":[205,460,300,34]}
+{"kind":"textbox","id":"sh/0ryt8reh","slide":32,"text":"weights sum to 1","textPreview":"weights sum to 1","textChars":16,"textLines":1,"bbox":[730,460,350,34]}
+{"kind":"textbox","id":"sh/it0zetsr","slide":32,"text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"Mechanism","textShapes":13}
+{"kind":"textbox","id":"sh/n2x83a5s","slide":33,"text":"Mechanism","textPreview":"Mechanism","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/s7ydw7yl","slide":33,"text":"Values are mixed into context","textPreview":"Values are mixed into context","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/2hovqh4v","slide":33,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/6toj2pon","slide":33,"text":"V1","textPreview":"V1","textChars":2,"textLines":1,"bbox":[180,315,90,80]}
+{"kind":"textbox","id":"sh/1c3ehkv6","slide":33,"text":"0.15","textPreview":"0.15","textChars":4,"textLines":1,"bbox":[180,410,90,30]}
+{"kind":"textbox","id":"sh/5gvup4r6","slide":33,"text":"V2","textPreview":"V2","textChars":2,"textLines":1,"bbox":[335,315,90,80]}
+{"kind":"textbox","id":"sh/yxg329gb","slide":33,"text":"0.55","textPreview":"0.55","textChars":4,"textLines":1,"bbox":[335,410,90,30]}
+{"kind":"textbox","id":"sh/xcra9sfa","slide":33,"text":"V3","textPreview":"V3","textChars":2,"textLines":1,"bbox":[490,315,90,80]}
+{"kind":"textbox","id":"sh/tobut0ri","slide":33,"text":"0.1","textPreview":"0.1","textChars":3,"textLines":1,"bbox":[490,410,90,30]}
+{"kind":"textbox","id":"sh/l036t836","slide":33,"text":"V4","textPreview":"V4","textChars":2,"textLines":1,"bbox":[645,315,90,80]}
+{"kind":"textbox","id":"sh/58je1gzu","slide":33,"text":"0.2","textPreview":"0.2","textChars":3,"textLines":1,"bbox":[645,410,90,30]}
+{"kind":"textbox","id":"sh/cbidgzux","slide":33,"text":"sum","textPreview":"sum","textChars":3,"textLines":1,"bbox":[790,335,120,45]}
+{"kind":"textbox","id":"sh/f2twv6ts","slide":33,"text":"context vector","textPreview":"context vector","textChars":14,"textLines":1,"bbox":[940,300,170,110]}
+{"kind":"textbox","id":"sh/hcnyx47m","slide":33,"text":"33","textPreview":"33","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"Self-attention","textShapes":15}
+{"kind":"textbox","id":"sh/18fidw7a","slide":34,"text":"Self-attention","textPreview":"Self-attention","textChars":14,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/2h0bqd0f","slide":34,"text":"Self-attention updates every token","textPreview":"Self-attention updates every token","textChars":34,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/gb2x0vad","slide":34,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/2xgn2hcv","slide":34,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[213,268,64,64]}
+{"kind":"textbox","id":"sh/1or6l8fq","slide":34,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[363,268,64,64]}
+{"kind":"textbox","id":"sh/y5gn6p4j","slide":34,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[513,268,64,64]}
+{"kind":"textbox","id":"sh/761wr2to","slide":34,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[663,268,64,64]}
+{"kind":"textbox","id":"sh/xs7mhkfa","slide":34,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[813,268,64,64]}
+{"kind":"textbox","id":"sh/d8jm5c7m","slide":34,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[963,268,64,64]}
+{"kind":"textbox","id":"sh/hcrmt0ja","slide":34,"text":"1'","textPreview":"1'","textChars":2,"textLines":1,"bbox":[213,448,64,64]}
+{"kind":"textbox","id":"sh/ul47ah03","slide":34,"text":"2'","textPreview":"2'","textChars":2,"textLines":1,"bbox":[363,448,64,64]}
+{"kind":"textbox","id":"sh/e5wr254f","slide":34,"text":"3'","textPreview":"3'","textChars":2,"textLines":1,"bbox":[513,448,64,64]}
+{"kind":"textbox","id":"sh/yx876l8j","slide":34,"text":"4'","textPreview":"4'","textChars":2,"textLines":1,"bbox":[663,448,64,64]}
+{"kind":"textbox","id":"sh/n218zm18","slide":34,"text":"5'","textPreview":"5'","textChars":2,"textLines":1,"bbox":[813,448,64,64]}
+{"kind":"textbox","id":"sh/p83ed0fy","slide":34,"text":"6'","textPreview":"6'","textChars":2,"textLines":1,"bbox":[963,448,64,64]}
+{"kind":"shape","id":"sh/pw7il8ja","slide":34,"bbox":[245,335,1,110]}
+{"kind":"shape","id":"sh/gnyhojy1","slide":34,"bbox":[395,335,1,110]}
+{"kind":"shape","id":"sh/wri9sn25","slide":34,"bbox":[545,335,1,110]}
+{"kind":"shape","id":"sh/ofmdw7qp","slide":34,"bbox":[695,335,1,110]}
+{"kind":"shape","id":"sh/sjelwf2l","slide":34,"bbox":[845,335,1,110]}
+{"kind":"shape","id":"sh/f2lore1k","slide":34,"bbox":[995,335,1,110]}
+{"kind":"shape","id":"sh/fyxg36hw","slide":34,"bbox":[245,300,1,180]}
+{"kind":"shape","id":"sh/2h47m5cj","slide":34,"bbox":[245,300,300,180]}
+{"kind":"shape","id":"sh/l8fed47a","slide":34,"bbox":[245,300,600,180]}
+{"kind":"shape","id":"sh/1snmh4jy","slide":34,"bbox":[245,300,150,180]}
+{"kind":"shape","id":"sh/o325c3y5","slide":34,"bbox":[395,300,150,180]}
+{"kind":"shape","id":"sh/idsjq9o3","slide":34,"bbox":[395,300,450,180]}
+{"kind":"shape","id":"sh/9wbi1wby","slide":34,"bbox":[245,300,300,180]}
+{"kind":"shape","id":"sh/xcv2xs72","slide":34,"bbox":[545,300,1,180]}
+{"kind":"shape","id":"sh/a1cbq5sr","slide":34,"bbox":[545,300,300,180]}
+{"kind":"shape","id":"sh/nylkf21o","slide":34,"bbox":[245,300,450,180]}
+{"kind":"shape","id":"sh/0nq183md","slide":34,"bbox":[545,300,150,180]}
+{"kind":"shape","id":"sh/e9o7elwb","slide":34,"bbox":[695,300,150,180]}
+{"kind":"shape","id":"sh/dc7e9cv2","slide":34,"bbox":[245,300,600,180]}
+{"kind":"shape","id":"sh/srilkfat","slide":34,"bbox":[545,300,300,180]}
+{"kind":"shape","id":"sh/ad83ihkj","slide":34,"bbox":[845,300,1,180]}
+{"kind":"shape","id":"sh/uls761gj","slide":34,"bbox":[245,300,750,180]}
+{"kind":"shape","id":"sh/wb6h4nal","slide":34,"bbox":[545,300,450,180]}
+{"kind":"shape","id":"sh/snids3qd","slide":34,"bbox":[845,300,150,180]}
+{"kind":"textbox","id":"sh/3y9krqp8","slide":34,"text":"34","textPreview":"34","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"Multi-head","textShapes":7}
+{"kind":"textbox","id":"sh/yxgva9k3","slide":35,"text":"Multi-head","textPreview":"Multi-head","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/3uh03ul0","slide":35,"text":"Many heads learn different links","textPreview":"Many heads learn different links","textChars":32,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/7e9sbyp0","slide":35,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/h8rutszu","slide":35,"bbox":[170,250,160,160]}
+{"kind":"shape","id":"sh/yp0belov","slide":35,"bbox":[205,330,90,1]}
+{"kind":"shape","id":"sh/zydk7epo","slide":35,"bbox":[250,285,1,90]}
+{"kind":"textbox","id":"sh/r698jitw","slide":35,"text":"syntax","textPreview":"syntax","textChars":6,"textLines":1,"bbox":[175,440,150,30]}
+{"kind":"shape","id":"sh/atc7uhsr","slide":35,"bbox":[435,250,160,160]}
+{"kind":"shape","id":"sh/2p8ryx0n","slide":35,"bbox":[470,330,90,1]}
+{"kind":"shape","id":"sh/xcfytsbi","slide":35,"bbox":[515,285,1,90]}
+{"kind":"textbox","id":"sh/s7upgn2x","slide":35,"text":"reference","textPreview":"reference","textChars":9,"textLines":1,"bbox":[440,440,150,30]}
+{"kind":"shape","id":"sh/476dsjqt","slide":35,"bbox":[700,250,160,160]}
+{"kind":"shape","id":"sh/8jqt47up","slide":35,"bbox":[735,330,90,1]}
+{"kind":"shape","id":"sh/7mt8vydg","slide":35,"bbox":[780,285,1,90]}
+{"kind":"textbox","id":"sh/sb214jmx","slide":35,"text":"topic","textPreview":"topic","textChars":5,"textLines":1,"bbox":[705,440,150,30]}
+{"kind":"shape","id":"sh/ofq54jm9","slide":35,"bbox":[965,250,160,160]}
+{"kind":"shape","id":"sh/8j6dkz6d","slide":35,"bbox":[1000,330,90,1]}
+{"kind":"shape","id":"sh/9gbupwji","slide":35,"bbox":[1045,285,1,90]}
+{"kind":"textbox","id":"sh/utc7m5sz","slide":35,"text":"position","textPreview":"position","textChars":8,"textLines":1,"bbox":[970,440,150,30]}
+{"kind":"textbox","id":"sh/axwbyt83","slide":35,"text":"35","textPreview":"35","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"Order","textShapes":8}
+{"kind":"textbox","id":"sh/6pgry5w3","slide":36,"text":"Order","textPreview":"Order","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/gr694be5","slide":36,"text":"Position is added to meaning","textPreview":"Position is added to meaning","textChars":28,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/8z6hcjil","slide":36,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/nu583uxs","slide":36,"text":"token vector","textPreview":"token vector","textChars":12,"textLines":1,"bbox":[250,310,210,90]}
+{"kind":"textbox","id":"sh/hkn2hcna","slide":36,"text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[505,330,40,40]}
+{"kind":"textbox","id":"sh/be58zah8","slide":36,"text":"position vector","textPreview":"position vector","textChars":15,"textLines":1,"bbox":[585,310,230,90]}
+{"kind":"textbox","id":"sh/e50vi58f","slide":36,"text":"=","textPreview":"=","textChars":1,"textLines":1,"bbox":[850,330,40,40]}
+{"kind":"textbox","id":"sh/7yh8329o","slide":36,"text":"ordered meaning","textPreview":"ordered meaning","textChars":15,"textLines":1,"bbox":[925,310,230,90]}
+{"kind":"textbox","id":"sh/10vuxsn2","slide":36,"text":"36","textPreview":"36","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"Architecture","textShapes":7}
+{"kind":"textbox","id":"sh/apsrid4r","slide":37,"text":"Architecture","textPreview":"Architecture","textChars":12,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/d07qt0bi","slide":37,"text":"The Transformer connects encoder and decoder stacks","textPreview":"The Transformer connects encoder and decoder stacks","textChars":51,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/n6xc3atk","slide":37,"bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/6t4nm18j","slide":37,"bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/fyx4369o","slide":37,"text":"Encoder","textPreview":"Encoder","textChars":7,"textLines":1,"bbox":[856,242,250,34]}
+{"kind":"textbox","id":"sh/alkvylo3","slide":37,"text":"self-attention\nfeed-forward","textPreview":"self-attention | feed-forward","textChars":27,"textLines":2,"bbox":[856,282,260,72]}
+{"kind":"textbox","id":"sh/7mtwjmxw","slide":37,"text":"Decoder","textPreview":"Decoder","textChars":7,"textLines":1,"bbox":[856,374,250,34]}
+{"kind":"textbox","id":"sh/mlofm18v","slide":37,"text":"masked self-attention\ncross-attention\nfeed-forward","textPreview":"masked self-attention | cross-attention | feed-forward","textChars":50,"textLines":3,"bbox":[856,414,270,100]}
+{"kind":"textbox","id":"sh/tkfuxofm","slide":37,"text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/21czytcf","slide":37,"name":"","bbox":[240,158.09,350,469.82]}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":"[Sources]\nTransformer architecture image supplied by the user: https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F146659%2F90f26267-2445-f2dc-b0c6-80f384054ae0.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&s=17811178f02900b58011bbcc4220f974"}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"Block","textShapes":8}
+{"kind":"textbox","id":"sh/wf6h4n2d","slide":38,"text":"Block","textPreview":"Block","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/ypczqtcb","slide":38,"text":"A Transformer block mixes and computes","textPreview":"A Transformer block mixes and computes","textChars":38,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/8fu1wrq1","slide":38,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/9sju94je","slide":38,"text":"input","textPreview":"input","textChars":5,"textLines":1,"bbox":[210,485,170,54]}
+{"kind":"textbox","id":"sh/fy547q90","slide":38,"text":"self-attention","textPreview":"self-attention","textChars":14,"textLines":1,"bbox":[445,405,260,80]}
+{"kind":"textbox","id":"sh/7e5c3mp8","slide":38,"text":"feed-forward","textPreview":"feed-forward","textChars":12,"textLines":1,"bbox":[775,285,260,80]}
+{"kind":"textbox","id":"sh/7adcnetk","slide":38,"text":"output","textPreview":"output","textChars":6,"textLines":1,"bbox":[915,190,170,54]}
+{"kind":"shape","id":"sh/czqhg3y9","slide":38,"bbox":[380,445,65,67]}
+{"kind":"shape","id":"sh/qhobedgb","slide":38,"bbox":[705,325,70,120]}
+{"kind":"shape","id":"sh/atoj6lwz","slide":38,"bbox":[1000,245,35,80]}
+{"kind":"textbox","id":"sh/6d4ve5k7","slide":38,"text":"residual + norm around each step","textPreview":"residual + norm around each step","textChars":32,"textLines":1,"bbox":[390,555,520,34]}
+{"kind":"textbox","id":"sh/jmhwn61g","slide":38,"text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/twb2lg7e","slide":39,"title":"Encoder","textShapes":11}
+{"kind":"textbox","id":"sh/obql43yp","slide":39,"text":"Encoder","textPreview":"Encoder","textChars":7,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/l0vilorm","slide":39,"text":"The encoder reads the whole input","textPreview":"The encoder reads the whole input","textChars":33,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/e9w7uh4f","slide":39,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/58vu98vy","slide":39,"text":"I","textPreview":"I","textChars":1,"textLines":1,"bbox":[140,520,96,50]}
+{"kind":"textbox","id":"sh/l8j29w32","slide":39,"text":"love","textPreview":"love","textChars":4,"textLines":1,"bbox":[276,520,96,50]}
+{"kind":"textbox","id":"sh/wzq54n2h","slide":39,"text":"machine","textPreview":"machine","textChars":7,"textLines":1,"bbox":[412,520,96,50]}
+{"kind":"textbox","id":"sh/6pw7edkr","slide":39,"text":"learning","textPreview":"learning","textChars":8,"textLines":1,"bbox":[548,520,128,50]}
+{"kind":"textbox","id":"sh/ori5wz69","slide":39,"text":"encoder 1","textPreview":"encoder 1","textChars":9,"textLines":1,"bbox":[680,410,260,70]}
+{"kind":"textbox","id":"sh/mxc3uh43","slide":39,"text":"encoder 2","textPreview":"encoder 2","textChars":9,"textLines":1,"bbox":[680,330,260,70]}
+{"kind":"textbox","id":"sh/mx4nylcz","slide":39,"text":"encoder 3","textPreview":"encoder 3","textChars":9,"textLines":1,"bbox":[680,250,260,70]}
+{"kind":"shape","id":"sh/wvyd0ri5","slide":39,"bbox":[565,460,95,38]}
+{"kind":"textbox","id":"sh/6dkb2xkn","slide":39,"text":"contextual representations","textPreview":"contextual representations","textChars":26,"textLines":1,"bbox":[620,170,410,38]}
+{"kind":"textbox","id":"sh/zudonelg","slide":39,"text":"39","textPreview":"39","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/twb2lg7e","slide":39,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/5ojatgfe","slide":40,"title":"Decoder","textShapes":5}
+{"kind":"textbox","id":"sh/xk7i9szy","slide":40,"text":"Decoder","textPreview":"Decoder","textChars":7,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/dofexsvq","slide":40,"text":"The decoder hides the future","textPreview":"The decoder hides the future","textChars":28,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/badcji9o","slide":40,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/u1gbuxov","slide":40,"bbox":[360,240,42,42]}
+{"kind":"shape","id":"sh/jmpgzeho","slide":40,"bbox":[406,240,42,42]}
+{"kind":"shape","id":"sh/rmhgba9c","slide":40,"bbox":[452,240,42,42]}
+{"kind":"shape","id":"sh/cf2dcze9","slide":40,"bbox":[498,240,42,42]}
+{"kind":"shape","id":"sh/n6dkr6hs","slide":40,"bbox":[544,240,42,42]}
+{"kind":"shape","id":"sh/65ob6907","slide":40,"bbox":[590,240,42,42]}
+{"kind":"shape","id":"sh/29wfihoj","slide":40,"bbox":[360,286,42,42]}
+{"kind":"shape","id":"sh/jedgzq58","slide":40,"bbox":[406,286,42,42]}
+{"kind":"shape","id":"sh/lora9kju","slide":40,"bbox":[452,286,42,42]}
+{"kind":"shape","id":"sh/1wfmh4r6","slide":40,"bbox":[498,286,42,42]}
+{"kind":"shape","id":"sh/2983axcr","slide":40,"bbox":[544,286,42,42]}
+{"kind":"shape","id":"sh/9g76lcja","slide":40,"bbox":[590,286,42,42]}
+{"kind":"shape","id":"sh/ut0judsf","slide":40,"bbox":[360,332,42,42]}
+{"kind":"shape","id":"sh/03ilsnqh","slide":40,"bbox":[406,332,42,42]}
+{"kind":"shape","id":"sh/dkbml8ba","slide":40,"bbox":[452,332,42,42]}
+{"kind":"shape","id":"sh/69wnylcz","slide":40,"bbox":[498,332,42,42]}
+{"kind":"shape","id":"sh/8vqlw7ud","slide":40,"bbox":[544,332,42,42]}
+{"kind":"shape","id":"sh/lsza90ve","slide":40,"bbox":[590,332,42,42]}
+{"kind":"shape","id":"sh/q18vaxgf","slide":40,"bbox":[360,378,42,42]}
+{"kind":"shape","id":"sh/atcbyt8b","slide":40,"bbox":[406,378,42,42]}
+{"kind":"shape","id":"sh/xk72xw7q","slide":40,"bbox":[452,378,42,42]}
+{"kind":"shape","id":"sh/1obmh83e","slide":40,"bbox":[498,378,42,42]}
+{"kind":"shape","id":"sh/ap8j29or","slide":40,"bbox":[544,378,42,42]}
+{"kind":"shape","id":"sh/m5o7upw3","slide":40,"bbox":[590,378,42,42]}
+{"kind":"shape","id":"sh/ri5c3alw","slide":40,"bbox":[360,424,42,42]}
+{"kind":"shape","id":"sh/cju94nul","slide":40,"bbox":[406,424,42,42]}
+{"kind":"shape","id":"sh/kfuhs7e1","slide":40,"bbox":[452,424,42,42]}
+{"kind":"shape","id":"sh/7m9s7q1o","slide":40,"bbox":[498,424,42,42]}
+{"kind":"shape","id":"sh/9wnel4ri","slide":40,"bbox":[544,424,42,42]}
+{"kind":"shape","id":"sh/0zyxwna5","slide":40,"bbox":[590,424,42,42]}
+{"kind":"shape","id":"sh/i1cnitoj","slide":40,"bbox":[360,470,42,42]}
+{"kind":"shape","id":"sh/29czytsz","slide":40,"bbox":[406,470,42,42]}
+{"kind":"shape","id":"sh/gvyp8r21","slide":40,"bbox":[452,470,42,42]}
+{"kind":"shape","id":"sh/361ojat0","slide":40,"bbox":[498,470,42,42]}
+{"kind":"shape","id":"sh/xcjehwzm","slide":40,"bbox":[544,470,42,42]}
+{"kind":"shape","id":"sh/mpkn6tkr","slide":40,"bbox":[590,470,42,42]}
+{"kind":"textbox","id":"sh/d4vi587u","slide":40,"text":"visible","textPreview":"visible","textChars":7,"textLines":1,"bbox":[250,500,160,30]}
+{"kind":"textbox","id":"sh/9kvm90f6","slide":40,"text":"masked","textPreview":"masked","textChars":6,"textLines":1,"bbox":[780,500,160,30]}
+{"kind":"textbox","id":"sh/qt03a5wz","slide":40,"text":"40","textPreview":"40","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/5ojatgfe","slide":40,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/cnmpwjmp","slide":41,"title":"2017","textShapes":6}
+{"kind":"textbox","id":"sh/fepkjmlc","slide":41,"text":"2017","textPreview":"2017","textChars":4,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/5wfiho3m","slide":41,"text":"Attention replaced recurrence","textPreview":"Attention replaced recurrence","textChars":29,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/etknyd8f","slide":41,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/s3mtobeh","slide":41,"text":"RNN\nstep by step","textPreview":"RNN | step by step","textChars":16,"textLines":2,"bbox":[180,300,290,130]}
+{"kind":"textbox","id":"sh/kfyho3ux","slide":41,"text":"->","textPreview":"->","textChars":2,"textLines":1,"bbox":[585,340,70,45]}
+{"kind":"textbox","id":"sh/f294naxc","slide":41,"text":"Transformer\ndirect comparison","textPreview":"Transformer | direct comparison","textChars":29,"textLines":2,"bbox":[770,300,330,130]}
+{"kind":"textbox","id":"sh/6l8v2tcb","slide":41,"text":"41","textPreview":"41","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/cnmpwjmp","slide":41,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762"}
+{"kind":"slide","id":"sl/7mdw7yh8","slide":42,"title":"GPT architecture","textShapes":7}
+{"kind":"textbox","id":"sh/edwry5s7","slide":42,"text":"GPT architecture","textPreview":"GPT architecture","textChars":16,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/h4vqx4vy","slide":42,"text":"GPT repeats a decoder-only Transformer block","textPreview":"GPT repeats a decoder-only Transformer block","textChars":44,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/7ax8za54","slide":42,"bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/e9wny1w3","slide":42,"bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/je1sf6dw","slide":42,"text":"Decoder-only stack","textPreview":"Decoder-only stack","textChars":18,"textLines":1,"bbox":[850,242,285,34]}
+{"kind":"textbox","id":"sh/2lgbqx87","slide":42,"text":"masked self-attention\nfeed-forward network\nresidual + LayerNorm","textPreview":"masked self-attention | feed-forward network | residual + LayerNorm","textChars":63,"textLines":3,"bbox":[850,284,300,118]}
+{"kind":"textbox","id":"sh/jqdozuhw","slide":42,"text":"Next-token output","textPreview":"Next-token output","textChars":17,"textLines":1,"bbox":[850,430,285,34]}
+{"kind":"textbox","id":"sh/ahw7mhkj","slide":42,"text":"Linear + Softmax turns the final state into a token distribution.","textPreview":"Linear + Softmax turns the final state into a token distribution.","textChars":65,"textLines":1,"bbox":[850,472,300,72]}
+{"kind":"textbox","id":"sh/1gbexczu","slide":42,"text":"42","textPreview":"42","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/yh03qhkn","slide":42,"name":"","bbox":[253.79,160,392.42,472]}
+{"kind":"notes","id":"nt/7mdw7yh8","slide":42,"text":"[Sources]\nGPT architecture image supplied by the user: https://img.sbbit.jp/article/image/114721/l_bit202308301441497020.jpg"}
+{"kind":"slide","id":"sl/qhkbqxoz","slide":43,"title":"GPT","textShapes":9}
+{"kind":"textbox","id":"sh/bu1cf2ho","slide":43,"text":"GPT","textPreview":"GPT","textChars":3,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/q14bmxw3","slide":43,"text":"GPT keeps the decoder idea","textPreview":"GPT keeps the decoder idea","textChars":26,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/hs3m1sbu","slide":43,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/4vudw36t","slide":43,"text":"decoder block 4","textPreview":"decoder block 4","textChars":15,"textLines":1,"bbox":[455,500,310,58]}
+{"kind":"textbox","id":"sh/czqh4zix","slide":43,"text":"decoder block 3","textPreview":"decoder block 3","textChars":15,"textLines":1,"bbox":[455,405,310,58]}
+{"kind":"textbox","id":"sh/dcjq9orm","slide":43,"text":"decoder block 2","textPreview":"decoder block 2","textChars":15,"textLines":1,"bbox":[455,310,310,58]}
+{"kind":"textbox","id":"sh/ydcv2hoj","slide":43,"text":"decoder block 1","textPreview":"decoder block 1","textChars":15,"textLines":1,"bbox":[455,215,310,58]}
+{"kind":"textbox","id":"sh/ofmpczmd","slide":43,"text":"prompt tokens","textPreview":"prompt tokens","textChars":13,"textLines":1,"bbox":[170,500,200,62]}
+{"kind":"shape","id":"sh/3ilk3ud8","slide":43,"bbox":[385,507,65,45]}
+{"kind":"shape","id":"sh/mtovm58z","slide":43,"bbox":[770,225,145,45]}
+{"kind":"textbox","id":"sh/18nm1obe","slide":43,"text":"next token","textPreview":"next token","textChars":10,"textLines":1,"bbox":[940,215,180,62]}
+{"kind":"textbox","id":"sh/e54vuxsz","slide":43,"text":"43","textPreview":"43","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/qhkbqxoz","slide":43,"text":"[Sources]\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/pcvutcvy","slide":44,"title":"Objective","textShapes":10}
+{"kind":"textbox","id":"sh/d0fyd0ry","slide":44,"text":"Objective","textPreview":"Objective","textChars":9,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/svm5sr6l","slide":44,"text":"Training target: the next token","textPreview":"Training target: the next token","textChars":31,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/n2p8z694","slide":44,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/utkzm5cb","slide":44,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[150,330,125,62]}
+{"kind":"textbox","id":"sh/32xwr2tc","slide":44,"text":"capital","textPreview":"capital","textChars":7,"textLines":1,"bbox":[310,330,125,62]}
+{"kind":"textbox","id":"sh/epor2ds7","slide":44,"text":"of","textPreview":"of","textChars":2,"textLines":1,"bbox":[470,330,125,62]}
+{"kind":"textbox","id":"sh/szylovud","slide":44,"text":"France","textPreview":"France","textChars":6,"textLines":1,"bbox":[630,330,125,62]}
+{"kind":"textbox","id":"sh/ip8nqx8v","slide":44,"text":"is","textPreview":"is","textChars":2,"textLines":1,"bbox":[790,330,125,62]}
+{"kind":"shape","id":"sh/a1gbad4j","slide":44,"bbox":[940,338,95,45]}
+{"kind":"textbox","id":"sh/itsvy5s7","slide":44,"text":"Paris","textPreview":"Paris","textChars":5,"textLines":1,"bbox":[1060,330,125,62]}
+{"kind":"textbox","id":"sh/p0b2tsza","slide":44,"text":"predict this","textPreview":"predict this","textChars":12,"textLines":1,"bbox":[1015,440,210,34]}
+{"kind":"textbox","id":"sh/gjux8b2l","slide":44,"text":"44","textPreview":"44","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/pcvutcvy","slide":44,"text":"[Sources]\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/kvipwnmh","slide":45,"title":"Scale","textShapes":9}
+{"kind":"textbox","id":"sh/atwrqlkj","slide":45,"text":"Scale","textPreview":"Scale","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/1szqhwry","slide":45,"text":"Pretraining compresses patterns into weights","textPreview":"Pretraining compresses patterns into weights","textChars":44,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/wzmp4v29","slide":45,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/9cb2p0fm","slide":45,"text":"text","textPreview":"text","textChars":4,"textLines":1,"bbox":[150,310,155,90]}
+{"kind":"textbox","id":"sh/xor2tgv6","slide":45,"text":"tokens","textPreview":"tokens","textChars":6,"textLines":1,"bbox":[330,334,110,45]}
+{"kind":"textbox","id":"sh/4z2ls7ix","slide":45,"text":"batches","textPreview":"batches","textChars":7,"textLines":1,"bbox":[470,310,170,90]}
+{"kind":"textbox","id":"sh/y5wfep0z","slide":45,"text":"train","textPreview":"train","textChars":5,"textLines":1,"bbox":[665,334,110,45]}
+{"kind":"textbox","id":"sh/pgfi98vq","slide":45,"text":"Transformer","textPreview":"Transformer","textChars":11,"textLines":1,"bbox":[805,295,210,120]}
+{"kind":"shape","id":"sh/032907et","slide":45,"bbox":[1035,334,90,45]}
+{"kind":"textbox","id":"sh/l03idczq","slide":45,"text":"weights","textPreview":"weights","textChars":7,"textLines":1,"bbox":[1101,303,108,108]}
+{"kind":"textbox","id":"sh/18bqt0ri","slide":45,"text":"45","textPreview":"45","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/kvipwnmh","slide":45,"text":"[Sources]\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/zixsf2ps","slide":46,"title":"Loading","textShapes":16}
+{"kind":"textbox","id":"sh/5gjah0n2","slide":46,"text":"Loading","textPreview":"Loading","textChars":7,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/ylwr6p8j","slide":46,"text":"An LLM needs three matching parts","textPreview":"An LLM needs three matching parts","textChars":33,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/rilormtc","slide":46,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/obu983e9","slide":46,"text":"46","textPreview":"46","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"textbox","id":"sh/nal8zydo","slide":46,"name":"model-group-label","text":"model","textPreview":"model","textChars":5,"textLines":1,"bbox":[146,180,604,34]}
+{"kind":"shape","id":"sh/mpcr6tw3","slide":46,"name":"config-component","bbox":[108,242,300,230]}
+{"kind":"textbox","id":"sh/1o3qxovy","slide":46,"name":"config-label","text":"CONFIG","textPreview":"CONFIG","textChars":6,"textLines":1,"bbox":[132,262,252,28]}
+{"kind":"textbox","id":"sh/0nu94jed","slide":46,"name":"config-title","text":"Architecture","textPreview":"Architecture","textChars":12,"textLines":1,"bbox":[130,306,256,58]}
+{"kind":"textbox","id":"sh/sre9kjm9","slide":46,"name":"config-detail","text":"layers · hidden size\nattention heads","textPreview":"layers · hidden size | attention heads","textChars":36,"textLines":2,"bbox":[136,378,244,68]}
+{"kind":"textbox","id":"sh/ts7ado3e","slide":46,"name":"model-plus","text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[414,320,48,54]}
+{"kind":"shape","id":"sh/65wri943","slide":46,"name":"checkpoint-component","bbox":[468,242,300,230]}
+{"kind":"textbox","id":"sh/rq5sbelo","slide":46,"name":"checkpoint-label","text":"CHECKPOINT","textPreview":"CHECKPOINT","textChars":10,"textLines":1,"bbox":[492,262,252,28]}
+{"kind":"textbox","id":"sh/43e9gjmx","slide":46,"name":"checkpoint-title","text":"Trained weights","textPreview":"Trained weights","textChars":15,"textLines":1,"bbox":[490,306,256,58]}
+{"kind":"textbox","id":"sh/54na9o3i","slide":46,"name":"checkpoint-detail","text":"learned parameters\nthat store patterns","textPreview":"learned parameters | that store patterns","textChars":38,"textLines":2,"bbox":[496,378,244,68]}
+{"kind":"textbox","id":"sh/i1wre94r","slide":46,"name":"tokenizer-plus","text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[774,320,48,54]}
+{"kind":"shape","id":"sh/j2587elc","slide":46,"name":"text ↔ ids-component","bbox":[828,242,300,230]}
+{"kind":"textbox","id":"sh/ozy9s3mh","slide":46,"name":"text ↔ ids-label","text":"TEXT ↔ IDS","textPreview":"TEXT ↔ IDS","textChars":10,"textLines":1,"bbox":[852,262,252,28]}
+{"kind":"textbox","id":"sh/p0ral83m","slide":46,"name":"text ↔ ids-title","text":"Tokenizer","textPreview":"Tokenizer","textChars":9,"textLines":1,"bbox":[850,306,256,58]}
+{"kind":"textbox","id":"sh/j6d47690","slide":46,"name":"text ↔ ids-detail","text":"vocabulary · split rules\nspecial tokens","textPreview":"vocabulary · split rules | special tokens","textChars":39,"textLines":2,"bbox":[856,378,244,68]}
+{"kind":"textbox","id":"sh/y543y1sv","slide":46,"name":"matching-takeaway","text":"The tokenizer must match the checkpoint — otherwise token IDs mean something else.","textPreview":"The tokenizer must match the checkpoint — otherwise token IDs mean something else.","textChars":82,"textLines":1,"bbox":[174,530,932,44]}
+{"kind":"notes","id":"nt/zixsf2ps","slide":46,"text":"[Sources]\nHugging Face Transformers, Loading models: https://huggingface.co/docs/transformers/en/models\nHugging Face Transformers, Auto Classes: https://huggingface.co/docs/transformers/model_doc/auto"}
+{"kind":"slide","id":"sl/atcnytkf","slide":47,"title":"Generation","textShapes":7}
+{"kind":"textbox","id":"sh/dor2dg3e","slide":47,"text":"Generation","textPreview":"Generation","textChars":10,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/0jy9sry9","slide":47,"text":"Inference repeats the same move","textPreview":"Inference repeats the same move","textChars":31,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/0jydkb6x","slide":47,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/y9w76l8v","slide":47,"text":"prompt","textPreview":"prompt","textChars":6,"textLines":1,"bbox":[200,330,160,70]}
+{"kind":"shape","id":"sh/j6pszi5s","slide":47,"bbox":[385,344,125,45]}
+{"kind":"textbox","id":"sh/u5cnm98n","slide":47,"text":"model","textPreview":"model","textChars":5,"textLines":1,"bbox":[540,300,200,130]}
+{"kind":"shape","id":"sh/fm1k72t4","slide":47,"bbox":[765,344,125,45]}
+{"kind":"textbox","id":"sh/50napon2","slide":47,"text":"new token","textPreview":"new token","textChars":9,"textLines":1,"bbox":[920,330,170,70]}
+{"kind":"shape","id":"sh/6povqdgf","slide":47,"bbox":[285,405,720,95]}
+{"kind":"textbox","id":"sh/ahcvexsf","slide":47,"text":"append and repeat","textPreview":"append and repeat","textChars":17,"textLines":1,"bbox":[485,520,300,35]}
+{"kind":"textbox","id":"sh/8vmdo32h","slide":47,"text":"47","textPreview":"47","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/atcnytkf","slide":47,"text":"[Sources]\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/pwb6x4jy","slide":48,"title":"Decoding","textShapes":5}
+{"kind":"textbox","id":"sh/6hoj2pwj","slide":48,"text":"Decoding","textPreview":"Decoding","textChars":8,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/4r6h8rul","slide":48,"text":"Sampling changes the voice","textPreview":"Sampling changes the voice","textChars":26,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/90nmdkji","slide":48,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/cved4r25","slide":48,"text":"low temperature","textPreview":"low temperature","textChars":15,"textLines":1,"bbox":[230,230,250,32]}
+{"kind":"shape","id":"sh/nixwjih8","slide":48,"bbox":[270,370,30,95]}
+{"kind":"shape","id":"sh/wjid0jyh","slide":48,"bbox":[318,440,30,25]}
+{"kind":"shape","id":"sh/mx0relcn","slide":48,"bbox":[366,455,30,10]}
+{"kind":"shape","id":"sh/8byxwzah","slide":48,"bbox":[414,457,30,8]}
+{"kind":"shape","id":"sh/7i5wbm58","slide":48,"bbox":[462,460,30,5]}
+{"kind":"textbox","id":"sh/0nydknqt","slide":48,"text":"high temperature","textPreview":"high temperature","textChars":16,"textLines":1,"bbox":[760,230,270,32]}
+{"kind":"shape","id":"sh/tcfm50v2","slide":48,"bbox":[800,410,30,55]}
+{"kind":"shape","id":"sh/orupcj69","slide":48,"bbox":[848,417,30,48]}
+{"kind":"shape","id":"sh/bq5wj2hw","slide":48,"bbox":[896,422,30,43]}
+{"kind":"shape","id":"sh/ipc3epk3","slide":48,"bbox":[944,430,30,35]}
+{"kind":"shape","id":"sh/nmdofi5w","slide":48,"bbox":[992,435,30,30]}
+{"kind":"textbox","id":"sh/bq58n61w","slide":48,"text":"48","textPreview":"48","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/pwb6x4jy","slide":48,"text":"[Sources]\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/oz2xg3q1","slide":49,"title":"Decoding","textShapes":23}
+{"kind":"textbox","id":"sh/ixwj6d4f","slide":49,"text":"Decoding","textPreview":"Decoding","textChars":8,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/k32pczmp","slide":49,"text":"Generation has adjustable controls","textPreview":"Generation has adjustable controls","textChars":34,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/3q98v2ts","slide":49,"bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/o3mp03up","slide":49,"bbox":[108,204,500,280]}
+{"kind":"textbox","id":"sh/y54fy5gr","slide":49,"text":"temperature","textPreview":"temperature","textChars":11,"textLines":1,"bbox":[142,232,210,32]}
+{"kind":"textbox","id":"sh/m9o32hsv","slide":49,"text":"low = focused","textPreview":"low = focused","textChars":13,"textLines":1,"bbox":[150,420,160,26]}
+{"kind":"textbox","id":"sh/7idszy10","slide":49,"text":"high = varied","textPreview":"high = varied","textChars":13,"textLines":1,"bbox":[398,420,160,26]}
+{"kind":"shape","id":"sh/lovypwby","slide":49,"bbox":[160,274,22,112]}
+{"kind":"textbox","id":"sh/uxgbyhgr","slide":49,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[152,396,38,24]}
+{"kind":"shape","id":"sh/ozuxwv2d","slide":49,"bbox":[194,334,22,52]}
+{"kind":"shape","id":"sh/ed8vyhkz","slide":49,"bbox":[186,396,38,24]}
+{"kind":"shape","id":"sh/3udgfqpg","slide":49,"bbox":[228,358,22,28]}
+{"kind":"shape","id":"sh/0bq1crix","slide":49,"bbox":[220,396,38,24]}
+{"kind":"shape","id":"sh/i5snudcf","slide":49,"bbox":[262,371,22,15]}
+{"kind":"shape","id":"sh/8bapwb6h","slide":49,"bbox":[254,396,38,24]}
+{"kind":"shape","id":"sh/fitg3qls","slide":49,"bbox":[408,312,22,74]}
+{"kind":"textbox","id":"sh/sjix4vul","slide":49,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[400,396,38,24]}
+{"kind":"shape","id":"sh/kr6lkn6p","slide":49,"bbox":[442,325,22,61]}
+{"kind":"shape","id":"sh/1kv2lofi","slide":49,"bbox":[434,396,38,24]}
+{"kind":"shape","id":"sh/fytwr6lw","slide":49,"bbox":[476,338,22,48]}
+{"kind":"shape","id":"sh/et4zyx8f","slide":49,"bbox":[468,396,38,24]}
+{"kind":"shape","id":"sh/xwb6xkva","slide":49,"bbox":[510,352,22,34]}
+{"kind":"shape","id":"sh/gjitwv2t","slide":49,"bbox":[502,396,38,24]}
+{"kind":"shape","id":"sh/6x0faxsn","slide":49,"bbox":[672,204,500,280]}
+{"kind":"textbox","id":"sh/jqlwbalg","slide":49,"text":"top-p","textPreview":"top-p","textChars":5,"textLines":1,"bbox":[706,232,140,32]}
+{"kind":"textbox","id":"sh/vudkr6t4","slide":49,"text":"keep the smallest set whose probability mass reaches p","textPreview":"keep the smallest set whose probability mass reaches p","textChars":54,"textLines":1,"bbox":[706,268,400,26]}
+{"kind":"shape","id":"sh/7ut4fmt0","slide":49,"bbox":[730,310,34,88]}
+{"kind":"textbox","id":"sh/qpwvihkf","slide":49,"text":"A","textPreview":"A","textChars":1,"textLines":1,"bbox":[722,408,50,24]}
+{"kind":"shape","id":"sh/2tkbqp8v","slide":49,"bbox":[785,330,34,68]}
+{"kind":"textbox","id":"sh/4n2hovud","slide":49,"text":"B","textPreview":"B","textChars":1,"textLines":1,"bbox":[777,408,50,24]}
+{"kind":"shape","id":"sh/ip4zm5k7","slide":49,"bbox":[840,348,34,50]}
+{"kind":"textbox","id":"sh/bipgry9g","slide":49,"text":"C","textPreview":"C","textChars":1,"textLines":1,"bbox":[832,408,50,24]}
+{"kind":"shape","id":"sh/jmp8re54","slide":49,"bbox":[895,366,34,32]}
+{"kind":"textbox","id":"sh/nmxojipo","slide":49,"text":"D","textPreview":"D","textChars":1,"textLines":1,"bbox":[887,408,50,24]}
+{"kind":"shape","id":"sh/32dsnalc","slide":49,"bbox":[950,378,34,20]}
+{"kind":"textbox","id":"sh/sr29kzet","slide":49,"text":"E","textPreview":"E","textChars":1,"textLines":1,"bbox":[942,408,50,24]}
+{"kind":"shape","id":"sh/gju1sbe1","slide":49,"bbox":[1005,386,34,12]}
+{"kind":"textbox","id":"sh/ax0v2ho7","slide":49,"text":"F","textPreview":"F","textChars":1,"textLines":1,"bbox":[997,408,50,24]}
+{"kind":"textbox","id":"sh/a5c3e9kj","slide":49,"text":"sample only inside nucleus","textPreview":"sample only inside nucleus","textChars":26,"textLines":1,"bbox":[760,430,280,26]}
+{"kind":"textbox","id":"sh/8f25sju1","slide":49,"text":"max tokens","textPreview":"max tokens","textChars":10,"textLines":1,"bbox":[168,520,240,58]}
+{"kind":"textbox","id":"sh/8vepwv2x","slide":49,"text":"how long to continue","textPreview":"how long to continue","textChars":20,"textLines":1,"bbox":[168,586,240,24]}
+{"kind":"textbox","id":"sh/czy98vix","slide":49,"text":"penalties","textPreview":"penalties","textChars":9,"textLines":1,"bbox":[520,520,240,58]}
+{"kind":"textbox","id":"sh/7mp4z6ps","slide":49,"text":"reduce repetition","textPreview":"reduce repetition","textChars":17,"textLines":1,"bbox":[520,586,240,24]}
+{"kind":"textbox","id":"sh/61wvq9cj","slide":49,"text":"stop","textPreview":"stop","textChars":4,"textLines":1,"bbox":[872,520,240,58]}
+{"kind":"textbox","id":"sh/hwruhgvu","slide":49,"text":"where to end","textPreview":"where to end","textChars":12,"textLines":1,"bbox":[872,586,240,24]}
+{"kind":"textbox","id":"sh/rypwj2xw","slide":49,"text":"49","textPreview":"49","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"image","id":"im/zeh87m9o","slide":49,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/oz2xg3q1","slide":49,"text":"[Sources]\nOpenAI API Reference, Responses create parameters: https://platform.openai.com/docs/api-reference/responses/create\nOpenAI API Reference, Chat create parameters: https://platform.openai.com/docs/api-reference/chat/create\nTemperature changes distribution sharpness. Top-p nucleus sampling limits sampling to a cumulative probability mass."}
+{"kind":"slide","id":"sl/a9gvuxsb","slide":50,"title":"Recap","textShapes":16}
+{"kind":"textbox","id":"sh/cvep4ny1","slide":50,"text":"Recap","textPreview":"Recap","textChars":5,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/gf2tsrih","slide":50,"text":"The whole path is one learning story","textPreview":"The whole path is one learning story","textChars":36,"textLines":1,"bbox":[64,62,980,62]}
+{"kind":"shape","id":"sh/9gnatoze","slide":50,"bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/10fi5sby","slide":50,"bbox":[150,380,930,1]}
+{"kind":"textbox","id":"sh/ylwfmp0n","slide":50,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[135,345,70,70]}
+{"kind":"textbox","id":"sh/hgjyxcre","slide":50,"text":"line","textPreview":"line","textChars":4,"textLines":1,"bbox":[95,445,150,30]}
+{"kind":"textbox","id":"sh/43yxw36l","slide":50,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[295,345,70,70]}
+{"kind":"textbox","id":"sh/xszuhgry","slide":50,"text":"network","textPreview":"network","textChars":7,"textLines":1,"bbox":[255,445,150,30]}
+{"kind":"textbox","id":"sh/xgrydkji","slide":50,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[465,345,70,70]}
+{"kind":"textbox","id":"sh/uh4bqhgj","slide":50,"text":"backprop","textPreview":"backprop","textChars":8,"textLines":1,"bbox":[425,445,150,30]}
+{"kind":"textbox","id":"sh/8z29c7a5","slide":50,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[655,345,70,70]}
+{"kind":"textbox","id":"sh/pwfatk7e","slide":50,"text":"attention","textPreview":"attention","textChars":9,"textLines":1,"bbox":[615,445,150,30]}
+{"kind":"textbox","id":"sh/m9sbet8f","slide":50,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[855,345,70,70]}
+{"kind":"textbox","id":"sh/mdo7a1g3","slide":50,"text":"Transformer","textPreview":"Transformer","textChars":11,"textLines":1,"bbox":[815,445,150,30]}
+{"kind":"textbox","id":"sh/fq54za9c","slide":50,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1025,345,70,70]}
+{"kind":"textbox","id":"sh/1o3utwvy","slide":50,"text":"GPT","textPreview":"GPT","textChars":3,"textLines":1,"bbox":[985,445,150,30]}
+{"kind":"textbox","id":"sh/2h8ne10j","slide":50,"text":"learn from error -> compare tokens -> predict the next token","textPreview":"learn from error -> compare tokens -> predict the next token","textChars":60,"textLines":1,"bbox":[215,245,850,44]}
+{"kind":"textbox","id":"sh/gzqh03qh","slide":50,"text":"50","textPreview":"50","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/a9gvuxsb","slide":50,"text":"[Sources]\nVaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.03762, https://arxiv.org/abs/1706.03762\nRadford et al., 2018, 'Improving Language Understanding by Generative Pre-Training', OpenAI.\nRadford et al., 2019, 'Language Models are Unsupervised Multitask Learners', OpenAI.\nBrown et al., 2020, 'Language Models are Few-Shot Learners', arXiv:2005.14165, https://arxiv.org/abs/2005.14165"}
+{"kind":"slide","id":"sl/36hsrmts","slide":51,"title":"GPT","textShapes":11}
+{"kind":"textbox","id":"sh/ovqpobe5","slide":51,"text":"GPT","textPreview":"GPT","textChars":3,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/yxkbup4j","slide":51,"text":"Special tokens can change behavior","textPreview":"Special tokens can change behavior","textChars":34,"textLines":1,"bbox":[64,62,1000,62]}
+{"kind":"shape","id":"sh/ud4vatgj","slide":51,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/crm1czel","slide":51,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[135,305,145,72]}
+{"kind":"textbox","id":"sh/ozad8j61","slide":51,"text":"answer","textPreview":"answer","textChars":6,"textLines":1,"bbox":[340,305,145,72]}
+{"kind":"textbox","id":"sh/gbeh8f6x","slide":51,"text":"<end>","textPreview":"<end>","textChars":5,"textLines":1,"bbox":[545,305,145,72]}
+{"kind":"textbox","id":"sh/yhkr618j","slide":51,"text":"<tool_call>","textPreview":"<tool_call>","textChars":11,"textLines":1,"bbox":[750,305,145,72]}
+{"kind":"textbox","id":"sh/tkjyd8fu","slide":51,"text":"<image>","textPreview":"<image>","textChars":7,"textLines":1,"bbox":[955,305,145,72]}
+{"kind":"shape","id":"sh/tsfu18vm","slide":51,"bbox":[150,435,930,1]}
+{"kind":"textbox","id":"sh/4ny50325","slide":51,"text":"normal text tokens","textPreview":"normal text tokens","textChars":18,"textLines":1,"bbox":[120,455,360,30]}
+{"kind":"textbox","id":"sh/j25sf6lk","slide":51,"text":"control tokens","textPreview":"control tokens","textChars":14,"textLines":1,"bbox":[620,455,430,30]}
+{"kind":"textbox","id":"sh/gvip0nm1","slide":51,"text":"Some tokens are instructions to the system, not words for the user.","textPreview":"Some tokens are instructions to the system, not words for the user.","textChars":67,"textLines":1,"bbox":[190,540,900,36]}
+{"kind":"textbox","id":"sh/fq18z2pc","slide":51,"text":"51","textPreview":"51","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/36hsrmts","slide":51,"text":"[Sources]\nConceptual explanation of special tokens in language-model systems.\nOpenAI API documentation describes tool calling and finish reasons at https://platform.openai.com/docs"}
+{"kind":"slide","id":"sl/gfe1wbu1","slide":52,"title":"GPT","textShapes":10}
+{"kind":"textbox","id":"sh/507u9wfa","slide":52,"text":"GPT","textPreview":"GPT","textChars":3,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/fa187alc","slide":52,"text":"A special token can trigger an external tool","textPreview":"A special token can trigger an external tool","textChars":44,"textLines":1,"bbox":[64,62,1000,62]}
+{"kind":"shape","id":"sh/uxofulwf","slide":52,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/n2x4b2dk","slide":52,"text":"prompt","textPreview":"prompt","textChars":6,"textLines":1,"bbox":[125,330,145,70]}
+{"kind":"shape","id":"sh/8fy1k3qh","slide":52,"bbox":[295,345,105,42]}
+{"kind":"textbox","id":"sh/58fa5sbu","slide":52,"text":"model","textPreview":"model","textChars":5,"textLines":1,"bbox":[430,300,170,130]}
+{"kind":"shape","id":"sh/lgzixsjy","slide":52,"bbox":[630,345,115,42]}
+{"kind":"textbox","id":"sh/4za5kzyp","slide":52,"text":"<tool_call>","textPreview":"<tool_call>","textChars":11,"textLines":1,"bbox":[775,320,170,88]}
+{"kind":"shape","id":"sh/nu50jexk","slide":52,"bbox":[970,345,105,42]}
+{"kind":"textbox","id":"sh/ilwnu1sv","slide":52,"text":"tool","textPreview":"tool","textChars":4,"textLines":1,"bbox":[1100,330,90,70]}
+{"kind":"textbox","id":"sh/a5o3i5cr","slide":52,"text":"<end>","textPreview":"<end>","textChars":5,"textLines":1,"bbox":[500,505,145,62]}
+{"kind":"textbox","id":"sh/0ri5g329","slide":52,"text":"stop generation","textPreview":"stop generation","textChars":15,"textLines":1,"bbox":[670,520,240,34]}
+{"kind":"textbox","id":"sh/nq1kz698","slide":52,"text":"The model may emit a control token instead of ordinary text.","textPreview":"The model may emit a control token instead of ordinary text.","textChars":60,"textLines":1,"bbox":[205,195,850,34]}
+{"kind":"textbox","id":"sh/xsrm587q","slide":52,"text":"52","textPreview":"52","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/gfe1wbu1","slide":52,"text":"[Sources]\nConceptual explanation of tool-call and end-of-generation control behavior.\nOpenAI API documentation describes tool calling and finish reasons at https://platform.openai.com/docs"}
+{"kind":"slide","id":"sl/9w7yt8zy","slide":53,"title":"Transformer","textShapes":13}
+{"kind":"textbox","id":"sh/9on2xgve","slide":53,"text":"Transformer","textPreview":"Transformer","textChars":11,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/dwz2hwvm","slide":53,"text":"FFN helps, but the full reason is not settled","textPreview":"FFN helps, but the full reason is not settled","textChars":45,"textLines":1,"bbox":[64,62,1040,62]}
+{"kind":"shape","id":"sh/mtkfyt4f","slide":53,"bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/cni10zy1","slide":53,"text":"attention","textPreview":"attention","textChars":9,"textLines":1,"bbox":[135,310,170,78]}
+{"kind":"textbox","id":"sh/ax072dsn","slide":53,"text":"mix","textPreview":"mix","textChars":3,"textLines":1,"bbox":[330,328,110,42]}
+{"kind":"textbox","id":"sh/4fe5gjix","slide":53,"text":"FFN","textPreview":"FFN","textChars":3,"textLines":1,"bbox":[465,285,190,128]}
+{"kind":"textbox","id":"sh/5gvuhs76","slide":53,"text":"transform","textPreview":"transform","textChars":9,"textLines":1,"bbox":[680,328,110,42]}
+{"kind":"textbox","id":"sh/q54rmlkr","slide":53,"text":"features","textPreview":"features","textChars":8,"textLines":1,"bbox":[815,310,170,78]}
+{"kind":"textbox","id":"sh/47utorah","slide":53,"text":"nonlinear feature transform","textPreview":"nonlinear feature transform","textChars":27,"textLines":1,"bbox":[175,470,275,68]}
+{"kind":"textbox","id":"sh/2lwnuxo3","slide":53,"text":"key-value memory evidence","textPreview":"key-value memory evidence","textChars":25,"textLines":1,"bbox":[505,470,275,68]}
+{"kind":"textbox","id":"sh/je5kjmxo","slide":53,"text":"not a single settled cause","textPreview":"not a single settled cause","textChars":26,"textLines":1,"bbox":[835,470,275,68]}
+{"kind":"textbox","id":"sh/vyxonal0","slide":53,"text":"Known: FFNs store and combine useful patterns.","textPreview":"Known: FFNs store and combine useful patterns.","textChars":46,"textLines":1,"bbox":[220,190,840,34]}
+{"kind":"textbox","id":"sh/l0nah8ru","slide":53,"text":"Open question: how much is form, capacity, or compute efficiency?","textPreview":"Open question: how much is form, capacity, or compute efficiency?","textChars":65,"textLines":1,"bbox":[170,580,940,34]}
+{"kind":"textbox","id":"sh/dof6tk72","slide":53,"text":"53","textPreview":"53","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/9w7yt8zy","slide":53,"text":"[Sources]\nGeva et al., 2021, 'Transformer Feed-Forward Layers Are Key-Value Memories', arXiv:2012.14913, https://arxiv.org/abs/2012.14913\nNdubuaku et al., 2026, 'A Controlled Study of Attention-Only Transformers', arXiv:2607.18363v1, https://arxiv.org/html/2607.18363v1"}
+{"kind":"slide","id":"sl/uhgfqdcf","slide":54,"title":"Alternative generation","textShapes":32}
+{"kind":"textbox","id":"sh/upw7ul0b","slide":54,"text":"Alternative generation","textPreview":"Alternative generation","textChars":22,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/hs7e9w72","slide":54,"text":"Diffusion language models (dLLMs) denoise tokens","textPreview":"Diffusion language models (dLLMs) denoise tokens","textChars":48,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/orapk3i5","slide":54,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/h0rqd0nu","slide":54,"text":"noise","textPreview":"noise","textChars":5,"textLines":1,"bbox":[118,240,120,30]}
+{"kind":"textbox","id":"sh/lo3qd4ry","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[275,230,86,54]}
+{"kind":"textbox","id":"sh/l4n2pcfu","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[380,230,86,54]}
+{"kind":"textbox","id":"sh/f25wvqd4","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[485,230,86,54]}
+{"kind":"textbox","id":"sh/v61kna5k","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[590,230,86,54]}
+{"kind":"textbox","id":"sh/alkn2dg7","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[695,230,86,54]}
+{"kind":"textbox","id":"sh/mpob2lsb","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[800,230,86,54]}
+{"kind":"shape","id":"sh/dk3650fq","slide":54,"bbox":[580,296,1,30]}
+{"kind":"textbox","id":"sh/i5cn6ts3","slide":54,"text":"step 1","textPreview":"step 1","textChars":6,"textLines":1,"bbox":[118,348,120,30]}
+{"kind":"textbox","id":"sh/x4z61sjy","slide":54,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[275,338,86,54]}
+{"kind":"textbox","id":"sh/r2pgvilc","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[380,338,86,54]}
+{"kind":"textbox","id":"sh/yhkfepk7","slide":54,"text":"learns","textPreview":"learns","textChars":6,"textLines":1,"bbox":[485,338,86,54]}
+{"kind":"textbox","id":"sh/fy9wnaxg","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[590,338,86,54]}
+{"kind":"textbox","id":"sh/u10byd0v","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[695,338,86,54]}
+{"kind":"textbox","id":"sh/87q1sjy1","slide":54,"text":".","textPreview":".","textChars":1,"textLines":1,"bbox":[800,338,86,54]}
+{"kind":"shape","id":"sh/2hgn25kz","slide":54,"bbox":[580,404,1,30]}
+{"kind":"textbox","id":"sh/sfm5cnm9","slide":54,"text":"step 2","textPreview":"step 2","textChars":6,"textLines":1,"bbox":[118,456,120,30]}
+{"kind":"textbox","id":"sh/cfu10ne1","slide":54,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[275,446,86,54]}
+{"kind":"textbox","id":"sh/zuxgfylk","slide":54,"text":"model","textPreview":"model","textChars":5,"textLines":1,"bbox":[380,446,86,54]}
+{"kind":"textbox","id":"sh/9gr2h47u","slide":54,"text":"learns","textPreview":"learns","textChars":6,"textLines":1,"bbox":[485,446,86,54]}
+{"kind":"textbox","id":"sh/0j6xwbux","slide":54,"text":"from","textPreview":"from","textChars":4,"textLines":1,"bbox":[590,446,86,54]}
+{"kind":"textbox","id":"sh/jmt0ve9s","slide":54,"text":"[MASK]","textPreview":"[MASK]","textChars":6,"textLines":1,"bbox":[695,446,86,54]}
+{"kind":"textbox","id":"sh/q9gn250r","slide":54,"text":".","textPreview":".","textChars":1,"textLines":1,"bbox":[800,446,86,54]}
+{"kind":"shape","id":"sh/b6d4nmp4","slide":54,"bbox":[580,512,1,30]}
+{"kind":"textbox","id":"sh/onyxovml","slide":54,"text":"text","textPreview":"text","textChars":4,"textLines":1,"bbox":[118,564,120,30]}
+{"kind":"textbox","id":"sh/14f6x8fa","slide":54,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[275,554,86,54]}
+{"kind":"textbox","id":"sh/8f6ls7mx","slide":54,"text":"model","textPreview":"model","textChars":5,"textLines":1,"bbox":[380,554,86,54]}
+{"kind":"textbox","id":"sh/wfu50bix","slide":54,"text":"learns","textPreview":"learns","textChars":6,"textLines":1,"bbox":[485,554,86,54]}
+{"kind":"textbox","id":"sh/4re1s36d","slide":54,"text":"from","textPreview":"from","textChars":4,"textLines":1,"bbox":[590,554,86,54]}
+{"kind":"textbox","id":"sh/3a5c3qxw","slide":54,"text":"data","textPreview":"data","textChars":4,"textLines":1,"bbox":[695,554,86,54]}
+{"kind":"textbox","id":"sh/m5orat4j","slide":54,"text":".","textPreview":".","textChars":1,"textLines":1,"bbox":[800,554,86,54]}
+{"kind":"textbox","id":"sh/j21kbapk","slide":54,"text":"not always left-to-right","textPreview":"not always left-to-right","textChars":24,"textLines":1,"bbox":[794,179,300,30]}
+{"kind":"textbox","id":"sh/2pkjqpsn","slide":54,"text":"54","textPreview":"54","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/uhgfqdcf","slide":54,"text":"[Sources]\nDiscrete Diffusion in Large Language and Multimodal Models: https://arxiv.org/abs/2506.13759\nLarge Language Diffusion Models / LLaDA: https://arxiv.org/abs/2502.09992\nSimple and Effective Masked Diffusion Language Models: https://arxiv.org/abs/2406.07524"}
+{"kind":"slide","id":"sl/vyd8bips","slide":55,"title":"Faster inference","textShapes":20}
+{"kind":"textbox","id":"sh/50balgfy","slide":55,"text":"Faster inference","textPreview":"Faster inference","textChars":16,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/3e18beh0","slide":55,"text":"Speculative decoding drafts, then verifies","textPreview":"Speculative decoding drafts, then verifies","textChars":42,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/0ba1s7u9","slide":55,"bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/5sz2dkz2","slide":55,"text":"small draft model","textPreview":"small draft model","textChars":17,"textLines":1,"bbox":[122,224,250,86]}
+{"kind":"textbox","id":"sh/p0bup8ra","slide":55,"text":"cheap guesses","textPreview":"cheap guesses","textChars":13,"textLines":1,"bbox":[122,318,250,28]}
+{"kind":"textbox","id":"sh/pkbed0n2","slide":55,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[462,240,86,54]}
+{"kind":"textbox","id":"sh/3ex4zitg","slide":55,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[555,240,86,54]}
+{"kind":"textbox","id":"sh/cn6t8rap","slide":55,"text":"sat","textPreview":"sat","textChars":3,"textLines":1,"bbox":[648,240,86,54]}
+{"kind":"textbox","id":"sh/j61kfa18","slide":55,"text":"on","textPreview":"on","textChars":2,"textLines":1,"bbox":[741,240,86,54]}
+{"kind":"textbox","id":"sh/sbed8ri5","slide":55,"text":"candidate tokens","textPreview":"candidate tokens","textChars":16,"textLines":1,"bbox":[492,318,310,28]}
+{"kind":"textbox","id":"sh/qdkn2hc7","slide":55,"text":"large target model","textPreview":"large target model","textChars":18,"textLines":1,"bbox":[885,224,250,86]}
+{"kind":"textbox","id":"sh/cvu18byp","slide":55,"text":"parallel check","textPreview":"parallel check","textChars":14,"textLines":1,"bbox":[885,318,250,28]}
+{"kind":"shape","id":"sh/dcve14f6","slide":55,"bbox":[390,267,52,1]}
+{"kind":"shape","id":"sh/6p4v254z","slide":55,"bbox":[840,267,42,1]}
+{"kind":"textbox","id":"sh/9wfutkj6","slide":55,"text":"accept prefix","textPreview":"accept prefix","textChars":13,"textLines":1,"bbox":[214,384,220,30]}
+{"kind":"textbox","id":"sh/50b6hs3a","slide":55,"text":"The","textPreview":"The","textChars":3,"textLines":1,"bbox":[220,440,86,54]}
+{"kind":"textbox","id":"sh/a5ozy1sb","slide":55,"text":"cat","textPreview":"cat","textChars":3,"textLines":1,"bbox":[313,440,86,54]}
+{"kind":"textbox","id":"sh/q5g7u1gv","slide":55,"text":"sat","textPreview":"sat","textChars":3,"textLines":1,"bbox":[406,440,86,54]}
+{"kind":"textbox","id":"sh/twby54fe","slide":55,"text":"reject / resample","textPreview":"reject / resample","textChars":17,"textLines":1,"bbox":[694,384,250,30]}
+{"kind":"textbox","id":"sh/i943i5oz","slide":55,"text":"on","textPreview":"on","textChars":2,"textLines":1,"bbox":[764,440,86,54]}
+{"kind":"textbox","id":"sh/4fetcjex","slide":55,"text":"mat","textPreview":"mat","textChars":3,"textLines":1,"bbox":[857,440,86,54]}
+{"kind":"shape","id":"sh/a1o3m9sj","slide":55,"bbox":[838,467,14,1]}
+{"kind":"textbox","id":"sh/r2hwzepg","slide":55,"text":"same target behavior, fewer serial waits","textPreview":"same target behavior, fewer serial waits","textChars":40,"textLines":1,"bbox":[374,570,530,34]}
+{"kind":"textbox","id":"sh/2tsvidc3","slide":55,"text":"55","textPreview":"55","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/vyd8bips","slide":55,"text":"[Sources]\nFast Inference from Transformers via Speculative Decoding: https://arxiv.org/abs/2211.17192\nGoogle Research, Looking back at speculative decoding: https://research.google/blog/looking-back-at-speculative-decoding/"}
+{"kind":"slide","id":"sl/83ix4rex","slide":56,"title":"Scaling trend","textShapes":18}
+{"kind":"textbox","id":"sh/9kbq94va","slide":56,"text":"Scaling trend","textPreview":"Scaling trend","textChars":13,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/fedsvitk","slide":56,"text":"Frontier models scale total compute","textPreview":"Frontier models scale total compute","textChars":35,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"textbox","id":"sh/2lcretwz","slide":56,"text":"not just parameter count","textPreview":"not just parameter count","textChars":24,"textLines":1,"bbox":[822,108,310,30]}
+{"kind":"shape","id":"sh/5gjmt4ja","slide":56,"bbox":[74,164,1132,456]}
+{"kind":"textbox","id":"sh/fq9wbqtg","slide":56,"text":"more useful computation","textPreview":"more useful computation","textChars":23,"textLines":1,"bbox":[396,184,488,34]}
+{"kind":"shape","id":"sh/n61c3e9s","slide":56,"bbox":[274,226,732,1]}
+{"kind":"shape","id":"sh/1wbu98ja","slide":56,"bbox":[112,252,245,296]}
+{"kind":"shape","id":"sh/k7als32h","slide":56,"bbox":[180,326,12,18]}
+{"kind":"shape","id":"sh/187a1gnq","slide":56,"bbox":[198,314,12,30]}
+{"kind":"shape","id":"sh/fm9g7ipg","slide":56,"bbox":[216,302,12,42]}
+{"kind":"shape","id":"sh/r2t8nito","slide":56,"bbox":[234,290,12,54]}
+{"kind":"textbox","id":"sh/p4fapg7e","slide":56,"text":"pretraining","textPreview":"pretraining","textChars":11,"textLines":1,"bbox":[132,378,205,34]}
+{"kind":"textbox","id":"sh/gf29sbyt","slide":56,"text":"bigger models\nmore data","textPreview":"bigger models | more data","textChars":23,"textLines":2,"bbox":[134,422,201,56]}
+{"kind":"textbox","id":"sh/or2dwry9","slide":56,"text":"train-time compute","textPreview":"train-time compute","textChars":18,"textLines":1,"bbox":[134,494,201,32]}
+{"kind":"shape","id":"sh/a5wrul8r","slide":56,"bbox":[386,252,245,296]}
+{"kind":"shape","id":"sh/mpg7epcz","slide":56,"bbox":[485,302,28,28]}
+{"kind":"shape","id":"sh/s3alobqp","slide":56,"bbox":[532,305,22,22]}
+{"kind":"shape","id":"sh/ulofm1gb","slide":56,"bbox":[499,316,44,1]}
+{"kind":"shape","id":"sh/32h0bu14","slide":56,"bbox":[510,334.44,22,22]}
+{"kind":"shape","id":"sh/bqh0v2ho","slide":56,"bbox":[499,316,22,29.44]}
+{"kind":"shape","id":"sh/behkf2ho","slide":56,"bbox":[466,334.44,22,22]}
+{"kind":"shape","id":"sh/2xgfilwf","slide":56,"bbox":[477,316,22,29.44]}
+{"kind":"shape","id":"sh/toz2dor6","slide":56,"bbox":[444,305,22,22]}
+{"kind":"shape","id":"sh/sni94nyl","slide":56,"bbox":[455,316,44,1]}
+{"kind":"shape","id":"sh/7uh8jqd4","slide":56,"bbox":[466,275.56,22,22]}
+{"kind":"shape","id":"sh/ofm1w7ad","slide":56,"bbox":[477,286.56,22,29.44]}
+{"kind":"shape","id":"sh/u9sbahoj","slide":56,"bbox":[510,275.56,22,22]}
+{"kind":"shape","id":"sh/fuh4vit8","slide":56,"bbox":[499,286.56,22,29.44]}
+{"kind":"textbox","id":"sh/sbq94nit","slide":56,"text":"MoE","textPreview":"MoE","textChars":3,"textLines":1,"bbox":[406,378,205,34]}
+{"kind":"textbox","id":"sh/ux0vq1cv","slide":56,"text":"many params\nfew active","textPreview":"many params | few active","textChars":22,"textLines":2,"bbox":[408,422,201,56]}
+{"kind":"textbox","id":"sh/adovahgv","slide":56,"text":"sparse compute","textPreview":"sparse compute","textChars":14,"textLines":1,"bbox":[408,494,201,32]}
+{"kind":"shape","id":"sh/y9gjilcz","slide":56,"bbox":[660,252,245,296]}
+{"kind":"shape","id":"sh/7290zq5s","slide":56,"bbox":[734,312,24,24]}
+{"kind":"shape","id":"sh/ipsj25sz","slide":56,"bbox":[771,298,24,24]}
+{"kind":"shape","id":"sh/4fu1cruh","slide":56,"bbox":[808,312,24,24]}
+{"kind":"shape","id":"sh/wjuxkvq1","slide":56,"bbox":[756,313,17,7]}
+{"kind":"shape","id":"sh/ls3ah036","slide":56,"bbox":[793,313,17,7]}
+{"kind":"textbox","id":"sh/0rux0ze1","slide":56,"text":"post-training","textPreview":"post-training","textChars":13,"textLines":1,"bbox":[680,378,205,34]}
+{"kind":"textbox","id":"sh/ts3m1wfe","slide":56,"text":"SFT + RL\nfeedback loops","textPreview":"SFT + RL | feedback loops","textChars":23,"textLines":2,"bbox":[682,422,201,56]}
+{"kind":"textbox","id":"sh/f61cr6do","slide":56,"text":"alignment compute","textPreview":"alignment compute","textChars":17,"textLines":1,"bbox":[682,494,201,32]}
+{"kind":"shape","id":"sh/6hwzy1w7","slide":56,"bbox":[934,252,245,296]}
+{"kind":"shape","id":"sh/rep43uhc","slide":56,"bbox":[1012,284,76,76]}
+{"kind":"shape","id":"sh/zqx4jaxk","slide":56,"bbox":[1050,300,1,22]}
+{"kind":"shape","id":"sh/czux4fmh","slide":56,"bbox":[1050,322,21,6]}
+{"kind":"shape","id":"sh/wbiporet","slide":56,"bbox":[1090,322,28,1]}
+{"kind":"textbox","id":"sh/9kbydsna","slide":56,"text":"test-time","textPreview":"test-time","textChars":9,"textLines":1,"bbox":[954,378,205,34]}
+{"kind":"textbox","id":"sh/54zux4ry","slide":56,"text":"think longer\nbefore answer","textPreview":"think longer | before answer","textChars":26,"textLines":2,"bbox":[956,422,201,56]}
+{"kind":"textbox","id":"sh/rm90vy50","slide":56,"text":"inference compute","textPreview":"inference compute","textChars":17,"textLines":1,"bbox":[956,494,201,32]}
+{"kind":"textbox","id":"sh/4bip0fi1","slide":56,"text":"Trend: scale the whole compute budget","textPreview":"Trend: scale the whole compute budget","textChars":37,"textLines":1,"bbox":[320,572,640,34]}
+{"kind":"textbox","id":"sh/cfupwju9","slide":56,"text":"56","textPreview":"56","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/83ix4rex","slide":56,"text":"[Sources]\nScaling Laws for Neural Language Models: https://arxiv.org/abs/2001.08361\nTraining Compute-Optimal Large Language Models: https://arxiv.org/abs/2203.15556\nMixtral of Experts: https://arxiv.org/abs/2401.04088\nDeepSeek-V3 Technical Report: https://arxiv.org/abs/2412.19437\nOpenAI, Learning to reason with LLMs: https://openai.com/index/learning-to-reason-with-llms/\nDeepSeek-R1: https://arxiv.org/abs/2501.12948"}
+{"kind":"slide","id":"sl/p8vetc3e","slide":57,"title":"Compression","textShapes":15}
+{"kind":"textbox","id":"sh/0rqt8j6t","slide":57,"text":"Compression","textPreview":"Compression","textChars":11,"textLines":1,"bbox":[64,34,420,30]}
+{"kind":"textbox","id":"sh/mt0r2hc3","slide":57,"text":"Teacher-student distillation transfers behavior","textPreview":"Teacher-student distillation transfers behavior","textChars":47,"textLines":1,"bbox":[64,62,1080,62]}
+{"kind":"shape","id":"sh/4byhonel","slide":57,"bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/kzutozmd","slide":57,"bbox":[146,270,164,56]}
+{"kind":"shape","id":"sh/lgfad0nu","slide":57,"bbox":[156,257,164,56]}
+{"kind":"shape","id":"sh/uh4zihsv","slide":57,"bbox":[166,244,164,56]}
+{"kind":"shape","id":"sh/w7elsba5","slide":57,"bbox":[176,231,164,56]}
+{"kind":"shape","id":"sh/edoj6lsf","slide":57,"bbox":[186,218,164,56]}
+{"kind":"textbox","id":"sh/l8jupknm","slide":57,"text":"teacher","textPreview":"teacher","textChars":7,"textLines":1,"bbox":[124,364,240,32]}
+{"kind":"textbox","id":"sh/or65cjy9","slide":57,"text":"large, expensive","textPreview":"large, expensive","textChars":16,"textLines":1,"bbox":[124,404,240,30]}
+{"kind":"shape","id":"sh/4ve1obm1","slide":57,"bbox":[360,298,110,1]}
+{"kind":"textbox","id":"sh/a5knyl4z","slide":57,"text":"soft targets","textPreview":"soft targets","textChars":12,"textLines":1,"bbox":[486,210,284,70]}
+{"kind":"textbox","id":"sh/mxwnuxgf","slide":57,"text":"probabilities carry extra signal","textPreview":"probabilities carry extra signal","textChars":32,"textLines":1,"bbox":[458,292,340,28]}
+{"kind":"textbox","id":"sh/5sz6xona","slide":57,"text":"cat .62","textPreview":"cat .62","textChars":7,"textLines":1,"bbox":[440,365,92,52]}
+{"kind":"textbox","id":"sh/w769snqp","slide":57,"text":"dog .21","textPreview":"dog .21","textChars":7,"textLines":1,"bbox":[548,365,92,52]}
+{"kind":"textbox","id":"sh/psri90fi","slide":57,"text":"fox .09","textPreview":"fox .09","textChars":7,"textLines":1,"bbox":[656,365,92,52]}
+{"kind":"textbox","id":"sh/5gfut432","slide":57,"text":"...","textPreview":"...","textChars":3,"textLines":1,"bbox":[764,365,92,52]}
+{"kind":"shape","id":"sh/up8fmh0b","slide":57,"bbox":[824,298,94,1]}
+{"kind":"shape","id":"sh/9wn29wr6","slide":57,"bbox":[942,296,164,56]}
+{"kind":"shape","id":"sh/ax4fuxk7","slide":57,"bbox":[952,283,164,56]}
+{"kind":"shape","id":"sh/w36pwret","slide":57,"bbox":[962,270,164,56]}
+{"kind":"textbox","id":"sh/loj2ds36","slide":57,"text":"student","textPreview":"student","textChars":7,"textLines":1,"bbox":[920,390,240,32]}
+{"kind":"textbox","id":"sh/pcjutob6","slide":57,"text":"smaller, faster","textPreview":"smaller, faster","textChars":15,"textLines":1,"bbox":[920,430,240,30]}
+{"kind":"textbox","id":"sh/pgnu143u","slide":57,"text":"learn the teacher's output distribution","textPreview":"learn the teacher's output distribution","textChars":39,"textLines":1,"bbox":[346,512,590,34]}
+{"kind":"shape","id":"sh/t8f2hcv6","slide":57,"bbox":[1001,214,18,18]}
+{"kind":"shape","id":"sh/6ho3e98r","slide":57,"bbox":[1031,214,18,18]}
+{"kind":"shape","id":"sh/d0j6lgby","slide":57,"bbox":[1061,214,18,18]}
+{"kind":"textbox","id":"sh/t4fip0fm","slide":57,"text":"deployment","textPreview":"deployment","textChars":10,"textLines":1,"bbox":[948,190,190,26]}
+{"kind":"textbox","id":"sh/6ds7elcb","slide":57,"text":"57","textPreview":"57","textChars":2,"textLines":1,"bbox":[1166,660,50,24]}
+{"kind":"notes","id":"nt/p8vetc3e","slide":57,"text":"[Sources]\nDistilling the Knowledge in a Neural Network: https://arxiv.org/abs/1503.02531\nDistilBERT, a distilled version of BERT: https://arxiv.org/abs/1910.01108"}

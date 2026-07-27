@@ -1,0 +1,5 @@
+Output slide 2: duplicated source slide 37; replaced the portrait diagram with the user-supplied AI landscape image, widened the image frame from 350 px to 432 px to match the supplied aspect ratio, and rewrote the inherited sidebar to connect the overview to this deck's learning path.
+
+Output slide 1: updated the five roadmap page ranges by +1 to account for the inserted orientation slide.
+
+All slides: renumbered only the inherited bottom-right page marker after insertion.

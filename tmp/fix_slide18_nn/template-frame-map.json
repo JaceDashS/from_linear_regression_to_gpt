@@ -1,0 +1,620 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "neural-network connectivity",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/up4zupcf",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/ypcbedsz",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/ixgju5kv",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/lcza5kzy",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/1kri90bq",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/6hsfat4j",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/kby9k76h",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/n6lsvy18",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/w3qtwzid",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/japgzq5o",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/z2p4v6p0",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/nihknatk",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/21kbeh4v",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/f6xcb6d0",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/bq1svitc",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/2pcjaxkn",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/h83e5sz6",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/qpg369gj",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/1czax47y",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/0vy983y1",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/psnm1wvq",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/18zu9kny",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/a10v6dwj",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/cbm9sbu9",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/3qpon6dk",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/6d8zu503",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/r2pkfqh0",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/ad8rihgv",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/bu9snu54",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/nmh8v2hg",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/4r2hszep",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/qtgbqlo7",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/wjitcjmx",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/onylo7yh",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/adozi1gf",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/2dojit0r",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/29k36xsb",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/udkvap4f",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/xc7a9wjy",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/yt0jy1gz",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/etg7i9s7",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/47m1gbyp",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/hw7q9cna",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/2p0vih8v",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/crq9w3u1",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/qts3u5s3",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/bel0va9s",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/xcne5o3u",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/rix8vm1c",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        },
+        {
+          "sourceElementId": "sh/765cby5w",
+          "action": "replace",
+          "replacement": "anchored straight connector"
+        }
+      ]
+    },
+    {
+      "outputSlide": 19,
+      "sourceSlide": 19,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 20,
+      "sourceSlide": 20,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 21,
+      "sourceSlide": 21,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 22,
+      "sourceSlide": 22,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 23,
+      "sourceSlide": 23,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 24,
+      "sourceSlide": 24,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 25,
+      "sourceSlide": 25,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 26,
+      "sourceSlide": 26,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 27,
+      "sourceSlide": 27,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 28,
+      "sourceSlide": 28,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 29,
+      "sourceSlide": 29,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 30,
+      "sourceSlide": 30,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 31,
+      "sourceSlide": 31,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 32,
+      "sourceSlide": 32,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 33,
+      "sourceSlide": 33,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 34,
+      "sourceSlide": 34,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 35,
+      "sourceSlide": 35,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 36,
+      "sourceSlide": 36,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 37,
+      "sourceSlide": 37,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 38,
+      "sourceSlide": 38,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 39,
+      "sourceSlide": 39,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 40,
+      "sourceSlide": 40,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 41,
+      "sourceSlide": 41,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 42,
+      "sourceSlide": 42,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 43,
+      "sourceSlide": 43,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 44,
+      "sourceSlide": 44,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 45,
+      "sourceSlide": 45,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 46,
+      "sourceSlide": 46,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 47,
+      "sourceSlide": 47,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 48,
+      "sourceSlide": 48,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 49,
+      "sourceSlide": 49,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 50,
+      "sourceSlide": 50,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 51,
+      "sourceSlide": 51,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 52,
+      "sourceSlide": 52,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    }
+  ],
+  "omittedSourceSlides": []
+}

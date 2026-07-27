@@ -1,0 +1,2 @@
+User-provided image: https://miro.medium.com/v2/resize:fit:1400/1*yvClU5LgylulNWLPNpOCfA.png
+Supporting primary source: Ho et al., 2020, Denoising Diffusion Probabilistic Models, https://arxiv.org/abs/2006.11239

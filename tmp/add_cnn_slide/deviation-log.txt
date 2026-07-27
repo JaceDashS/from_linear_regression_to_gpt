@@ -1,0 +1,3 @@
+Slide 19: duplicate source slide 13, rewrite eyebrow/title, delete the inherited main image plus annealing/chart-specific shapes and transparent curve overlay, then add the CNN image in the inherited image zone and add source notes. Reason: replacing the duplicated image source also mutated slide 13 because both slides shared the same media reference; delete-and-add preserves slide 13 while retaining the template frame.
+Slide 1: update section ranges after inserting one Foundations slide.
+Slides 19-53: update visible page markers after insertion.

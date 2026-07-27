@@ -1,0 +1,2 @@
+User-provided image: https://blog.octopt.com/wp-content/uploads/2020/04/Seq2Seq.png
+The image visibly shows an encoder sequence passing a single context representation into a decoder sequence.

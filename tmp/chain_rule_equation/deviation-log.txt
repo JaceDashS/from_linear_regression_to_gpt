@@ -1,0 +1,2 @@
+Slide 15: replaced the existing plain-text formula object with a stacked-fraction SVG equation. Formula semantics, blue accent color, computational graph, title, notes, and page number are preserved.
+Slides 1-14 and 16-52: preserved without intentional edits.

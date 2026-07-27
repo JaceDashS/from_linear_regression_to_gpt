@@ -1,0 +1,603 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"From Linear Regression to GPT","textShapes":25}
+{"kind":"textbox","id":"sh/jmts7alo","slide":1,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/ax87ehwf","slide":1,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/218zuh4v","slide":1,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/4fmhsb69","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/uhgbm18r","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/mpgf2h8f","slide":1,"textChars":24,"textLines":2}
+{"kind":"textbox","id":"sh/toryx8rm","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/2943qpkb","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/gbaxsri5","slide":1,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/9kz6l8ra","slide":1,"textChars":21,"textLines":2}
+{"kind":"textbox","id":"sh/8vu9o3il","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/k76dk32h","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/nyxwbe58","slide":1,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/bydgjehs","slide":1,"textChars":17,"textLines":2}
+{"kind":"textbox","id":"sh/7ehcbetg","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/gzmt4vmd","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/5cv2xov6","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/yxcjyhk3","slide":1,"textChars":18,"textLines":2}
+{"kind":"textbox","id":"sh/udsfupcf","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/ni9cve1o","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/qxcv2lw3","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/zy1g76xw","slide":1,"textChars":21,"textLines":2}
+{"kind":"textbox","id":"sh/v6torutg","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/jetofylo","slide":1,"textChars":48,"textLines":1}
+{"kind":"textbox","id":"sh/yx8nadc7","slide":1,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources] | This slide now functions as the table of contents: foundations, l..."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/e5wva9s7","slide":2,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/t03qlgra","slide":2,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/bqdkby9g","slide":2,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/bepgna54","slide":2,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/9sbudknm","slide":2,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/a5wzmlkz","slide":2,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/gr29snqp","slide":2,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/xkridw3m","slide":2,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/gnmx07ih","slide":3,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/mxsrqlsn","slide":3,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/gzqxcfu5","slide":3,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/v2h0fi5k","slide":3,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/lkjed07y","slide":3,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/25gjil8f","slide":3,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/md8jm5kr","slide":3,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/l0by1grq","slide":3,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/xczat0ju","slide":4,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/bi5cvepo","slide":4,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/cf2hkvul","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/4v2lgbit","slide":4,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/ut8zat43","slide":4,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/w3i98jmt","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/3e98na58","slide":4,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/n6187ix4","slide":4,"name":"","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Linear regression","textShapes":9}
+{"kind":"textbox","id":"sh/gvatc3u9","slide":5,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/e1cf6dgn","slide":5,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/i583y947","slide":5,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/ri9ofu5c","slide":5,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/6p8ze9kr","slide":5,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/ud0bixkj","slide":5,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/f650z214","slide":5,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/oz6d07ep","slide":5,"textChars":39,"textLines":2}
+{"kind":"textbox","id":"sh/n2dwja5c","slide":5,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Regression","textShapes":9}
+{"kind":"textbox","id":"sh/2l4ji5k3","slide":6,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/ilwvix0b","slide":6,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/fu54vmt8","slide":6,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/zi1knutg","slide":6,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/kz6lwz6d","slide":6,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/h4bqlobq","slide":6,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/6psn2hwz","slide":6,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/u183ypkb","slide":6,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/2xgr610b","slide":6,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/8zud0nat","slide":6,"name":"","bbox":[200,252,760,318]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Regression","textShapes":8}
+{"kind":"textbox","id":"sh/k7udkz69","slide":7,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0nelk7ad","slide":7,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/byd0vm5s","slide":7,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/vm18vqlo","slide":7,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/wjupkjm1","slide":7,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/6hcnml0r","slide":7,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/6lgvix0r","slide":7,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/wzehcval","slide":7,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/o3ql07ep","slide":7,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Regression","textShapes":28}
+{"kind":"textbox","id":"sh/gvylk7a9","slide":8,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/i1gvm18f","slide":8,"textChars":47,"textLines":1}
+{"kind":"textbox","id":"sh/mxwba90f","slide":8,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/vq107ilc","slide":8,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/qdovy10b","slide":8,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ylcn6h4b","slide":8,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/edozmtgf","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/0fat0b61","slide":8,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/s7ydwjyt","slide":8,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/cnq5o7q5","slide":8,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/wbe90zmh","slide":8,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/r2103qt8","slide":8,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/9kjix07e","slide":8,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/gvelcbah","slide":8,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/d0bi98vi","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/oru1cb6p","slide":8,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/nyxsrids","slide":8,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ts76d4zu","slide":8,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/c7ytg3e9","slide":8,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/a5orqpwb","slide":8,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/3uh07ixk","slide":8,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/lgvqxgnu","slide":8,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/3qtgzixc","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/v25gvqtg","slide":8,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/zut0nqd0","slide":8,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/mdsvu98n","slide":8,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/s32hgzap","slide":8,"textChars":58,"textLines":1}
+{"kind":"textbox","id":"sh/b2dojyt0","slide":8,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources] | Educational synthesis based on standard train/validation/test mod..."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Regression","textShapes":19}
+{"kind":"textbox","id":"sh/43u9g3al","slide":9,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/uhoj6lcf","slide":9,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/1k3ul4vy","slide":9,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/dsza10z2","slide":9,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/14f2p0n2","slide":9,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/5gvu5sv6","slide":9,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/d8ruxon6","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/epcj2pk3","slide":9,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/4v25ozix","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/wbqhgf6t","slide":9,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/nqx4vu5c","slide":9,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/7et0fydo","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/cjuxkvud","slide":9,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/p0badcjq","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/jatoz6pc","slide":9,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/kn6tkbe9","slide":9,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/8zypojul","slide":9,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/7qhoryt4","slide":9,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/e1onm1kf","slide":9,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/3elo7ylg","slide":9,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources] | Educational synthesis based on standard machine learning train/va..."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Partial derivatives","textShapes":10}
+{"kind":"textbox","id":"sh/oj6xcj29","slide":10,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/3ihszixk","slide":10,"textChars":43,"textLines":1}
+{"kind":"textbox","id":"sh/u1ovq1sr","slide":10,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/gryd4zyl","slide":10,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/kzypgj69","slide":10,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/b6pozitw","slide":10,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/a9gfqx0z","slide":10,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/0j690fml","slide":10,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/9k329gfe","slide":10,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/vydkjqhk","slide":10,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/hcbup87a","slide":10,"name":"","bbox":[115,171.25,1050,187.5]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Gradient descent","textShapes":7}
+{"kind":"textbox","id":"sh/0rqtcnu5","slide":11,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/18n6lwfa","slide":11,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/l8butgbu","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/g3mlwz6d","slide":11,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/t4vixwfm","slide":11,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/p8fulo3i","slide":11,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/y1kjihob","slide":11,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/t8vat0zu","slide":11,"name":"","bbox":[190,165.35,845,69.29]}
+{"kind":"image","id":"im/s7mtkvy9","slide":11,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Learning rate","textShapes":9}
+{"kind":"textbox","id":"sh/3qxkv21w","slide":12,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/4r69wvul","slide":12,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/6h8zu90z","slide":12,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/147y1wnu","slide":12,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/jahk3e58","slide":12,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/alwv21kj","slide":12,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/3i1wfe50","slide":12,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ze9gfuls","slide":12,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/1gnilkbi","slide":12,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/b6hozihw","slide":12,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Optimization","textShapes":12}
+{"kind":"textbox","id":"sh/exsf250f","slide":13,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/5gvihwbi","slide":13,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/2pw361sf","slide":13,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/z2lk7q5c","slide":13,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/i5krut03","slide":13,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/va9cvmhc","slide":13,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ihcr2dw3","slide":13,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/sfyxov2l","slide":13,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/98vet8n6","slide":13,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/tg3e14fa","slide":13,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/43qx8nyl","slide":13,"textChars":49,"textLines":1}
+{"kind":"textbox","id":"sh/t8rqhwbm","slide":13,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/m5c3el4z","slide":13,"name":"","bbox":[112,206,668,336]}
+{"kind":"image","id":"im/9832p0nq","slide":13,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources] | 3D loss landscape image provided by user: https://miro.medium.com..."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Line search","textShapes":8}
+{"kind":"textbox","id":"sh/ixgji9sr","slide":14,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/76p43qh8","slide":14,"textChars":42,"textLines":1}
+{"kind":"textbox","id":"sh/jm1sfa18","slide":14,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/lo3qd0vm","slide":14,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/oj25cj25","slide":14,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/83mlszap","slide":14,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/7el8j6lg","slide":14,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/don6x07i","slide":14,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/1c769oze","slide":14,"name":"","bbox":[196.86,160,816.28,78]}
+{"kind":"image","id":"im/gbypgjit","slide":14,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Calculus","textShapes":8}
+{"kind":"textbox","id":"sh/ihsfu14r","slide":15,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/ytovap4f","slide":15,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/bylw7its","slide":15,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ofqd0fql","slide":15,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/excnaxgn","slide":15,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/4fadsvut","slide":15,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/a9oba50v","slide":15,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/hsji5cnu","slide":15,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/cz294rad","slide":15,"name":"","bbox":[150,474,980,96]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Parallel math","textShapes":8}
+{"kind":"textbox","id":"sh/103ih03m","slide":16,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/z2dkn2ts","slide":16,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/nul4fm1g","slide":16,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/2l0fm5o3","slide":16,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/t4zu9ovi","slide":16,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/d47a9knm","slide":16,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/07ihkzu1","slide":16,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/gzihkfyp","slide":16,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"Neural networks","textShapes":12}
+{"kind":"textbox","id":"sh/u5w3alwv","slide":17,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/6pwrmtgf","slide":17,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/0v6h03ip","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/horilw7y","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0vudcfql","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/md4ve1o7","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/jupwzq18","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/10bihknq","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ofyx4n6t","slide":17,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/h8j6loby","slide":17,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ylwfq5o7","slide":17,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/t0fexgv6","slide":17,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"Depth","textShapes":7}
+{"kind":"textbox","id":"sh/qpgb2x0b","slide":18,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/xkfapkze","slide":18,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/mt43ad8r","slide":18,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ji507up0","slide":18,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/9cnat872","slide":18,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/8z6pkzul","slide":18,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/143654ri","slide":18,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"Vision","textShapes":3}
+{"kind":"textbox","id":"sh/58fqp47a","slide":19,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/epoj2d0j","slide":19,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/8buds7ax","slide":19,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/03yhczml","slide":19,"name":"","bbox":[172,170.04,936,439.92]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"[Sources] | CNN overview and claims about local connectivity, feature maps, p..."}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"Training","textShapes":10}
+{"kind":"textbox","id":"sh/1knm50fy","slide":20,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/gvihgny5","slide":20,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/wfqpw765","slide":20,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/vehw7yp0","slide":20,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ts7edsvu","slide":20,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ilcjqdsb","slide":20,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/zil0j69c","slide":20,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5kbq94na","slide":20,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/2xs761sr","slide":20,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/mlkn6t8n","slide":20,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"Loop","textShapes":8}
+{"kind":"textbox","id":"sh/ydsrmxo7","slide":21,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/187ehs7e","slide":21,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/p0ba5gb2","slide":21,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/u1sn6lkb","slide":21,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/vqpoz6ls","slide":21,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/0butsj6x","slide":21,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/lcnahwjq","slide":21,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/e1gjuloz","slide":21,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"Embeddings","textShapes":7}
+{"kind":"textbox","id":"sh/07ylg7et","slide":22,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/fupg3uds","slide":22,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/58jq10fi","slide":22,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/pcr2dkbq","slide":22,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/6pwbmt8b","slide":22,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/gfm1cvm9","slide":22,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/ilkjah47","slide":22,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"Embeddings","textShapes":10}
+{"kind":"textbox","id":"sh/cbi1w3a1","slide":23,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/kj2ds3y1","slide":23,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/0fyt4fmh","slide":23,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5gfmh4f2","slide":23,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/s3e5kj2p","slide":23,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/twv2p8f6","slide":23,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/lwnyp8va","slide":23,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/8fitwrep","slide":23,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/9obe5szy","slide":23,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/d4jal4nq","slide":23,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"Sequences","textShapes":9}
+{"kind":"textbox","id":"sh/o3ux83ep","slide":24,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/by1k3q9w","slide":24,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/3ylkni9c","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/2h47ilwn","slide":24,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/mt0jqlkb","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/3mx0ryx4","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/dcnm5s7m","slide":24,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/upcbe1on","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/1onu583m","slide":24,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"Before attention","textShapes":11}
+{"kind":"textbox","id":"sh/3mp07yx8","slide":25,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/va94jml4","slide":25,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/xovad0fy","slide":25,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/atsv25or","slide":25,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/6tcbuhwr","slide":25,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/tkredcvi","slide":25,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/7uhs3ixs","slide":25,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/obu1s7y1","slide":25,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/6t8ryhgf","slide":25,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/fmpgvmx8","slide":25,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/y5cfu1kf","slide":25,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"Limit","textShapes":11}
+{"kind":"textbox","id":"sh/axkvyxsn","slide":26,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/nml4fi5o","slide":26,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/uhovah0f","slide":26,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/1o7elw32","slide":26,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/wr2dsfyl","slide":26,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/8fil4na1","slide":26,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/83qpw7md","slide":26,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/o329wnqx","slide":26,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/i1kjyhgn","slide":26,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/xczy1ona","slide":26,"textChars":37,"textLines":1}
+{"kind":"textbox","id":"sh/qhgfe5on","slide":26,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"Memory","textShapes":4}
+{"kind":"textbox","id":"sh/cn29o7ip","slide":27,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/je1cb2x4","slide":27,"textChars":33,"textLines":1}
+{"kind":"textbox","id":"sh/etwz6dgv","slide":27,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/f69knqhw","slide":27,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/crit4b29","slide":27,"name":"","bbox":[110.29,205,1059.42,307]}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":"[Sources] | RNN, LSTM, and GRU comparison image supplied by the user: https:/..."}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"Encoder-decoder","textShapes":4}
+{"kind":"textbox","id":"sh/i1o3q5oj","slide":28,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/pg7ux4vi","slide":28,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/4rqlw3al","slide":28,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/1cf61036","slide":28,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/ax8zux4v","slide":28,"name":"","bbox":[143.33,175,993.35,370]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":"[Sources] | Seq2Seq encoder-decoder image supplied by the user: https://blog...."}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"Attention","textShapes":9}
+{"kind":"textbox","id":"sh/5kf6tsfu","slide":29,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/fmpovedo","slide":29,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/lgbutkj2","slide":29,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/83ehcnmd","slide":29,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/z6tcz2dk","slide":29,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/432tk36t","slide":29,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/g7m14jm1","slide":29,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/hojm1wri","slide":29,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/hsjuxcvq","slide":29,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"Mechanism","textShapes":9}
+{"kind":"textbox","id":"sh/ylcr218j","slide":30,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/2x0j6lsr","slide":30,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/4fuxcfep","slide":30,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/c3ah8ji9","slide":30,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/s7i9crq5","slide":30,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/vm90ri58","slide":30,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/md4je5k3","slide":30,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/kzmdgzql","slide":30,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/l4fypwfu","slide":30,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"Mechanism","textShapes":8}
+{"kind":"textbox","id":"sh/dwfuh0je","slide":31,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/fytgvil0","slide":31,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/250nalof","slide":31,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/g7y1gnyx","slide":31,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/h4ra5gbi","slide":31,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/6xkzi9g7","slide":31,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/d0nu5on2","slide":31,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ytwbet4n","slide":31,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"Mechanism","textShapes":6}
+{"kind":"textbox","id":"sh/twruhwnq","slide":32,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/nil47u94","slide":32,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/vix07u50","slide":32,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/vixgvih8","slide":32,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0ryt8reh","slide":32,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/it0zetsr","slide":32,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"Mechanism","textShapes":13}
+{"kind":"textbox","id":"sh/n2x83a5s","slide":33,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/s7ydw7yl","slide":33,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/6toj2pon","slide":33,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/1c3ehkv6","slide":33,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5gvup4r6","slide":33,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/yxg329gb","slide":33,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/xcra9sfa","slide":33,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/tobut0ri","slide":33,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/l036t836","slide":33,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/58je1gzu","slide":33,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/cbidgzux","slide":33,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/f2twv6ts","slide":33,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/hcnyx47m","slide":33,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"Self-attention","textShapes":15}
+{"kind":"textbox","id":"sh/18fidw7a","slide":34,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/2h0bqd0f","slide":34,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/2xgn2hcv","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/1or6l8fq","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/y5gn6p4j","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/761wr2to","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/xs7mhkfa","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/d8jm5c7m","slide":34,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/hcrmt0ja","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ul47ah03","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/e5wr254f","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/yx876l8j","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/n218zm18","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/p83ed0fy","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/3y9krqp8","slide":34,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"Multi-head","textShapes":7}
+{"kind":"textbox","id":"sh/yxgva9k3","slide":35,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/3uh03ul0","slide":35,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/r698jitw","slide":35,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/s7upgn2x","slide":35,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/sb214jmx","slide":35,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/utc7m5sz","slide":35,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/axwbyt83","slide":35,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"Order","textShapes":8}
+{"kind":"textbox","id":"sh/6pgry5w3","slide":36,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/gr694be5","slide":36,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/nu583uxs","slide":36,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/hkn2hcna","slide":36,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/be58zah8","slide":36,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/e50vi58f","slide":36,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/7yh8329o","slide":36,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/10vuxsn2","slide":36,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"Architecture","textShapes":7}
+{"kind":"textbox","id":"sh/apsrid4r","slide":37,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/d07qt0bi","slide":37,"textChars":51,"textLines":1}
+{"kind":"textbox","id":"sh/fyx4369o","slide":37,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/alkvylo3","slide":37,"textChars":27,"textLines":2}
+{"kind":"textbox","id":"sh/7mtwjmxw","slide":37,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/mlofm18v","slide":37,"textChars":50,"textLines":3}
+{"kind":"textbox","id":"sh/tkfuxofm","slide":37,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/21czytcf","slide":37,"name":"","bbox":[240,158.09,350,469.82]}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":"[Sources] | Transformer architecture image supplied by the user: https://qiit..."}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"Block","textShapes":8}
+{"kind":"textbox","id":"sh/wf6h4n2d","slide":38,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ypczqtcb","slide":38,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/9sju94je","slide":38,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/fy547q90","slide":38,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/7e5c3mp8","slide":38,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/7adcnetk","slide":38,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/6d4ve5k7","slide":38,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/jmhwn61g","slide":38,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/twb2lg7e","slide":39,"title":"Encoder","textShapes":11}
+{"kind":"textbox","id":"sh/obql43yp","slide":39,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/l0vilorm","slide":39,"textChars":33,"textLines":1}
+{"kind":"textbox","id":"sh/58vu98vy","slide":39,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/l8j29w32","slide":39,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/wzq54n2h","slide":39,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/6pw7edkr","slide":39,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/ori5wz69","slide":39,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/mxc3uh43","slide":39,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/mx4nylcz","slide":39,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/6dkb2xkn","slide":39,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/zudonelg","slide":39,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/twb2lg7e","slide":39,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/5ojatgfe","slide":40,"title":"Decoder","textShapes":5}
+{"kind":"textbox","id":"sh/xk7i9szy","slide":40,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/dofexsvq","slide":40,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/d4vi587u","slide":40,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/9kvm90f6","slide":40,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/qt03a5wz","slide":40,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/5ojatgfe","slide":40,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/cnmpwjmp","slide":41,"title":"2017","textShapes":6}
+{"kind":"textbox","id":"sh/fepkjmlc","slide":41,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5wfiho3m","slide":41,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/s3mtobeh","slide":41,"textChars":16,"textLines":2}
+{"kind":"textbox","id":"sh/kfyho3ux","slide":41,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/f294naxc","slide":41,"textChars":29,"textLines":2}
+{"kind":"textbox","id":"sh/6l8v2tcb","slide":41,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/cnmpwjmp","slide":41,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/7mdw7yh8","slide":42,"title":"GPT architecture","textShapes":7}
+{"kind":"textbox","id":"sh/edwry5s7","slide":42,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/h4vqx4vy","slide":42,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/je1sf6dw","slide":42,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/2lgbqx87","slide":42,"textChars":63,"textLines":3}
+{"kind":"textbox","id":"sh/jqdozuhw","slide":42,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/ahw7mhkj","slide":42,"textChars":65,"textLines":1}
+{"kind":"textbox","id":"sh/1gbexczu","slide":42,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/yh03qhkn","slide":42,"name":"","bbox":[253.79,160,392.42,472]}
+{"kind":"notes","id":"nt/7mdw7yh8","slide":42,"text":"[Sources] | GPT architecture image supplied by the user: https://img.sbbit.jp..."}
+{"kind":"slide","id":"sl/qhkbqxoz","slide":43,"title":"GPT","textShapes":9}
+{"kind":"textbox","id":"sh/bu1cf2ho","slide":43,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/q14bmxw3","slide":43,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/4vudw36t","slide":43,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/czqh4zix","slide":43,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/dcjq9orm","slide":43,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/ydcv2hoj","slide":43,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/ofmpczmd","slide":43,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/18nm1obe","slide":43,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/e54vuxsz","slide":43,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/qhkbqxoz","slide":43,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/pcvutcvy","slide":44,"title":"Objective","textShapes":10}
+{"kind":"textbox","id":"sh/d0fyd0ry","slide":44,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/svm5sr6l","slide":44,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/utkzm5cb","slide":44,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/32xwr2tc","slide":44,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/epor2ds7","slide":44,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/szylovud","slide":44,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ip8nqx8v","slide":44,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/itsvy5s7","slide":44,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/p0b2tsza","slide":44,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/gjux8b2l","slide":44,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/pcvutcvy","slide":44,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/kvipwnmh","slide":45,"title":"Scale","textShapes":9}
+{"kind":"textbox","id":"sh/atwrqlkj","slide":45,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/1szqhwry","slide":45,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/9cb2p0fm","slide":45,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/xor2tgv6","slide":45,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/4z2ls7ix","slide":45,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/y5wfep0z","slide":45,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/pgfi98vq","slide":45,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/l03idczq","slide":45,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/18bqt0ri","slide":45,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/kvipwnmh","slide":45,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/zixsf2ps","slide":46,"title":"Loading","textShapes":16}
+{"kind":"textbox","id":"sh/5gjah0n2","slide":46,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/ylwr6p8j","slide":46,"textChars":33,"textLines":1}
+{"kind":"textbox","id":"sh/obu983e9","slide":46,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/nal8zydo","slide":46,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/1o3qxovy","slide":46,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/0nu94jed","slide":46,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/sre9kjm9","slide":46,"textChars":36,"textLines":2}
+{"kind":"textbox","id":"sh/ts7ado3e","slide":46,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/rq5sbelo","slide":46,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/43e9gjmx","slide":46,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/54na9o3i","slide":46,"textChars":38,"textLines":2}
+{"kind":"textbox","id":"sh/i1wre94r","slide":46,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ozy9s3mh","slide":46,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/p0ral83m","slide":46,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/j6d47690","slide":46,"textChars":39,"textLines":2}
+{"kind":"textbox","id":"sh/y543y1sv","slide":46,"textChars":82,"textLines":1}
+{"kind":"notes","id":"nt/zixsf2ps","slide":46,"text":"[Sources] | Hugging Face Transformers, Loading models: https://huggingface.co..."}
+{"kind":"slide","id":"sl/atcnytkf","slide":47,"title":"Generation","textShapes":7}
+{"kind":"textbox","id":"sh/dor2dg3e","slide":47,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/0jy9sry9","slide":47,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/y9w76l8v","slide":47,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/u5cnm98n","slide":47,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/50napon2","slide":47,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ahcvexsf","slide":47,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/8vmdo32h","slide":47,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/atcnytkf","slide":47,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/pwb6x4jy","slide":48,"title":"Decoding","textShapes":5}
+{"kind":"textbox","id":"sh/6hoj2pwj","slide":48,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/4r6h8rul","slide":48,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/cved4r25","slide":48,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/0nydknqt","slide":48,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/bq58n61w","slide":48,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/pwb6x4jy","slide":48,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/oz2xg3q1","slide":49,"title":"Decoding","textShapes":23}
+{"kind":"textbox","id":"sh/ixwj6d4f","slide":49,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/k32pczmp","slide":49,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/y54fy5gr","slide":49,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/m9o32hsv","slide":49,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/7idszy10","slide":49,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/uxgbyhgr","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/sjix4vul","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/jqlwbalg","slide":49,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/vudkr6t4","slide":49,"textChars":54,"textLines":1}
+{"kind":"textbox","id":"sh/qpwvihkf","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/4n2hovud","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/bipgry9g","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/nmxojipo","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/sr29kzet","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ax0v2ho7","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/a5c3e9kj","slide":49,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/8f25sju1","slide":49,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/8vepwv2x","slide":49,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/czy98vix","slide":49,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/7mp4z6ps","slide":49,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/61wvq9cj","slide":49,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/hwruhgvu","slide":49,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/rypwj2xw","slide":49,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/zeh87m9o","slide":49,"name":"","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/oz2xg3q1","slide":49,"text":"[Sources] | OpenAI API Reference, Responses create parameters: https://platfo..."}
+{"kind":"slide","id":"sl/a9gvuxsb","slide":50,"title":"Recap","textShapes":16}
+{"kind":"textbox","id":"sh/cvep4ny1","slide":50,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/gf2tsrih","slide":50,"textChars":36,"textLines":1}
+{"kind":"textbox","id":"sh/ylwfmp0n","slide":50,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/hgjyxcre","slide":50,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/43yxw36l","slide":50,"textChars":1,"textLines":1}
+{"kind":"notice","message":"Truncated: omitted 149 lines. Increase maxChars or narrow target."}

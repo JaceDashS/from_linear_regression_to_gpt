@@ -1,0 +1,945 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "backtracking dotted loss curves",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "sourceElementId": "sh/wfetk3at",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/3itw7mhk",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/qtwryt8z",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/svyp0neh",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ryt0zmpg",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ylcb6xwj",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/exgjy1cv",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9snmlsvq",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/qh4vupof",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/feh8budo",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/98rapgru",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/butwva5k",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/kbqd8rml",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/6lwv2tcn",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/94bqpozm",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/mdgf6hk7",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ql4j69cv",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/90fahgvm",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/radsnep4",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/f6h8f2x8",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/a9wzapwb",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/tor21ony",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/s32xkv6t",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/d4n6lwra",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/et4zyp8b",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/y9s3mpov",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/6tk3m5wn",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/xkjuxsje",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/svihkr6l",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9wnml8vu",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/yxkfy9sr",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/cbmdwv2t",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/cfy58j2d",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/cbidgfyx",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/qx4v298b",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/pg3ehsja",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/7i54nmlo",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/3m90r6pw",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ex07q98v",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/4j2xsfy5",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/vm18ze5w",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/nut8ni9c",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/m9w36lcb",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9oju50j2",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/w7apw369",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/fmlw76pg",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/kv6xgzqd",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/5w36l87i",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/pofqtoza",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/czqxojeh",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ql836dwn",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ozmx8jqt",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/fupkv6tw",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/2l8vulgv",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/8r6dsfu1",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/r69g76pc",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/n258r6ts",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/4rehgjad",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/0vq54ry1",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/nalon2d8",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/dwrqtkr2",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9wfi10zy",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ax4ved07",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/cz21sj6h",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/lgvupg72",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/l0fqdsj6",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/lc76dgzy",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/b2dcz21g",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/c7uhozup",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/zupgje18",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/a1o3m9wn",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/t0jql0re",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/tgnat8bq",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/id0juxwb",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/pcbyhwnm",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/l8nulsnq",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/b61k72hs",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/3y1krels",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/vmdcvu5k",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/pcbe9kfu",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/rqhkzulw",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/2xkn6tg7",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/uxwbeh8f",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/h4vmhgz2",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/4vq50jid",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/1wni54vy",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/5k3mt4j6",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9kj658f2",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/hcjytwra",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/y5g3mxwb",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/5w7ytsj2",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/2h8zipsn",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/nm1kvetg",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ml8bydgz",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/mlk32x4f",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/be5sjux8",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9c765wb6",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/mpkr2psb",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/9kralgjq",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/58be5oza",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/32lgn25w",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/y943mhkz",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/nmx8bu9w",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/0rexk7ud",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/3qpovyd4",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/4fe9o76l",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ni1sr6tw",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/65obqp8j",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/fyt4bm5o",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/6h83m5o7",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/tcvyxw76",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ah8ru9or",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/ydcbmhg7",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/7utwzmtw",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        },
+        {
+          "sourceElementId": "sh/sv69cfyh",
+          "action": "replace",
+          "replacement": "single embedded SVG"
+        }
+      ]
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 16,
+      "sourceSlide": 16,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 17,
+      "sourceSlide": 17,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 18,
+      "sourceSlide": 18,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 19,
+      "sourceSlide": 19,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 20,
+      "sourceSlide": 20,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 21,
+      "sourceSlide": 21,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 22,
+      "sourceSlide": 22,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 23,
+      "sourceSlide": 23,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 24,
+      "sourceSlide": 24,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 25,
+      "sourceSlide": 25,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 26,
+      "sourceSlide": 26,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 27,
+      "sourceSlide": 27,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 28,
+      "sourceSlide": 28,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 29,
+      "sourceSlide": 29,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 30,
+      "sourceSlide": 30,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 31,
+      "sourceSlide": 31,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 32,
+      "sourceSlide": 32,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 33,
+      "sourceSlide": 33,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 34,
+      "sourceSlide": 34,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 35,
+      "sourceSlide": 35,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 36,
+      "sourceSlide": 36,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 37,
+      "sourceSlide": 37,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 38,
+      "sourceSlide": 38,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 39,
+      "sourceSlide": 39,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 40,
+      "sourceSlide": 40,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 41,
+      "sourceSlide": 41,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 42,
+      "sourceSlide": 42,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 43,
+      "sourceSlide": 43,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 44,
+      "sourceSlide": 44,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 45,
+      "sourceSlide": 45,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 46,
+      "sourceSlide": 46,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 47,
+      "sourceSlide": 47,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 48,
+      "sourceSlide": 48,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 49,
+      "sourceSlide": 49,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 50,
+      "sourceSlide": 50,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 51,
+      "sourceSlide": 51,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    },
+    {
+      "outputSlide": 52,
+      "sourceSlide": 52,
+      "narrativeRole": "preserve source slide",
+      "reuseMode": "duplicate-slide",
+      "editTargets": []
+    }
+  ],
+  "omittedSourceSlides": []
+}

@@ -1,0 +1,3 @@
+Slide 28: duplicate source slide 13, rewrite eyebrow/title/takeaway, delete the inherited main image and source-specific annealing/chart objects, and add the user-provided Seq2Seq image within the inherited content frame.
+Slide 1: update section ranges for a 55-slide deck.
+Slides 28-55: update visible page markers after insertion.

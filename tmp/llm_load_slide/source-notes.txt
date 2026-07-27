@@ -1,0 +1,4 @@
+No external visual assets used.
+Concept sources used in speaker notes:
+- https://huggingface.co/docs/transformers/en/models
+- https://huggingface.co/docs/transformers/model_doc/auto

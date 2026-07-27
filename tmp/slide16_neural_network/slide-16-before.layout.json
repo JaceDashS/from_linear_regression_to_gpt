@@ -1,0 +1,2016 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/gny5sjyp",
+    "id": "gny5sjyp",
+    "slide": 16,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i1krq9wz",
+      "id": "549712312",
+      "name": "Rectangle 549712311",
+      "bbox": [
+        64,
+        34,
+        420,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Depth",
+      "textPreview": "Depth",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Depth"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Depth",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#2563EB",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Depth",
+              "fontSize": 16,
+              "color": "#2563EB",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcfqx4ji",
+      "id": "504424574",
+      "name": "Rectangle 504424573",
+      "bbox": [
+        64,
+        62,
+        980,
+        62
+      ],
+      "geometry": "rect",
+      "text": "A network stacks many neurons",
+      "textPreview": "A network stacks many neurons",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "A network stacks many neurons"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "A network stacks many neurons",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "color": "#0B0F19",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "A network stacks many neurons",
+              "fontSize": 42,
+              "color": "#0B0F19",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhsv2twn",
+      "id": "8473208",
+      "name": "Rectangle: Rounded Corners 8473207",
+      "bbox": [
+        64,
+        142,
+        1152,
+        500
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#F8FAFC",
+      "lineColor": "#E2E8F0",
+      "lineWidth": 1.5
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rqdg32d4",
+      "id": "1713827264",
+      "name": "Oval 1713827263",
+      "bbox": [
+        206,
+        231,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#667085",
+      "lineWidth": 2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4za1gfi1",
+      "id": "324013537",
+      "name": "Oval 324013536",
+      "bbox": [
+        206,
+        361,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#667085",
+      "lineWidth": 2
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wzetszap",
+      "id": "1149235492",
+      "name": "Oval 1149235491",
+      "bbox": [
+        206,
+        491,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#667085",
+      "lineWidth": 2
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d87ytkn2",
+      "id": "1750953690",
+      "name": "Oval 1750953689",
+      "bbox": [
+        456,
+        231,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/83650je9",
+      "id": "1513393047",
+      "name": "Oval 1513393046",
+      "bbox": [
+        456,
+        296,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tc3ahwf",
+      "id": "496081327",
+      "name": "Oval 496081326",
+      "bbox": [
+        456,
+        361,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sn6l0zm1",
+      "id": "953579844",
+      "name": "Oval 953579843",
+      "bbox": [
+        456,
+        426,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6tkfy9w",
+      "id": "268581153",
+      "name": "Oval 268581152",
+      "bbox": [
+        456,
+        491,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yts7ytcb",
+      "id": "1782461719",
+      "name": "Oval 1782461718",
+      "bbox": [
+        716,
+        231,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wz2d0fu",
+      "id": "1638488984",
+      "name": "Oval 1638488983",
+      "bbox": [
+        716,
+        296,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wnqdovqx",
+      "id": "1018913498",
+      "name": "Oval 1018913497",
+      "bbox": [
+        716,
+        361,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g7e1ofe5",
+      "id": "1292287630",
+      "name": "Oval 1292287629",
+      "bbox": [
+        716,
+        426,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfi18ri5",
+      "id": "1410545747",
+      "name": "Oval 1410545746",
+      "bbox": [
+        716,
+        491,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jedgf6t",
+      "id": "1923839339",
+      "name": "Oval 1923839338",
+      "bbox": [
+        976,
+        231,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#DCFCE7",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovmxszap",
+      "id": "452248782",
+      "name": "Oval 452248781",
+      "bbox": [
+        976,
+        491,
+        48,
+        48
+      ],
+      "geometry": "ellipse",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#DCFCE7",
+      "lineColor": "#2563EB",
+      "lineWidth": 2
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61wralkr",
+      "id": "2036757280",
+      "name": "Rectangle 2036757279",
+      "bbox": [
+        165,
+        560,
+        130,
+        28
+      ],
+      "geometry": "rect",
+      "text": "input",
+      "textPreview": "input",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "input"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "input",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#667085",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "input",
+              "fontSize": 20,
+              "color": "#667085"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n6tcja5g",
+      "id": "899691757",
+      "name": "Rectangle 899691756",
+      "bbox": [
+        415,
+        560,
+        130,
+        28
+      ],
+      "geometry": "rect",
+      "text": "hidden",
+      "textPreview": "hidden",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "hidden"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "hidden",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#667085",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "hidden",
+              "fontSize": 20,
+              "color": "#667085"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/po32tsfy",
+      "id": "1393267237",
+      "name": "Rectangle 1393267236",
+      "bbox": [
+        675,
+        560,
+        130,
+        28
+      ],
+      "geometry": "rect",
+      "text": "hidden",
+      "textPreview": "hidden",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "hidden"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "hidden",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#667085",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "hidden",
+              "fontSize": 20,
+              "color": "#667085"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/krqp8zuh",
+      "id": "1802476534",
+      "name": "Rectangle 1802476533",
+      "bbox": [
+        935,
+        560,
+        130,
+        28
+      ],
+      "geometry": "rect",
+      "text": "output",
+      "textPreview": "output",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "output"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "output",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#667085",
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "output",
+              "fontSize": 20,
+              "color": "#667085"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwzutozi",
+      "id": "1736954646",
+      "name": "Rectangle 1736954645",
+      "bbox": [
+        1166,
+        660,
+        50,
+        24
+      ],
+      "geometry": "rect",
+      "text": "16",
+      "textPreview": "16",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#667085",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16",
+              "fontSize": 13,
+              "color": "#667085"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhcr6lsf",
+      "id": "2036758960",
+      "name": "Straight Arrow Connector 2036758667",
+      "bbox": [
+        254,
+        255,
+        202,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji58f690",
+      "id": "2036758961",
+      "name": "Straight Arrow Connector 2036758668",
+      "bbox": [
+        254,
+        255,
+        202,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3e98ba5",
+      "id": "2036758962",
+      "name": "Straight Arrow Connector 2036758669",
+      "bbox": [
+        254,
+        255,
+        202,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4nqhgrq",
+      "id": "2036758963",
+      "name": "Straight Arrow Connector 2036758670",
+      "bbox": [
+        254,
+        255,
+        202,
+        195
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wralsb",
+      "id": "2036758964",
+      "name": "Straight Arrow Connector 2036758671",
+      "bbox": [
+        254,
+        255,
+        202,
+        260
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/765sjq9w",
+      "id": "2036758965",
+      "name": "Straight Arrow Connector 2036758672",
+      "bbox": [
+        254,
+        255,
+        202,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87e9cvah",
+      "id": "2036758966",
+      "name": "Straight Arrow Connector 2036758673",
+      "bbox": [
+        254,
+        320,
+        202,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t8nal0r2",
+      "id": "2036758967",
+      "name": "Straight Arrow Connector 2036758674",
+      "bbox": [
+        254,
+        385,
+        202,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9wre5sn",
+      "id": "2036758968",
+      "name": "Straight Arrow Connector 2036758675",
+      "bbox": [
+        254,
+        385,
+        202,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vapsnq9s",
+      "id": "2036758969",
+      "name": "Straight Arrow Connector 2036758676",
+      "bbox": [
+        254,
+        385,
+        202,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pgb2tofm",
+      "id": "2036758970",
+      "name": "Straight Arrow Connector 2036758677",
+      "bbox": [
+        254,
+        255,
+        202,
+        260
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/of2l0jy1",
+      "id": "2036758971",
+      "name": "Straight Arrow Connector 2036758678",
+      "bbox": [
+        254,
+        320,
+        202,
+        195
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e9krexg",
+      "id": "2036758972",
+      "name": "Straight Arrow Connector 2036758679",
+      "bbox": [
+        254,
+        385,
+        202,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2d03y9gv",
+      "id": "2036758973",
+      "name": "Straight Arrow Connector 2036758680",
+      "bbox": [
+        254,
+        450,
+        202,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4b2x8fi",
+      "id": "2036758974",
+      "name": "Straight Arrow Connector 2036758681",
+      "bbox": [
+        254,
+        515,
+        202,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cj2l43yx",
+      "id": "2036758975",
+      "name": "Straight Arrow Connector 2036758682",
+      "bbox": [
+        504,
+        255,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bitkvyxc",
+      "id": "2036758976",
+      "name": "Straight Arrow Connector 2036758683",
+      "bbox": [
+        504,
+        255,
+        212,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qhk32tgr",
+      "id": "2036758977",
+      "name": "Straight Arrow Connector 2036758684",
+      "bbox": [
+        504,
+        255,
+        212,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l8vm18fe",
+      "id": "2036758978",
+      "name": "Straight Arrow Connector 2036758685",
+      "bbox": [
+        504,
+        255,
+        212,
+        195
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/07ml83y9",
+      "id": "2036758979",
+      "name": "Straight Arrow Connector 2036758686",
+      "bbox": [
+        504,
+        255,
+        212,
+        260
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8zy58ra9",
+      "id": "2036758980",
+      "name": "Straight Arrow Connector 2036758687",
+      "bbox": [
+        504,
+        255,
+        212,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/907m1wbu",
+      "id": "2036758981",
+      "name": "Straight Arrow Connector 2036758688",
+      "bbox": [
+        504,
+        320,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mxgn6hs3",
+      "id": "2036758982",
+      "name": "Straight Arrow Connector 2036758689",
+      "bbox": [
+        504,
+        320,
+        212,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7yp4zmto",
+      "id": "2036758983",
+      "name": "Straight Arrow Connector 2036758690",
+      "bbox": [
+        504,
+        320,
+        212,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kvy547ax",
+      "id": "2036758984",
+      "name": "Straight Arrow Connector 2036758691",
+      "bbox": [
+        504,
+        320,
+        212,
+        195
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lw7mxcbi",
+      "id": "2036758985",
+      "name": "Straight Arrow Connector 2036758692",
+      "bbox": [
+        504,
+        255,
+        212,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytw32hs7",
+      "id": "2036758986",
+      "name": "Straight Arrow Connector 2036758693",
+      "bbox": [
+        504,
+        320,
+        212,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zu54vmts",
+      "id": "2036758987",
+      "name": "Straight Arrow Connector 2036758694",
+      "bbox": [
+        504,
+        385,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7el07u1",
+      "id": "2036758988",
+      "name": "Straight Arrow Connector 2036758695",
+      "bbox": [
+        504,
+        385,
+        212,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xsnmtcbm",
+      "id": "2036758989",
+      "name": "Straight Arrow Connector 2036758696",
+      "bbox": [
+        504,
+        385,
+        212,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f2loj2d8",
+      "id": "2036758990",
+      "name": "Straight Arrow Connector 2036758697",
+      "bbox": [
+        504,
+        255,
+        212,
+        195
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1cnaxw3",
+      "id": "2036758991",
+      "name": "Straight Arrow Connector 2036758698",
+      "bbox": [
+        504,
+        320,
+        212,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14n6lcve",
+      "id": "2036758992",
+      "name": "Straight Arrow Connector 2036758699",
+      "bbox": [
+        504,
+        385,
+        212,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03u5c7et",
+      "id": "2036758993",
+      "name": "Straight Arrow Connector 2036758700",
+      "bbox": [
+        504,
+        450,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nq5on2dk",
+      "id": "2036758994",
+      "name": "Straight Arrow Connector 2036758701",
+      "bbox": [
+        504,
+        450,
+        212,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25wnexwz",
+      "id": "2036758995",
+      "name": "Straight Arrow Connector 2036758702",
+      "bbox": [
+        504,
+        255,
+        212,
+        260
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 60,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psn6pcvq",
+      "id": "2036758996",
+      "name": "Straight Arrow Connector 2036758703",
+      "bbox": [
+        504,
+        320,
+        212,
+        195
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ore5g7e5",
+      "id": "2036758997",
+      "name": "Straight Arrow Connector 2036758704",
+      "bbox": [
+        504,
+        385,
+        212,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bu5ormdg",
+      "id": "2036758998",
+      "name": "Straight Arrow Connector 2036758705",
+      "bbox": [
+        504,
+        450,
+        212,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atwnihwv",
+      "id": "2036758999",
+      "name": "Straight Arrow Connector 2036758706",
+      "bbox": [
+        504,
+        515,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 64,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dovq5gf",
+      "id": "2036759000",
+      "name": "Straight Arrow Connector 2036758707",
+      "bbox": [
+        764,
+        255,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 65,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7excjah0",
+      "id": "2036759001",
+      "name": "Straight Arrow Connector 2036758708",
+      "bbox": [
+        764,
+        255,
+        212,
+        260
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8f6dsfyl",
+      "id": "2036759002",
+      "name": "Straight Arrow Connector 2036758709",
+      "bbox": [
+        764,
+        255,
+        212,
+        65
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 67,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgful0z6",
+      "id": "2036759003",
+      "name": "Straight Arrow Connector 2036758710",
+      "bbox": [
+        764,
+        320,
+        212,
+        195
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 68,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y94vmlgj",
+      "id": "2036759004",
+      "name": "Straight Arrow Connector 2036758711",
+      "bbox": [
+        764,
+        255,
+        212,
+        130
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 69,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jadcfqh4",
+      "id": "2036759005",
+      "name": "Straight Arrow Connector 2036758712",
+      "bbox": [
+        764,
+        385,
+        212,
+        130
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 70,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kbmdovyp",
+      "id": "2036759006",
+      "name": "Straight Arrow Connector 2036758713",
+      "bbox": [
+        764,
+        255,
+        212,
+        195
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 71,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lcfuh0za",
+      "id": "2036759007",
+      "name": "Straight Arrow Connector 2036758714",
+      "bbox": [
+        764,
+        450,
+        212,
+        65
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 72,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al4bilgn",
+      "id": "2036759008",
+      "name": "Straight Arrow Connector 2036758715",
+      "bbox": [
+        764,
+        255,
+        212,
+        260
+      ],
+      "verticalFlip": true,
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    },
+    {
+      "order": 73,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bmdcbqhs",
+      "id": "2036759009",
+      "name": "Straight Arrow Connector 2036758716",
+      "bbox": [
+        764,
+        515,
+        212,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "rgba(203, 213, 225, 0.45)",
+      "lineWidth": 1
+    }
+  ],
+  "composeRuns": []
+}
