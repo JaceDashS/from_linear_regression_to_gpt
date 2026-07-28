@@ -1,1 +1,0 @@
-No external assets were added. The new slide is an educational synthesis of a width-1, two-hidden-layer sigmoid network with a linear regression output.

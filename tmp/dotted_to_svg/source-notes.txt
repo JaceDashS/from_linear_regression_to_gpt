@@ -1,1 +1,0 @@
-No external sources or external assets were used. The SVG is derived entirely from the source deck's existing curve-point geometry and colors.

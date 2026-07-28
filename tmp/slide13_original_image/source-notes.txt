@@ -1,8 +1,0 @@
-Slide 13 image source:
-https://miro.medium.com/v2/resize:fit:1400/1*_SYK3prTMdNrTW98Uic4Pg.jpeg
-
-Local source asset:
-C:\docs\from_linear_regression_to_gpt\ppt_build\assets\annealing_loss_surface_crop.png
-
-Edit scope:
-Replace only the left loss-landscape image on slide 13 while preserving its frame and the rest of the deck.

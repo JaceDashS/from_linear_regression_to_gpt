@@ -1,3 +1,0 @@
-Reference article: https://developersbreach.com/convolution-neural-network-deep-learning/
-User-provided image: https://i0.wp.com/developersbreach.com/wp-content/uploads/2020/08/cnn_banner.png?fit=1200%2C564&ssl=1
-The article supports the slide title and narrative: CNNs use local connectivity and parameter sharing; filters produce feature maps, pooling reduces spatial resolution, and fully connected layers support classification.

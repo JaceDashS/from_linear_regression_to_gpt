@@ -1,1 +1,0 @@
-No external assets were added. Sigmoid, tanh, and ReLU values were computed from their standard mathematical definitions for native PowerPoint charts.

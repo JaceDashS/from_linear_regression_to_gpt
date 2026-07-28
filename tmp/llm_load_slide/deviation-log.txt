@@ -1,2 +1,0 @@
-Output slide 41: source slide 40 duplicated. Diagram objects are intentionally replaced with three component blocks because the new concept requires a three-part comparison. Header, content field, typography, palette, speaker-note convention, and footer are preserved.
-Slides 42-52: only visible page numbers change due to insertion.

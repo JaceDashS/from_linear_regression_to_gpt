@@ -1,3 +1,0 @@
-Slide 37: duplicate source slide 13, rewrite eyebrow/title, delete the inherited main image and annealing/chart-specific elements, add the user-provided Transformer image, and repurpose the inherited right card for encoder/decoder summaries.
-Slide 1: update Transformer and GPT ranges for a 56-slide deck.
-Slides 37-56: update visible page markers after insertion.

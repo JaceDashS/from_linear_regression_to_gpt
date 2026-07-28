@@ -1,2 +1,0 @@
-User-provided image: https://media.licdn.com/dms/image/v2/D5612AQGC0XlthYQKjg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1710956751324?e=2147483647&v=beta&t=cwk4Mpnc9zFtGX-fM1mnDOrDxBociQdD0iY3m-ILPEY
-The image visibly compares a basic RNN cell with LSTM input/forget/output gates and GRU reset/update gates.

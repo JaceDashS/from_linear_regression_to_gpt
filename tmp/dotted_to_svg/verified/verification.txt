@@ -1,3 +1,0 @@
-slides=52
-remainingCurveDots=0
-svgOverlay=1

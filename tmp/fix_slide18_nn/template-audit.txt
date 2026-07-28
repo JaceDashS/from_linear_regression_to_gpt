@@ -1,5 +1,0 @@
-Source: from_linear_regression_to_gpt_with_llm_loading_svg_curves_chain_rule_equation.pptx
-Structure: 52-slide 16:9 technical teaching deck with slide-local diagrams and shared visual styling.
-Typography: preserve the existing Calibri hierarchy, sizes, weights, and spacing.
-Slide 18: preserve the title, card, neuron nodes, labels, footer, and master/layout relationship. Replace only the 50 malformed line objects between neuron layers.
-Placeholders: preserve intentional content and remove no inherited placeholders.

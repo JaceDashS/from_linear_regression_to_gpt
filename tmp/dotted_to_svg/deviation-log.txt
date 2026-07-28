@@ -1,2 +1,0 @@
-Slide 14: replaced 115 small ellipse objects with one embedded SVG containing 115 vector ellipses at the same centers, sizes, and colors. No text, axes, labels, large decision markers, slide order, notes, or page numbers changed.
-Slides 1-13 and 15-52: preserved without intentional edits.

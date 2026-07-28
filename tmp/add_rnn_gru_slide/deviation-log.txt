@@ -1,3 +1,0 @@
-Slide 27: duplicate source slide 13, rewrite eyebrow/title/takeaway, delete the inherited main image and source-specific annealing/chart objects, and add the user-provided RNN-LSTM-GRU image within the inherited content frame.
-Slide 1: update section ranges for a 54-slide deck.
-Slides 27-54: update visible page markers after insertion.
