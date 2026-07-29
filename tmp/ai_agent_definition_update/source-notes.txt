@@ -1,0 +1,1 @@
+No external visual assets were added. The slide uses the conventional intelligent-agent formulation: environment, observation, objective, policy, and action.

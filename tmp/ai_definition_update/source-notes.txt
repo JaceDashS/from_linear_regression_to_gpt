@@ -1,0 +1,2 @@
+No external visual assets were added.
+The AI definition is an educational synthesis: AI systems learn patterns from data and apply them to prediction, decision-making, or generation.

@@ -1,0 +1,3 @@
+Slide 2: replaced slide 1's roadmap objects with four user-supplied images and concise capability labels so the slide explains AI before the deck enters linear regression.
+Slide 1: adjusted roadmap page ranges to account for the inserted slide.
+Slides 1-71: updated page-marker values to preserve sequential numbering.

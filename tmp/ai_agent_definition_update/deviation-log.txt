@@ -1,0 +1,1 @@
+Slide 3: replaced the earlier short definition with the five-component intelligent-agent formulation requested by the user. The inherited background, main panel, and page marker were preserved.

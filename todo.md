@@ -17,7 +17,7 @@ attention is all you need, gpt3논문 붙이기
 
 텐서 코어
 
-ai란?
+ai알고리즘 vs 최적화 알고리즘
 
 목차
 목표

@@ -1,0 +1,1719 @@
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"subtitle","type":"subtitle","textPreview":"Click to edit Master subtitle style"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout3.xml","name":"Title and Content","type":"obj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout4.xml","name":"Section Header","type":"secHead","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout5.xml","name":"Two Content","type":"twoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout6.xml","name":"Comparison","type":"twoTxTwoObj","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 3","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"content placeholder 5","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout7.xml","name":"Picture with Caption","type":"picTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"picture","type":"picture","textPreview":"Click icon to add picture"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout8.xml","name":"Title Only","type":"titleOnly","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout9.xml","name":"Blank","type":"blank","placeholders":[{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout10.xml","name":"Content with Caption","type":"objTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"content placeholder 2","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout11.xml","name":"Title and Vertical Text","type":"vertTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout12.xml","name":"Vertical Title and Text","type":"vertTitleAndTx","placeholders":[{"name":"title","type":"title","textPreview":"Click to edit Master title style"},{"name":"body","type":"body","textPreview":"Click to edit Master text styles | Second level | Third level | Fourth level | Fifth level"},{"name":"dateTime","type":"dateTime","textPreview":"2026/7/28"},{"name":"footer","type":"footer"},{"name":"slideNumber","type":"slideNumber","textPreview":"‹#›"}]}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"From Linear Regression to GPT","textShapes":25}
+{"kind":"textbox","id":"sh/kne9gzml","slide":1,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/gnih8v65","slide":1,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/9gvidgbi","slide":1,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/nm9oba1o","slide":1,"name":"Rectangle: Rounded Corners 90328709","bbox":[70,215,1140,350]}
+{"kind":"shape","id":"sh/fm5kvaxk","slide":1,"name":"Straight Connector 453704306","bbox":[160,390,960,1]}
+{"kind":"textbox","id":"sh/x8ripgbu","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ylcrud0b","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/tovi9of2","slide":1,"textChars":24,"textLines":2}
+{"kind":"textbox","id":"sh/50n614fm","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/i9srmx0f","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bihw3epw","slide":1,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/vu5w3a1w","slide":1,"textChars":21,"textLines":2}
+{"kind":"textbox","id":"sh/3uh8j6d8","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/e1cvy98n","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/a90z294n","slide":1,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/cf25c3it","slide":1,"textChars":17,"textLines":2}
+{"kind":"textbox","id":"sh/ryxk3qpk","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/6lkjmpcb","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/exc7mpsj","slide":1,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/t4n6psjm","slide":1,"textChars":18,"textLines":2}
+{"kind":"textbox","id":"sh/xg72h0zq","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/10bex0r2","slide":1,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/nu943e9c","slide":1,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/183u943y","slide":1,"textChars":21,"textLines":2}
+{"kind":"textbox","id":"sh/7e98vyds","slide":1,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/xczyxwji","slide":1,"textChars":91,"textLines":2}
+{"kind":"textbox","id":"sh/q94jed43","slide":1,"textChars":1,"textLines":1}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":"[Sources] | This slide now functions as the table of contents: foundations, l..."}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"Orientation","textShapes":7}
+{"kind":"textbox","id":"sh/fatgv29w","slide":2,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/7mhsby54","slide":2,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/qpcb2tgz","slide":2,"name":"Rectangle: Rounded Corners 1456392341","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/g36h4byx","slide":2,"name":"Rectangle: Rounded Corners 1987074982","bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/sjm5g3et","slide":2,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/pwje5436","slide":2,"textChars":54,"textLines":3}
+{"kind":"textbox","id":"sh/etgjm103","slide":2,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/6lc3alk3","slide":2,"textChars":34,"textLines":3}
+{"kind":"textbox","id":"sh/fyt03694","slide":2,"textChars":1,"textLines":1}
+{"kind":"image","id":"im/yxkzypsf","slide":2,"name":"Picture 1987074993","bbox":[222.5,158,403,470]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":"[Sources] | AI landscape image supplied by the user: https://media.licdn.com/..."}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/50n69832","slide":3,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/9kbmh8vi","slide":3,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/gn25ozit","slide":3,"name":"Rectangle: Rounded Corners 816331080","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/ponelgve","slide":3,"name":"Straight Connector 161416146","bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/atofex8f","slide":3,"name":"Straight Connector 61902172","bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/0jeh8bm5","slide":3,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/yts3ex4f","slide":3,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/ps3qxknm","slide":3,"name":"Straight Connector 1461826591","bbox":[275,346.17,1,166.83]}
+{"kind":"shape","id":"sh/gnipsb29","slide":3,"name":"Oval 308551117","bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/v2loz69w","slide":3,"name":"Straight Connector 2122530921","bbox":[405,357,1,121.33]}
+{"kind":"shape","id":"sh/hobytova","slide":3,"name":"Oval 1902723883","bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/z6xgz6t0","slide":3,"name":"Straight Connector 167498950","bbox":[535,367.83,1,80.17]}
+{"kind":"shape","id":"sh/alkvipwf","slide":3,"name":"Oval 1159963357","bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/3ud4ni90","slide":3,"name":"Straight Connector 1986469558","bbox":[665,378.67,1,26]}
+{"kind":"shape","id":"sh/6lonih47","slide":3,"name":"Oval 1145200305","bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/xojutw3u","slide":3,"name":"Straight Connector 1746813433","bbox":[795,374.33,1,15.17]}
+{"kind":"shape","id":"sh/3q98zmpo","slide":3,"name":"Oval 2137688682","bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/obi5wbe1","slide":3,"name":"Straight Connector 696285493","bbox":[925,339.67,1,60.67]}
+{"kind":"shape","id":"sh/0bqdoz2l","slide":3,"name":"Oval 1445698389","bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/7yx8zuhw","slide":3,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/utsr29ov","slide":3,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/dcvedczy","slide":3,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/0bqtozq1","slide":3,"name":"Straight Connector 523934700","bbox":[249,348,705,56]}
+{"kind":"image","id":"im/0re5sbqh","slide":3,"name":"Picture 2137688687","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/vilcbmpc","slide":4,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/jmdk36lc","slide":4,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/5grud0nm","slide":4,"name":"Rectangle: Rounded Corners 1651333515","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/m5ojqhgn","slide":4,"name":"Straight Connector 673215582","bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/dovmtwr2","slide":4,"name":"Straight Connector 1831783794","bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/itc3q1kj","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/x8za58je","slide":4,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/3q5kvm9o","slide":4,"name":"Straight Connector 63070562","bbox":[275,487,1,26]}
+{"kind":"shape","id":"sh/cjidwnip","slide":4,"name":"Oval 723606972","bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/d8vitcja","slide":4,"name":"Straight Connector 1295429066","bbox":[405,463.17,1,15.17]}
+{"kind":"shape","id":"sh/eh8natcv","slide":4,"name":"Oval 8682068","bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/w3y1k32h","slide":4,"name":"Straight Connector 2139346071","bbox":[535,439.33,1,8.67]}
+{"kind":"shape","id":"sh/l87ml07u","slide":4,"name":"Oval 2066189596","bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/zaxsrixw","slide":4,"name":"Straight Connector 272593582","bbox":[665,404.67,1,10.83]}
+{"kind":"shape","id":"sh/gb61cne1","slide":4,"name":"Oval 134232463","bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/nutsb6lg","slide":4,"name":"Straight Connector 775049891","bbox":[795,374.33,1,17.33]}
+{"kind":"shape","id":"sh/j2hwf214","slide":4,"name":"Oval 1072269508","bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/f25kbqh8","slide":4,"name":"Straight Connector 982061214","bbox":[925,339.67,1,28.17]}
+{"kind":"shape","id":"sh/8z6pw76l","slide":4,"name":"Oval 1509233170","bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/5432d072","slide":4,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ypcj2tcr","slide":4,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/mx8r6xwr","slide":4,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/t4r2x8ru","slide":4,"name":"solidguide_flipV","bbox":[249,363.07,702,128.7]}
+{"kind":"image","id":"im/rypkzep8","slide":4,"name":"Picture 2139346076","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"Linear regression","textShapes":7}
+{"kind":"textbox","id":"sh/rqhsrmlw","slide":5,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/u5oje5c3","slide":5,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/p4rihc72","slide":5,"name":"Rectangle: Rounded Corners 2010506367","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/sjm9wrul","slide":5,"name":"Straight Connector 1226520373","bbox":[210,565,780,1]}
+{"kind":"shape","id":"sh/1orupoba","slide":5,"name":"Straight Connector 1752169602","bbox":[210,305,1,260]}
+{"kind":"textbox","id":"sh/m9gje5gv","slide":5,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/2d8be9k7","slide":5,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/zm9gjuxs","slide":5,"name":"Straight Connector 1136040176","bbox":[275,513,1,2.17]}
+{"kind":"shape","id":"sh/3ipgfidk","slide":5,"name":"Oval 583075002","bbox":[266,504,18,18]}
+{"kind":"shape","id":"sh/gzilgzqd","slide":5,"name":"Straight Connector 337929435","bbox":[405,478.33,1,2.17]}
+{"kind":"shape","id":"sh/kb6x4beh","slide":5,"name":"Oval 2108938194","bbox":[396,469.33,18,18]}
+{"kind":"shape","id":"sh/i14b2hsv","slide":5,"name":"Straight Connector 1089038474","bbox":[535,445.83,1,2.17]}
+{"kind":"shape","id":"sh/alc3ul4f","slide":5,"name":"Oval 344103133","bbox":[526,439,18,18]}
+{"kind":"shape","id":"sh/mxs3e987","slide":5,"name":"Straight Connector 116319933","bbox":[665,404.67,1,6.5]}
+{"kind":"shape","id":"sh/netwjidw","slide":5,"name":"Oval 1497503668","bbox":[656,395.67,18,18]}
+{"kind":"shape","id":"sh/r69wz2x4","slide":5,"name":"Straight Connector 1398652273","bbox":[795,374.33,1,2.17]}
+{"kind":"shape","id":"sh/cnipkjy5","slide":5,"name":"Oval 1635056806","bbox":[786,365.33,18,18]}
+{"kind":"shape","id":"sh/07ytczit","slide":5,"name":"Straight Connector 1900162545","bbox":[925,339.67,1,2.17]}
+{"kind":"shape","id":"sh/pc3e90za","slide":5,"name":"Oval 781560171","bbox":[916,330.67,18,18]}
+{"kind":"textbox","id":"sh/xwb6lsj6","slide":5,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/6lsrehsr","slide":5,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/fixcb6pc","slide":5,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/o3mp43q5","slide":5,"name":"solidguide_flipV","bbox":[249,334.9,702,187.2]}
+{"kind":"image","id":"im/s7q5cbmx","slide":5,"name":"Picture 2108938199","bbox":[250,163.39,780,73.22]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"Linear regression","textShapes":9}
+{"kind":"textbox","id":"sh/1cbmd0be","slide":6,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/87apobmd","slide":6,"textChars":35,"textLines":1}
+{"kind":"shape","id":"sh/itknmtwz","slide":6,"name":"Rectangle: Rounded Corners 1535529518","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/9kbuxkve","slide":6,"name":"Straight Connector 56707613","bbox":[200,560,780,1]}
+{"kind":"shape","id":"sh/tg3i1k7e","slide":6,"name":"Straight Connector 1473988392","bbox":[200,260,1,300]}
+{"kind":"textbox","id":"sh/2hcbmh8f","slide":6,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/zux43ilo","slide":6,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/0bqdk7ax","slide":6,"name":"Oval 1888914903","bbox":[222.7,464.23,17,17]}
+{"kind":"shape","id":"sh/c3upwb6d","slide":6,"name":"Oval 832749497","bbox":[269.5,535.14,17,17]}
+{"kind":"shape","id":"sh/qdcfqpw7","slide":6,"name":"Oval 2073900984","bbox":[300.7,431.5,17,17]}
+{"kind":"shape","id":"sh/ryx0b2x0","slide":6,"name":"Oval 1025225897","bbox":[363.1,480.59,17,17]}
+{"kind":"shape","id":"sh/5srehgba","slide":6,"name":"Oval 393992283","bbox":[394.3,398.77,17,17]}
+{"kind":"shape","id":"sh/g7a10ba9","slide":6,"name":"Oval 1602577504","bbox":[441.1,502.41,17,17]}
+{"kind":"shape","id":"sh/cvapcz65","slide":6,"name":"Oval 1371923820","bbox":[487.9,382.41,17,17]}
+{"kind":"shape","id":"sh/18n2t8ri","slide":6,"name":"Oval 1753025884","bbox":[534.7,415.14,17,17]}
+{"kind":"shape","id":"sh/t4vqhwfe","slide":6,"name":"Oval 1468286775","bbox":[597.1,349.68,17,17]}
+{"kind":"shape","id":"sh/kf6hcry5","slide":6,"name":"Oval 1303532533","bbox":[628.3,442.41,17,17]}
+{"kind":"shape","id":"sh/xkb250r2","slide":6,"name":"Oval 1098580289","bbox":[675.1,316.95,17,17]}
+{"kind":"shape","id":"sh/zudojm5s","slide":6,"name":"Oval 747856202","bbox":[721.9,376.95,17,17]}
+{"kind":"shape","id":"sh/vu94zydc","slide":6,"name":"Oval 1515170768","bbox":[768.7,284.23,17,17]}
+{"kind":"shape","id":"sh/zilkj6hw","slide":6,"name":"Oval 758272404","bbox":[815.5,344.23,17,17]}
+{"kind":"shape","id":"sh/l0ny5ov6","slide":6,"name":"Oval 539647180","bbox":[862.3,306.05,17,17]}
+{"kind":"shape","id":"sh/sj6lg76h","slide":6,"name":"Oval 382130369","bbox":[909.1,404.23,17,17]}
+{"kind":"shape","id":"sh/0ba5sf2t","slide":6,"name":"Oval 347626963","bbox":[940.3,267.86,17,17]}
+{"kind":"textbox","id":"sh/x0nulsr6","slide":6,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/t47y543u","slide":6,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/2tkritsz","slide":6,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/a18jyh8b","slide":6,"textChars":39,"textLines":2}
+{"kind":"textbox","id":"sh/be107m5g","slide":6,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/baxkfahg","slide":6,"name":"solidguide_flipV","bbox":[245.6,309.88,668.8,170.45]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"Regression","textShapes":9}
+{"kind":"textbox","id":"sh/dkfqp8ru","slide":7,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/zuh8v6d8","slide":7,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/nyxon6hw","slide":7,"name":"Rectangle: Rounded Corners 1375366023","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/54b2tkbi","slide":7,"name":"Straight Connector 1537688957","bbox":[200,570,760,1]}
+{"kind":"shape","id":"sh/tkjahgjq","slide":7,"name":"Straight Connector 2007704337","bbox":[200,252,1,318]}
+{"kind":"textbox","id":"sh/w3qxcfyx","slide":7,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/kz6hg7ud","slide":7,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/kvqx0nu1","slide":7,"name":"Oval 1695470153","bbox":[222.2,469.29,16.4,16.4]}
+{"kind":"shape","id":"sh/4fedwj69","slide":7,"name":"Oval 815448562","bbox":[267.8,544.45,16.4,16.4]}
+{"kind":"shape","id":"sh/3adof21w","slide":7,"name":"Oval 1303472677","bbox":[298.2,434.6,16.4,16.4]}
+{"kind":"shape","id":"sh/o36dsre9","slide":7,"name":"Oval 674269756","bbox":[359,486.64,16.4,16.4]}
+{"kind":"shape","id":"sh/idk32xcr","slide":7,"name":"Oval 163294809","bbox":[389.4,399.91,16.4,16.4]}
+{"kind":"shape","id":"sh/07yp4f61","slide":7,"name":"Oval 1733278306","bbox":[435,509.76,16.4,16.4]}
+{"kind":"shape","id":"sh/a54rap0j","slide":7,"name":"Oval 880799253","bbox":[480.6,382.56,16.4,16.4]}
+{"kind":"shape","id":"sh/zq90z21g","slide":7,"name":"Oval 834346434","bbox":[526.2,417.25,16.4,16.4]}
+{"kind":"shape","id":"sh/psnq5gnu","slide":7,"name":"Oval 558427810","bbox":[587,347.87,16.4,16.4]}
+{"kind":"shape","id":"sh/ut8bu1gr","slide":7,"name":"Oval 1580509645","bbox":[617.4,446.16,16.4,16.4]}
+{"kind":"shape","id":"sh/cfe9sv2t","slide":7,"name":"Oval 572736301","bbox":[663,313.18,16.4,16.4]}
+{"kind":"shape","id":"sh/xk7u58ne","slide":7,"name":"Oval 777734922","bbox":[708.6,376.78,16.4,16.4]}
+{"kind":"shape","id":"sh/98ve9gz2","slide":7,"name":"Oval 113252181","bbox":[754.2,278.49,16.4,16.4]}
+{"kind":"shape","id":"sh/x87ydsze","slide":7,"name":"Oval 1702038152","bbox":[799.8,342.09,16.4,16.4]}
+{"kind":"shape","id":"sh/fq9w7alo","slide":7,"name":"Oval 1781702022","bbox":[845.4,301.62,16.4,16.4]}
+{"kind":"shape","id":"sh/ixgz6tkb","slide":7,"name":"Oval 164012884","bbox":[891,405.69,16.4,16.4]}
+{"kind":"shape","id":"sh/4v6l0fyh","slide":7,"name":"Oval 991339259","bbox":[921.4,261.15,16.4,16.4]}
+{"kind":"textbox","id":"sh/sn25wfa9","slide":7,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/47e5sjmt","slide":7,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/lgfexsfi","slide":7,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/pg3idwn2","slide":7,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/8fu50b6h","slide":7,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/onm50jix","slide":7,"name":"solidguide_flipV","bbox":[230.4,302.13,714.4,182.07]}
+{"kind":"image","id":"im/upc7m1kv","slide":7,"name":"Graphic 2031926676","bbox":[200,252,760,318]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"Regression","textShapes":8}
+{"kind":"textbox","id":"sh/6p4byl4v","slide":8,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/d4fyhsba","slide":8,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/dojm1wvi","slide":8,"name":"Rectangle: Rounded Corners 682947437","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/ilknup07","slide":8,"name":"Straight Connector 1968719096","bbox":[200,570,760,1]}
+{"kind":"shape","id":"sh/07qdgnyh","slide":8,"name":"Straight Connector 1324465773","bbox":[200,252,1,318]}
+{"kind":"textbox","id":"sh/5cfi1k3y","slide":8,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/3q94fm5w","slide":8,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/36tkf6ts","slide":8,"name":"Oval 1811837015","bbox":[222.2,469.29,16.4,16.4]}
+{"kind":"shape","id":"sh/ydcre14v","slide":8,"name":"Oval 453346286","bbox":[267.8,544.45,16.4,16.4]}
+{"kind":"shape","id":"sh/pczuxonu","slide":8,"name":"Oval 1618228278","bbox":[298.2,434.6,16.4,16.4]}
+{"kind":"shape","id":"sh/o7m5kv25","slide":8,"name":"Oval 2089599102","bbox":[359,486.64,16.4,16.4]}
+{"kind":"shape","id":"sh/2lobulor","slide":8,"name":"Oval 1457916702","bbox":[389.4,399.91,16.4,16.4]}
+{"kind":"shape","id":"sh/t03adwba","slide":8,"name":"Oval 1250923537","bbox":[435,509.76,16.4,16.4]}
+{"kind":"shape","id":"sh/kzi18369","slide":8,"name":"Oval 579714091","bbox":[480.6,382.56,16.4,16.4]}
+{"kind":"shape","id":"sh/7adkbuh0","slide":8,"name":"Oval 1188193174","bbox":[526.2,417.25,16.4,16.4]}
+{"kind":"shape","id":"sh/b2xkz6tk","slide":8,"name":"Oval 2075857352","bbox":[587,347.87,16.4,16.4]}
+{"kind":"shape","id":"sh/9wfy14fm","slide":8,"name":"Oval 260739156","bbox":[617.4,446.16,16.4,16.4]}
+{"kind":"shape","id":"sh/ypg72d8v","slide":8,"name":"Oval 472597423","bbox":[663,313.18,16.4,16.4]}
+{"kind":"shape","id":"sh/mps3ixwz","slide":8,"name":"Oval 311162583","bbox":[708.6,376.78,16.4,16.4]}
+{"kind":"shape","id":"sh/sjyts3e5","slide":8,"name":"Oval 418592258","bbox":[754.2,278.49,16.4,16.4]}
+{"kind":"shape","id":"sh/0nypsb25","slide":8,"name":"Oval 391215337","bbox":[799.8,342.09,16.4,16.4]}
+{"kind":"shape","id":"sh/d4vyd8fe","slide":8,"name":"Oval 1707420591","bbox":[845.4,301.62,16.4,16.4]}
+{"kind":"shape","id":"sh/atg7ulsb","slide":8,"name":"Oval 1324466289","bbox":[891,405.69,16.4,16.4]}
+{"kind":"shape","id":"sh/r2xcv29s","slide":8,"name":"Oval 1167646443","bbox":[921.4,261.15,16.4,16.4]}
+{"kind":"textbox","id":"sh/3m587yh4","slide":8,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/jqh8v6lo","slide":8,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/5wzm5cnm","slide":8,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/yhofaxkz","slide":8,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/gvmdkfmt","slide":8,"name":"solidguide_flipV","bbox":[230.4,302.13,714.4,182.07]}
+{"kind":"image","id":"im/q587m1sv","slide":8,"name":"Graphic 2096192661","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"Regression","textShapes":28}
+{"kind":"textbox","id":"sh/8rup4zml","slide":9,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/pc3254fi","slide":9,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/svyx4ve5","slide":9,"name":"Rectangle: Rounded Corners 1266136651","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/6tkjaxgn","slide":9,"name":"Rectangle: Rounded Corners 1050748594","bbox":[122,184,314,372]}
+{"kind":"textbox","id":"sh/a5kzy183","slide":9,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/21snm14n","slide":9,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/dw7ups32","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/jihonmxg","slide":9,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/0buhknqp","slide":9,"name":"Straight Connector 2104166465","bbox":[152,392,254,1]}
+{"kind":"textbox","id":"sh/g3y547ml","slide":9,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/43qpcbyl","slide":9,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/x4nux8nm","slide":9,"name":"Straight Connector 756114381","bbox":[152,446,254,1]}
+{"kind":"textbox","id":"sh/y1gja5w7","slide":9,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/j6t0zu98","slide":9,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/ovahw7m5","slide":9,"name":"Rectangle: Rounded Corners 1872312689","bbox":[483,184,314,372]}
+{"kind":"textbox","id":"sh/2ds7qlon","slide":9,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/cr2xwzyp","slide":9,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/5k76x8nq","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/zitwby98","slide":9,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/98zup432","slide":9,"name":"Straight Connector 533968529","bbox":[513,392,254,1]}
+{"kind":"textbox","id":"sh/q9wzedsr","slide":9,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/s3id8n25","slide":9,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/ips3qxsj","slide":9,"name":"Straight Connector 1685278168","bbox":[513,446,254,1]}
+{"kind":"textbox","id":"sh/be54be14","slide":9,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/jqhc7ql0","slide":9,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/edofa9kb","slide":9,"name":"Rectangle: Rounded Corners 312764701","bbox":[844,184,314,372]}
+{"kind":"textbox","id":"sh/nat83yxg","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/vu50juto","slide":9,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/i147al47","slide":9,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/zmx87y1s","slide":9,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/2xknqt8j","slide":9,"name":"Straight Connector 935775799","bbox":[874,392,254,1]}
+{"kind":"textbox","id":"sh/5sni9s3u","slide":9,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/4feh4ret","slide":9,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/9wzaxwfa","slide":9,"name":"Straight Connector 796017482","bbox":[874,446,254,1]}
+{"kind":"textbox","id":"sh/5sb2p0re","slide":9,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/29o3ul4n","slide":9,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/lwza98ny","slide":9,"name":"Straight Connector 2121780220","bbox":[444,370,30,1]}
+{"kind":"shape","id":"sh/edgritsb","slide":9,"name":"Straight Connector 835810551","bbox":[805,370,30,1]}
+{"kind":"textbox","id":"sh/wjy1w7up","slide":9,"textChars":58,"textLines":1}
+{"kind":"textbox","id":"sh/lwzel4ne","slide":9,"textChars":1,"textLines":1}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":"[Sources] | Educational synthesis based on standard train/validation/test mod..."}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"Regression","textShapes":19}
+{"kind":"textbox","id":"sh/ry9cf6lc","slide":10,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/t4nu5wba","slide":10,"textChars":46,"textLines":1}
+{"kind":"textbox","id":"sh/c36xsv6h","slide":10,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/c3uhkjih","slide":10,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/365sz2tc","slide":10,"name":"Straight Connector 1844070667","bbox":[394,190,66,1]}
+{"kind":"textbox","id":"sh/rq147el0","slide":10,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/ud4jmxkr","slide":10,"textChars":12,"textLines":1}
+{"kind":"shape","id":"sh/76hkzq50","slide":10,"name":"Straight Connector 1221881980","bbox":[754,190,66,1]}
+{"kind":"textbox","id":"sh/y5krutsb","slide":10,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/07ixsvid","slide":10,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/el0rupof","slide":10,"name":"Rectangle: Rounded Corners 497016789","bbox":[74,288,1132,348]}
+{"kind":"shape","id":"sh/hgn2hg72","slide":10,"name":"Straight Connector 944728692","bbox":[120,593,1035,1]}
+{"kind":"shape","id":"sh/5cryh8ni","slide":10,"name":"Straight Connector 492924597","bbox":[120,328,1,265]}
+{"kind":"textbox","id":"sh/90jy5wfe","slide":10,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/pgz6xo3a","slide":10,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/2lg76l4n","slide":10,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/1wna1c7e","slide":10,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/lknm50r2","slide":10,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/qhormlgf","slide":10,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/ryxcrq1o","slide":10,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/t0nydw3m","slide":10,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/gjip4jet","slide":10,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/gn2tczat","slide":10,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/jmt4721k","slide":10,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/690jmtsb","slide":10,"name":"solidguide_normal","bbox":[195,336,1,257]}
+{"kind":"shape","id":"sh/y5gfylsr","slide":10,"name":"solidguide_normal","bbox":[565,336,1,257]}
+{"kind":"image","id":"im/98jep8rq","slide":10,"name":"Graphic 2106832541","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":"[Sources] | Educational synthesis based on standard machine learning train/va..."}
+{"kind":"slide","id":"sl/jetc3ut0","slide":11,"title":"Partial derivatives","textShapes":10}
+{"kind":"textbox","id":"sh/q5sjilw3","slide":11,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/w76pwbmt","slide":11,"textChars":43,"textLines":1}
+{"kind":"shape","id":"sh/hojq94zy","slide":11,"name":"Rectangle: Rounded Corners 441777437","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/wz2hwfmd","slide":11,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/mlcrilcz","slide":11,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/qhkzep8b","slide":11,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ul0ze1cf","slide":11,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/5knapkje","slide":11,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/4r2t8zqp","slide":11,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/2dor218b","slide":11,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/c7a5kze5","slide":11,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/u543yps7","slide":11,"name":"Picture 1856458312","bbox":[115,171.25,1050,187.5]}
+{"kind":"notes","id":"nt/jetc3ut0","slide":11,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/8f2psfyx","slide":12,"title":"Gradient descent","textShapes":7}
+{"kind":"textbox","id":"sh/d8rmpofy","slide":12,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/f61k7qd0","slide":12,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/07md8j6h","slide":12,"name":"Rectangle: Rounded Corners 611293625","bbox":[62.15,163.1,1152,500]}
+{"kind":"shape","id":"sh/orahozq9","slide":12,"name":"Straight Connector 1032169778","bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/0rqlwbqp","slide":12,"name":"Straight Connector 1768100698","bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/l4be1gfa","slide":12,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/jy503a5g","slide":12,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/543it8zu","slide":12,"name":"Oval 1006697960","bbox":[780,450.33,26,26]}
+{"kind":"shape","id":"sh/etgjq5oj","slide":12,"name":"Straight Connector 772079832","bbox":[673.47,390.98,243.02,148.13]}
+{"kind":"shape","id":"sh/1gzadw7q","slide":12,"name":"Oval 1493081963","bbox":[683.2,495.23,22,22]}
+{"kind":"shape","id":"sh/kf2dcjat","slide":12,"name":"Oval 1125848367","bbox":[607.2,511.36,22,22]}
+{"kind":"textbox","id":"sh/d8z69or2","slide":12,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/7yxgvq54","slide":12,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/kjyx4nmh","slide":12,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/ts3e98v6","slide":12,"name":"Straight Connector 1489075409","bbox":[584.6,469.46,261.01,70.4]}
+{"kind":"shape","id":"sh/qlcnil4j","slide":12,"name":"Straight Connector 768615074","bbox":[466.2,507.29,323,29.07]}
+{"kind":"image","id":"im/or2lg721","slide":12,"name":"Picture 1922458406","bbox":[190,165.35,845,69.29]}
+{"kind":"image","id":"im/psbmpcjm","slide":12,"name":"Graphic 1922458420","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/8f2psfyx","slide":12,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/hgzapcr6","slide":13,"title":"Learning rate","textShapes":9}
+{"kind":"textbox","id":"sh/p0zut4zm","slide":13,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/43e1kri9","slide":13,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/6xczu9wn","slide":13,"name":"Rectangle: Rounded Corners 960318418","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/7e1o3ad0","slide":13,"name":"Straight Connector 53979157","bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/54nu983i","slide":13,"name":"Straight Connector 627639122","bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/kvilgbqx","slide":13,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/elofq5wz","slide":13,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/jix03qdk","slide":13,"name":"Oval 917868853","bbox":[795.2,441.53,26,26]}
+{"kind":"shape","id":"sh/mdgj6xcj","slide":13,"name":"Oval 1147861544","bbox":[767.8,461.54,20,20]}
+{"kind":"shape","id":"sh/3utg7m1g","slide":13,"name":"Oval 453648762","bbox":[644.2,504.13,24,24]}
+{"kind":"shape","id":"sh/y1kraxwb","slide":13,"name":"Oval 1758550888","bbox":[401,480.66,24,24]}
+{"kind":"textbox","id":"sh/gryhcjih","slide":13,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/lsbad07q","slide":13,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/zip8zyxw","slide":13,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/bm9c7eds","slide":13,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/algzm5cz","slide":13,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/6lcv6t4z","slide":13,"name":"Graphic 1905296005","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hgzapcr6","slide":13,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/6lsnupw7","slide":14,"title":"Line search","textShapes":8}
+{"kind":"textbox","id":"sh/u14zy187","slide":14,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/ri98ny1s","slide":14,"textChars":42,"textLines":1}
+{"kind":"shape","id":"sh/cbuhw3m9","slide":14,"name":"Rectangle: Rounded Corners 1080314407","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/obe1gzed","slide":14,"name":"Straight Connector 707499443","bbox":[185,565,760,1]}
+{"kind":"shape","id":"sh/buh4jmlk","slide":14,"name":"Straight Connector 1076861610","bbox":[185,265,1,300]}
+{"kind":"textbox","id":"sh/jihc7a5w","slide":14,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ixsnyl8z","slide":14,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/e5cfy1sn","slide":14,"name":"Oval 1428842632","bbox":[780,443.48,26,26]}
+{"kind":"shape","id":"sh/3e94j6t0","slide":14,"name":"Oval 94324771","bbox":[370.6,467.17,24,24]}
+{"kind":"shape","id":"sh/r6x0vu5g","slide":14,"name":"Oval 1474916117","bbox":[606.2,510.36,24,24]}
+{"kind":"textbox","id":"sh/3y5kjy58","slide":14,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/8zq98va1","slide":14,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/jih4jqxw","slide":14,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/wzep0bmd","slide":14,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/x872p4zy","slide":14,"name":"solid-loss-curve","bbox":[184,330,762,200]}
+{"kind":"image","id":"im/2l4bi1sv","slide":14,"name":"Picture 1957330896","bbox":[196.86,160,816.28,78]}
+{"kind":"notes","id":"nt/6lsnupw7","slide":14,"text":"[Sources] | Educational synthesis based on standard machine learning concepts..."}
+{"kind":"slide","id":"sl/vaxsvy10","slide":15,"title":"Optimization","textShapes":12}
+{"kind":"textbox","id":"sh/10f65gz6","slide":15,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/i5wfulcn","slide":15,"textChars":38,"textLines":1}
+{"kind":"shape","id":"sh/zqh8b6p8","slide":15,"name":"Rectangle: Rounded Corners 1456392341","bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/pcjq5sz6","slide":15,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/n61gfyt8","slide":15,"name":"Rectangle: Rounded Corners 1987074982","bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/i9o3yh8b","slide":15,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/n6pgnmt8","slide":15,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/1cfmdcna","slide":15,"name":"Straight Connector 1664744869","bbox":[884,322,1,136]}
+{"kind":"shape","id":"sh/f2pcfm5g","slide":15,"name":"Straight Connector 598323690","bbox":[884,458,234,1]}
+{"kind":"textbox","id":"sh/h0jet0bu","slide":15,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/f25kzaxs","slide":15,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/8nypk32h","slide":15,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/va18z6xc","slide":15,"name":"Oval 1043049251","bbox":[903.5,343.5,17,17]}
+{"kind":"shape","id":"sh/ed0re9wz","slide":15,"name":"Oval 103022139","bbox":[1087.5,437.5,17,17]}
+{"kind":"textbox","id":"sh/fmx4r21s","slide":15,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/czq5srmp","slide":15,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/gbaxozml","slide":15,"textChars":49,"textLines":1}
+{"kind":"textbox","id":"sh/fu1k7epk","slide":15,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/l0fml0re","slide":15,"name":"Picture 2132047724","bbox":[112,206,668,336]}
+{"kind":"image","id":"im/0z6lcvqt","slide":15,"name":"Graphic 2132047725","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/vaxsvy10","slide":15,"text":"[Sources] | 3D loss landscape image provided by user: https://miro.medium.com..."}
+{"kind":"slide","id":"sl/gny5sjyp","slide":16,"title":"Neural networks","textShapes":7}
+{"kind":"textbox","id":"sh/3uxwvqds","slide":16,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/n2503mp0","slide":16,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/n6dcrqt0","slide":16,"name":"Rectangle: Rounded Corners 8473207","bbox":[64,141,1152,500]}
+{"kind":"shape","id":"sh/vyt0nuds","slide":16,"name":"Oval 1713827263","bbox":[206,274.75,48,48]}
+{"kind":"shape","id":"sh/vilcb2xw","slide":16,"name":"Oval 324013536","bbox":[206,358.5,48,48]}
+{"kind":"shape","id":"sh/wjah8b65","slide":16,"name":"Oval 1149235491","bbox":[206,438,48,48]}
+{"kind":"shape","id":"sh/2l0jy9s7","slide":16,"name":"Oval 1750953689","bbox":[456,231,48,48]}
+{"kind":"shape","id":"sh/wz2hkjqp","slide":16,"name":"Oval 1513393046","bbox":[456,296,48,48]}
+{"kind":"shape","id":"sh/4nmho729","slide":16,"name":"Oval 496081326","bbox":[456,361,48,48]}
+{"kind":"shape","id":"sh/z21gjmhw","slide":16,"name":"Oval 953579843","bbox":[456,426,48,48]}
+{"kind":"shape","id":"sh/7m10zyd8","slide":16,"name":"Oval 268581152","bbox":[456,491,48,48]}
+{"kind":"shape","id":"sh/wrmdsfa5","slide":16,"name":"Oval 1782461718","bbox":[716,231,48,48]}
+{"kind":"shape","id":"sh/fqpozqx0","slide":16,"name":"Oval 1638488983","bbox":[716,296,48,48]}
+{"kind":"shape","id":"sh/hc3ax4ry","slide":16,"name":"Oval 1018913497","bbox":[716,361,48,48]}
+{"kind":"shape","id":"sh/tsni5kfa","slide":16,"name":"Oval 1292287629","bbox":[716,426,48,48]}
+{"kind":"shape","id":"sh/x8nqdorm","slide":16,"name":"Oval 1410545746","bbox":[716,491,48,48]}
+{"kind":"shape","id":"sh/il4vudsj","slide":16,"name":"Oval 1923839338","bbox":[976,295.37,48,48]}
+{"kind":"shape","id":"sh/0fmh0f65","slide":16,"name":"Oval 452248781","bbox":[976,429.5,48,48]}
+{"kind":"textbox","id":"sh/6xon6t4b","slide":16,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/9o7ix0je","slide":16,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/i54j2lwf","slide":16,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/8v2l0zu9","slide":16,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/7adgjmts","slide":16,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/hojydsfe","slide":16,"name":"Straight Arrow Connector 2036758667","bbox":[254,255,202,43.75]}
+{"kind":"shape","id":"sh/snatsbil","slide":16,"name":"Straight Arrow Connector 2036758668","bbox":[254,298.75,202,21.25]}
+{"kind":"shape","id":"sh/k7y5kvmt","slide":16,"name":"Straight Arrow Connector 2036758669","bbox":[254,298.75,202,86.25]}
+{"kind":"shape","id":"sh/q5gv21kz","slide":16,"name":"Straight Arrow Connector 2036758670","bbox":[254,298.75,202,151.25]}
+{"kind":"shape","id":"sh/o3m9wbul","slide":16,"name":"Straight Arrow Connector 2036758671","bbox":[254,298.75,202,216.25]}
+{"kind":"shape","id":"sh/pwvm907a","slide":16,"name":"Straight Arrow Connector 2036758672","bbox":[254,255,202,127.5]}
+{"kind":"shape","id":"sh/wfyh03yp","slide":16,"name":"Straight Arrow Connector 2036758673","bbox":[254,320,202,62.5]}
+{"kind":"shape","id":"sh/elojqd4r","slide":16,"name":"Straight Arrow Connector 2036758674","bbox":[254,382.5,202,2.5]}
+{"kind":"shape","id":"sh/h0vitczm","slide":16,"name":"Straight Arrow Connector 2036758675","bbox":[254,382.5,202,67.5]}
+{"kind":"shape","id":"sh/ixkrqx4f","slide":16,"name":"Straight Arrow Connector 2036758676","bbox":[254,382.5,202,132.5]}
+{"kind":"shape","id":"sh/325kva5w","slide":16,"name":"Straight Arrow Connector 2036758677","bbox":[254,255,202,207]}
+{"kind":"shape","id":"sh/mxc7ilcj","slide":16,"name":"Straight Arrow Connector 2036758678","bbox":[254,320,202,142]}
+{"kind":"shape","id":"sh/gz6h8rq1","slide":16,"name":"Straight Arrow Connector 2036758679","bbox":[254,385,202,89]}
+{"kind":"shape","id":"sh/v6x8vmtw","slide":16,"name":"Straight Arrow Connector 2036758680","bbox":[254,450,202,12]}
+{"kind":"shape","id":"sh/9gnqxwra","slide":16,"name":"Straight Arrow Connector 2036758681","bbox":[254,462,202,53]}
+{"kind":"shape","id":"sh/8j65k7el","slide":16,"name":"Straight Arrow Connector 2036758682","bbox":[504,255,212,0]}
+{"kind":"shape","id":"sh/76h0ve1s","slide":16,"name":"Straight Arrow Connector 2036758683","bbox":[504,255,212,65]}
+{"kind":"shape","id":"sh/zulcbehc","slide":16,"name":"Straight Arrow Connector 2036758684","bbox":[504,255,212,130]}
+{"kind":"shape","id":"sh/ovqxszqd","slide":16,"name":"Straight Arrow Connector 2036758685","bbox":[504,255,212,195]}
+{"kind":"shape","id":"sh/3mxwbaxg","slide":16,"name":"Straight Arrow Connector 2036758686","bbox":[504,255,212,260]}
+{"kind":"shape","id":"sh/w3254jed","slide":16,"name":"Straight Arrow Connector 2036758687","bbox":[504,255,212,65]}
+{"kind":"shape","id":"sh/dg3a9g32","slide":16,"name":"Straight Arrow Connector 2036758688","bbox":[504,320,212,0]}
+{"kind":"shape","id":"sh/t4vqxcbq","slide":16,"name":"Straight Arrow Connector 2036758689","bbox":[504,320,212,65]}
+{"kind":"shape","id":"sh/94fa5c3q","slide":16,"name":"Straight Arrow Connector 2036758690","bbox":[504,320,212,130]}
+{"kind":"shape","id":"sh/zaps3y5w","slide":16,"name":"Straight Arrow Connector 2036758691","bbox":[504,320,212,195]}
+{"kind":"shape","id":"sh/gruxsnmt","slide":16,"name":"Straight Arrow Connector 2036758692","bbox":[504,255,212,130]}
+{"kind":"shape","id":"sh/tob21gzy","slide":16,"name":"Straight Arrow Connector 2036758693","bbox":[504,320,212,65]}
+{"kind":"shape","id":"sh/fe1kvy9g","slide":16,"name":"Straight Arrow Connector 2036758694","bbox":[504,385,212,0]}
+{"kind":"shape","id":"sh/ypwjitsn","slide":16,"name":"Straight Arrow Connector 2036758695","bbox":[504,385,212,65]}
+{"kind":"shape","id":"sh/cjyhwfat","slide":16,"name":"Straight Arrow Connector 2036758696","bbox":[504,385,212,130]}
+{"kind":"shape","id":"sh/doj6pcfi","slide":16,"name":"Straight Arrow Connector 2036758697","bbox":[504,255,212,195]}
+{"kind":"shape","id":"sh/69w7y98b","slide":16,"name":"Straight Arrow Connector 2036758698","bbox":[504,320,212,130]}
+{"kind":"shape","id":"sh/d4329ofu","slide":16,"name":"Straight Arrow Connector 2036758699","bbox":[504,385,212,65]}
+{"kind":"shape","id":"sh/a10vi58f","slide":16,"name":"Straight Arrow Connector 2036758700","bbox":[504,450,212,0]}
+{"kind":"shape","id":"sh/1432lcn2","slide":16,"name":"Straight Arrow Connector 2036758701","bbox":[504,450,212,65]}
+{"kind":"shape","id":"sh/nid4jm9w","slide":16,"name":"Straight Arrow Connector 2036758702","bbox":[504,255,212,260]}
+{"kind":"shape","id":"sh/wb2pc36x","slide":16,"name":"Straight Arrow Connector 2036758703","bbox":[504,320,212,195]}
+{"kind":"shape","id":"sh/zmho7epg","slide":16,"name":"Straight Arrow Connector 2036758704","bbox":[504,385,212,130]}
+{"kind":"shape","id":"sh/765g7q9o","slide":16,"name":"Straight Arrow Connector 2036758705","bbox":[504,450,212,65]}
+{"kind":"shape","id":"sh/cf29kf6x","slide":16,"name":"Straight Arrow Connector 2036758706","bbox":[504,515,212,0]}
+{"kind":"shape","id":"sh/wryh4bmd","slide":16,"name":"Straight Arrow Connector 2036758707","bbox":[764,255,212,64.37]}
+{"kind":"shape","id":"sh/lcb2l4ra","slide":16,"name":"Straight Arrow Connector 2036758708","bbox":[764,255,212,198.5]}
+{"kind":"shape","id":"sh/dgjepo76","slide":16,"name":"Straight Arrow Connector 2036758709","bbox":[764,319.69,212,0]}
+{"kind":"shape","id":"sh/03ypcjuh","slide":16,"name":"Straight Arrow Connector 2036758710","bbox":[764,320,212,133.5]}
+{"kind":"shape","id":"sh/v2x4re5g","slide":16,"name":"Straight Arrow Connector 2036758711","bbox":[764,319.37,212,65.62]}
+{"kind":"shape","id":"sh/hczm5wfy","slide":16,"name":"Straight Arrow Connector 2036758712","bbox":[764,385,212,68.5]}
+{"kind":"shape","id":"sh/3ad4vmlc","slide":16,"name":"Straight Arrow Connector 2036758713","bbox":[764,319.37,212,130.62]}
+{"kind":"shape","id":"sh/18rm1cj2","slide":16,"name":"Straight Arrow Connector 2036758714","bbox":[764,450,212,3.5]}
+{"kind":"shape","id":"sh/4v29s7ih","slide":16,"name":"Straight Arrow Connector 2036758715","bbox":[764,319.37,212,195.62]}
+{"kind":"shape","id":"sh/fu1ojqhg","slide":16,"name":"Straight Arrow Connector 2036758716","bbox":[764,453.5,212,61.5]}
+{"kind":"notes","id":"nt/gny5sjyp","slide":16,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/14bup87q","slide":17,"title":"Neural networks","textShapes":19}
+{"kind":"textbox","id":"sh/sze5cbm1","slide":17,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/4zax0vut","slide":17,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/xor6l0rq","slide":17,"name":"Rectangle: Rounded Corners 883548822","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/a9ozypw3","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/pwzqxsb2","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/q9gbal8r","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0jqxgva1","slide":17,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/or2hsnel","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ip43ex4z","slide":17,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/epkr2lsv","slide":17,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/hcvehsj6","slide":17,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/mlofudwz","slide":17,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/6p47etkv","slide":17,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/1gbidsji","slide":17,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/oj25gvuh","slide":17,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/rq9onuh8","slide":17,"textChars":56,"textLines":1}
+{"kind":"textbox","id":"sh/1kva9ojm","slide":17,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/hofudcvu","slide":17,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/3qhcf6d0","slide":17,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/1w7qxgbq","slide":17,"textChars":23,"textLines":1}
+{"kind":"notes","id":"nt/14bup87q","slide":17,"text":"[Sources] | Educational synthesis based on standard neural-network concepts."}
+{"kind":"slide","id":"sl/y5wne50z","slide":18,"title":"Activation functions","textShapes":15}
+{"kind":"shape","id":"sh/xgbaxs3m","slide":18,"name":"Rectangle 1089908974","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/4ba9cbi9","slide":18,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/ojyx4bep","slide":18,"textChars":38,"textLines":1}
+{"kind":"shape","id":"sh/c3u107ex","slide":18,"name":"Rectangle: Rounded Corners 703067205","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/87294ze9","slide":18,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/076hcjit","slide":18,"textChars":25,"textLines":1}
+{"kind":"textbox","id":"sh/bapwbipc","slide":18,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/sjq1sred","slide":18,"name":"Arrow: Right 977560911","bbox":[245,334,20,38]}
+{"kind":"textbox","id":"sh/o3qds7at","slide":18,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/fihkv21s","slide":18,"name":"Arrow: Right 1733251710","bbox":[400,334,20,38]}
+{"kind":"textbox","id":"sh/5szq5wza","slide":18,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/8ji9wfqp","slide":18,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/tkni9gja","slide":18,"name":"Arrow: Right 2100508509","bbox":[860,334,20,38]}
+{"kind":"textbox","id":"sh/d83i9k3a","slide":18,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/n254zi5s","slide":18,"name":"Arrow: Right 1479364581","bbox":[1015,334,20,38]}
+{"kind":"textbox","id":"sh/3ut4rmp4","slide":18,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/uxozihkf","slide":18,"textChars":61,"textLines":2}
+{"kind":"textbox","id":"sh/w32ponu9","slide":18,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/v6tkzmpk","slide":18,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/cn6po729","slide":18,"textChars":61,"textLines":1}
+{"kind":"textbox","id":"sh/itojep8v","slide":18,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/y5wne50z","slide":18,"text":"[Sources] | Educational synthesis based on standard neural-network activation..."}
+{"kind":"slide","id":"sl/nid43ytk","slide":19,"title":"Activation functions","textShapes":2}
+{"kind":"textbox","id":"sh/doby1gvq","slide":19,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/kfe5wzmp","slide":19,"textChars":27,"textLines":1}
+{"kind":"shape","id":"sh/etsn2xov","slide":19,"name":"Rectangle: Rounded Corners 858310323","bbox":[64,142,1152,500]}
+{"kind":"image","id":"im/s7ylgvul","slide":19,"name":"Picture 1236124359","bbox":[329.85,154,620.3,475]}
+{"kind":"notes","id":"nt/nid43ytk","slide":19,"text":"[Sources] | Activation-function figure supplied by the user: https://www.rese..."}
+{"kind":"slide","id":"sl/zyxsni5k","slide":20,"title":"Calculus","textShapes":8}
+{"kind":"textbox","id":"sh/i9sbm5oz","slide":20,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/vepwfm58","slide":20,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/14vqx4b2","slide":20,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/vml0na9s","slide":20,"name":"Rectangle: Rounded Corners 2030417643","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/l0z6l8j6","slide":20,"textChars":86,"textLines":1}
+{"kind":"shape","id":"sh/61kbep8f","slide":20,"name":"Arrow: Right 1720535862","bbox":[356,288,92,44]}
+{"kind":"shape","id":"sh/9krud0rm","slide":20,"name":"Arrow: Right 1191864325","bbox":[718,288,92,44]}
+{"kind":"textbox","id":"sh/n6p0ni9s","slide":20,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/pgn6187y","slide":20,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/7ytovqtk","slide":20,"textChars":8,"textLines":1}
+{"kind":"shape","id":"sh/i9czap07","slide":20,"name":"Rectangle: Rounded Corners 833562430","bbox":[220,420,840,82]}
+{"kind":"textbox","id":"sh/x4361wfu","slide":20,"textChars":51,"textLines":1}
+{"kind":"image","id":"im/x87idg7i","slide":20,"name":"Graphic 736381408","bbox":[250,422,780,76]}
+{"kind":"notes","id":"nt/zyxsni5k","slide":20,"text":"[Sources] | Educational synthesis based on the standard chain rule in calculus."}
+{"kind":"slide","id":"sl/m1wvqtk3","slide":21,"title":"Example","textShapes":6}
+{"kind":"textbox","id":"sh/6tc761s7","slide":21,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/21k369w7","slide":21,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/ap8va1of","slide":21,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/ulw7mpk7","slide":21,"name":"Rectangle: Rounded Corners 1424783321","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/t87udsz2","slide":21,"textChars":10,"textLines":1}
+{"kind":"shape","id":"sh/54vqh43u","slide":21,"name":"Arrow: Right 574157868","bbox":[585,216,90,40]}
+{"kind":"shape","id":"sh/b6d0ritc","slide":21,"name":"Rectangle: Rounded Corners 872926415","bbox":[175,204,360,66]}
+{"kind":"shape","id":"sh/hoze9432","slide":21,"name":"Rectangle: Rounded Corners 700815694","bbox":[725,204,360,66]}
+{"kind":"textbox","id":"sh/0fy1ovat","slide":21,"textChars":21,"textLines":1}
+{"kind":"shape","id":"sh/xwr2hof2","slide":21,"name":"Arrow: Right 541833276","bbox":[585,343,90,40]}
+{"kind":"shape","id":"sh/mx07utkr","slide":21,"name":"Rectangle: Rounded Corners 1306720251","bbox":[175,331,360,66]}
+{"kind":"shape","id":"sh/i1svylsj","slide":21,"name":"Rectangle: Rounded Corners 414102630","bbox":[725,331,360,66]}
+{"kind":"textbox","id":"sh/z6hsjqto","slide":21,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/dov2503e","slide":21,"name":"Rectangle: Rounded Corners 882725436","bbox":[150,463,980,70.96]}
+{"kind":"shape","id":"sh/xgvax0fu","slide":21,"name":"Rectangle: Rounded Corners 1279759937","bbox":[330,558,620,57.72]}
+{"kind":"image","id":"im/z6dgfu1c","slide":21,"name":"Graphic 600519429","bbox":[195,211,320,50]}
+{"kind":"image","id":"im/07mx8z2h","slide":21,"name":"Graphic 1827206842","bbox":[745,211,320,50]}
+{"kind":"image","id":"im/18vyhkj2","slide":21,"name":"Graphic 154591657","bbox":[195,338,320,50]}
+{"kind":"image","id":"im/qhkf25kf","slide":21,"name":"Graphic 145493105","bbox":[745,338,320,50]}
+{"kind":"image","id":"im/r2tgbal0","slide":21,"name":"Graphic 2145169561","bbox":[190,469,900,58]}
+{"kind":"image","id":"im/c32x4f2l","slide":21,"name":"Graphic 1769991084","bbox":[360,561,560,46]}
+{"kind":"notes","id":"nt/m1wvqtk3","slide":21,"text":"[Sources] | Educational synthesis based on the standard chain rule in calculus."}
+{"kind":"slide","id":"sl/5onypobq","slide":22,"title":"Learning","textShapes":10}
+{"kind":"textbox","id":"sh/or6ho7i1","slide":22,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/s36x07mp","slide":22,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/ydgbmhsf","slide":22,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/r6xgjqd4","slide":22,"name":"Rectangle: Rounded Corners 829312678","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/z2t43q9w","slide":22,"textChars":94,"textLines":1}
+{"kind":"shape","id":"sh/x8zyhgza","slide":22,"name":"Arrow: Right 317120133","bbox":[297,278,80,38]}
+{"kind":"shape","id":"sh/v6lwzihs","slide":22,"name":"Arrow: Right 1214036267","bbox":[567,278,80,38]}
+{"kind":"shape","id":"sh/v2d4b258","slide":22,"name":"Arrow: Right 1681436008","bbox":[847,278,80,38]}
+{"kind":"shape","id":"sh/excfi5kv","slide":22,"name":"Arrow: Left 601838430","bbox":[297,375,80,38]}
+{"kind":"shape","id":"sh/lcbql0ve","slide":22,"name":"Arrow: Left 1668377","bbox":[567,375,80,38]}
+{"kind":"shape","id":"sh/etgje9s3","slide":22,"name":"Arrow: Left 932365597","bbox":[847,375,80,38]}
+{"kind":"textbox","id":"sh/1gnel8re","slide":22,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/8jmxgrml","slide":22,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/k7e54rqh","slide":22,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/hk7a5czm","slide":22,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/6h0z65kb","slide":22,"textChars":37,"textLines":1}
+{"kind":"textbox","id":"sh/cvqtszy5","slide":22,"textChars":55,"textLines":1}
+{"kind":"shape","id":"sh/orahovu1","slide":22,"name":"Rectangle: Rounded Corners 1779932144","bbox":[165,467.3,950,73.7]}
+{"kind":"shape","id":"sh/7ydgf6t0","slide":22,"name":"Rectangle: Rounded Corners 1594311438","bbox":[350,552.83,580,62.17]}
+{"kind":"image","id":"im/83mxgnit","slide":22,"name":"Graphic 2043260690","bbox":[210,474,900,64]}
+{"kind":"image","id":"im/n2dw7i18","slide":22,"name":"Graphic 50783598","bbox":[430,562,500,54]}
+{"kind":"notes","id":"nt/5onypobq","slide":22,"text":"[Sources] | Educational synthesis based on standard backpropagation and gradi..."}
+{"kind":"slide","id":"sl/c7uhcr6t","slide":23,"title":"Neural networks","textShapes":16}
+{"kind":"textbox","id":"sh/wbyt4z69","slide":23,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/k3etgrmt","slide":23,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/it0nq9g3","slide":23,"name":"Rectangle: Rounded Corners 8473207","bbox":[64,140.03,1152,500]}
+{"kind":"textbox","id":"sh/6hsz2xoj","slide":23,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ulc7y1cf","slide":23,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bql4zu54","slide":23,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/qxwfa54n","slide":23,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/47a54z2t","slide":23,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/s7mh072x","slide":23,"name":"Straight Arrow Connector 1503402375","bbox":[352,291,548,0]}
+{"kind":"shape","id":"sh/wz6tcrul","slide":23,"name":"Straight Arrow Connector 1503402376","bbox":[352,291,548,160]}
+{"kind":"shape","id":"sh/fu10fehs","slide":23,"name":"Straight Arrow Connector 1503402377","bbox":[352,291,548,160]}
+{"kind":"shape","id":"sh/za5sby9k","slide":23,"name":"Straight Arrow Connector 1503402378","bbox":[352,451,548,0]}
+{"kind":"textbox","id":"sh/hcnqlcz2","slide":23,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/n6twbuls","slide":23,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ut4zmhgf","slide":23,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/lc7elgz6","slide":23,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ytgjupk7","slide":23,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/zmxofyxk","slide":23,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/rm5kbq54","slide":23,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/87ypsnqt","slide":23,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/7adwretw","slide":23,"textChars":51,"textLines":1}
+{"kind":"notes","id":"nt/c7uhcr6t","slide":23,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/7qto7e10","slide":24,"title":"Neural networks","textShapes":36}
+{"kind":"shape","id":"sh/9kzq5c7e","slide":24,"name":"Rectangle: Rounded Corners 6","bbox":[62,142,1156,501]}
+{"kind":"textbox","id":"sh/bud8r6xk","slide":24,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/lgza14nu","slide":24,"textChars":40,"textLines":1}
+{"kind":"textbox","id":"sh/2dobyxgj","slide":24,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/gzqtwnut","slide":24,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/3upsjqh4","slide":24,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/bexobylc","slide":24,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/re9svi5w","slide":24,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/ux8j2x47","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/43u107e5","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/94nipc3a","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/6d8f6pgr","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/0nqxwn6d","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/gzmlcbmh","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/m90f6l8z","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/c7yh4jux","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/v2dknypo","slide":24,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/sj2xgbyp","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/rql8fad4","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/2t0fa1wj","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/gja5onyp","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/1kfudkv6","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/a5k3a18f","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/fq1cnupw","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/7y9kjudk","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/5w3250na","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/c7yx43a1","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/8re907il","slide":24,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/it0nmhgr","slide":24,"textChars":70,"textLines":1}
+{"kind":"textbox","id":"sh/gna9gjyl","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/nmpwbah8","slide":24,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/3u5sbyl4","slide":24,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/3qh43uhs","slide":24,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/bmxsj21w","slide":24,"name":"Straight Arrow Connector 1503402375","bbox":[160,184.38,548,0]}
+{"kind":"shape","id":"sh/6hwf2l8r","slide":24,"name":"Straight Arrow Connector 1503402376","bbox":[160,184.38,548,160]}
+{"kind":"shape","id":"sh/kzeh8ru1","slide":24,"name":"Straight Arrow Connector 1503402377","bbox":[160,184.38,548,160]}
+{"kind":"shape","id":"sh/q1sfu90z","slide":24,"name":"Straight Arrow Connector 1503402378","bbox":[160,344.38,548,0]}
+{"kind":"textbox","id":"sh/utsry9sn","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/1ozah43u","slide":24,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/pg3qdsne","slide":24,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/uhwnihcf","slide":24,"textChars":4,"textLines":1}
+{"kind":"notes","id":"nt/7qto7e10","slide":24,"text":"[Sources] | Educational synthesis based on the numeric first-layer weights an..."}
+{"kind":"slide","id":"sl/69wfm9o7","slide":25,"title":"Vision","textShapes":3}
+{"kind":"shape","id":"sh/wve1kvy1","slide":25,"name":"Rectangle 1534851990","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/dojqx83a","slide":25,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/298bylg7","slide":25,"textChars":41,"textLines":1}
+{"kind":"textbox","id":"sh/hs7yhsru","slide":25,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/pc7qt076","slide":25,"name":"Picture 515916084","bbox":[124.04,165,1031.91,485]}
+{"kind":"notes","id":"nt/69wfm9o7","slide":25,"text":"[Sources] | CNN overview and claims about local connectivity, feature maps, p..."}
+{"kind":"slide","id":"sl/l0bepsfm","slide":26,"title":"Sequences","textShapes":5}
+{"kind":"shape","id":"sh/7q14fapc","slide":26,"name":"Rectangle 1247590332","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/2lw3yls3","slide":26,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/pgjmtwf2","slide":26,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/qd0b6d0b","slide":26,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/vilwfy9w","slide":26,"textChars":70,"textLines":1}
+{"kind":"textbox","id":"sh/l0fy5wby","slide":26,"textChars":87,"textLines":1}
+{"kind":"image","id":"im/za14v2hk","slide":26,"name":"Picture 305515905","bbox":[215,190,850,383]}
+{"kind":"notes","id":"nt/l0bepsfm","slide":26,"text":"[Sources] | Image supplied by the user: https://miro.medium.com/v2/resize:fit..."}
+{"kind":"slide","id":"sl/4vyxknqp","slide":27,"title":"Sequences","textShapes":14}
+{"kind":"shape","id":"sh/d8fu9kz6","slide":27,"name":"Rectangle 1803920234","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/18ni1oji","slide":27,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/o7yds32x","slide":27,"textChars":34,"textLines":1}
+{"kind":"textbox","id":"sh/lkbyd83u","slide":27,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bihw3u9o","slide":27,"textChars":72,"textLines":1}
+{"kind":"shape","id":"sh/d8z25ovq","slide":27,"name":"Rectangle: Rounded Corners 1850643839","bbox":[76,208,328,332]}
+{"kind":"textbox","id":"sh/ipsri9wb","slide":27,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/lkbap0ry","slide":27,"textChars":45,"textLines":2}
+{"kind":"shape","id":"sh/ut8j21c3","slide":27,"name":"Straight Connector 661712452","bbox":[104,396,270,0]}
+{"kind":"textbox","id":"sh/jqpkvah4","slide":27,"textChars":45,"textLines":2}
+{"kind":"shape","id":"sh/snqtcbet","slide":27,"name":"Rectangle: Rounded Corners 1558336149","bbox":[440,208,328,332]}
+{"kind":"textbox","id":"sh/e1kn6d8r","slide":27,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/5kbyd0f2","slide":27,"textChars":54,"textLines":2}
+{"kind":"shape","id":"sh/3qp8rqhs","slide":27,"name":"Straight Connector 1325281556","bbox":[468,396,270,0]}
+{"kind":"textbox","id":"sh/8naxc3a9","slide":27,"textChars":56,"textLines":2}
+{"kind":"shape","id":"sh/tcz2x4jm","slide":27,"name":"Rectangle: Rounded Corners 713289506","bbox":[804,208,328,332]}
+{"kind":"textbox","id":"sh/72dk3mh0","slide":27,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/b25gva5o","slide":27,"textChars":49,"textLines":2}
+{"kind":"shape","id":"sh/bml4bqho","slide":27,"name":"Straight Connector 327092207","bbox":[832,396,270,0]}
+{"kind":"textbox","id":"sh/psve94nu","slide":27,"textChars":51,"textLines":2}
+{"kind":"textbox","id":"sh/ylszmxsn","slide":27,"textChars":109,"textLines":1}
+{"kind":"notes","id":"nt/4vyxknqp","slide":27,"text":"[Sources] | Educational synthesis based on standard RNN, LSTM, and GRU archit..."}
+{"kind":"slide","id":"sl/3mdove10","slide":28,"title":"Sequences","textShapes":3}
+{"kind":"shape","id":"sh/cjm983ul","slide":28,"name":"Rectangle 989602603","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/4361wfq9","slide":28,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/h8vmp0ny","slide":28,"textChars":44,"textLines":1}
+{"kind":"textbox","id":"sh/qh8fe543","slide":28,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/7u9g7y54","slide":28,"name":"Picture 2063006321","bbox":[206.4,148,867.21,488]}
+{"kind":"notes","id":"nt/3mdove10","slide":28,"text":"[Sources] | Image supplied by the user: https://miro.medium.com/v2/resize:fit..."}
+{"kind":"slide","id":"sl/i5o3q10v","slide":29,"title":"Attention","textShapes":20}
+{"kind":"shape","id":"sh/m10fatk3","slide":29,"name":"Rectangle 445605593","bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/mpgzq1kb","slide":29,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ofehwj2p","slide":29,"textChars":45,"textLines":1}
+{"kind":"textbox","id":"sh/sjyt8zml","slide":29,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ap87ut4f","slide":29,"textChars":121,"textLines":1}
+{"kind":"shape","id":"sh/zu1sfux0","slide":29,"name":"Rectangle: Rounded Corners 713842562","bbox":[82,205,450,300]}
+{"kind":"textbox","id":"sh/szitc72t","slide":29,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/d0jelwrq","slide":29,"name":"Rectangle: Rounded Corners 269245449","bbox":[125,310,58,42]}
+{"kind":"textbox","id":"sh/ap0vihkf","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/98nux8jy","slide":29,"name":"Rectangle: Rounded Corners 1881943617","bbox":[200,310,58,42]}
+{"kind":"textbox","id":"sh/i5gnydo7","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/rax0fmp8","slide":29,"name":"Rectangle: Rounded Corners 1000571147","bbox":[275,310,58,42]}
+{"kind":"textbox","id":"sh/m5kjetkv","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/0zet4bmt","slide":29,"name":"Rectangle: Rounded Corners 1325909977","bbox":[350,310,58,42]}
+{"kind":"textbox","id":"sh/poradg36","slide":29,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/w7qx8bml","slide":29,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/18zm1kza","slide":29,"name":"Rectangle: Rounded Corners 1570394485","bbox":[204,421,204,46]}
+{"kind":"textbox","id":"sh/j29kfa1k","slide":29,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/0bil8ru1","slide":29,"name":"Rectangle: Rounded Corners 1756776668","bbox":[584,205,562,300]}
+{"kind":"textbox","id":"sh/9oryl07a","slide":29,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/21kf6d0v","slide":29,"name":"Rectangle: Rounded Corners 1064166989","bbox":[630,310,60,42]}
+{"kind":"textbox","id":"sh/ozuxonmt","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/tsnypkni","slide":29,"name":"Rectangle: Rounded Corners 1450770126","bbox":[707,310,60,42]}
+{"kind":"textbox","id":"sh/sfa9obax","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/hwbu98zu","slide":29,"name":"Rectangle: Rounded Corners 1853229096","bbox":[784,310,60,42]}
+{"kind":"textbox","id":"sh/a1c3y1cv","slide":29,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/8bq9c3i9","slide":29,"name":"Rectangle: Rounded Corners 138396104","bbox":[861,310,60,42]}
+{"kind":"textbox","id":"sh/8bm50rix","slide":29,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/5cb6tg76","slide":29,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/ozy1cfat","slide":29,"name":"Rectangle: Rounded Corners 303264546","bbox":[970,329,108,48]}
+{"kind":"textbox","id":"sh/ax0bu50v","slide":29,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/vilwvi5s","slide":29,"name":"Straight Connector 1878246070","bbox":[707,313,301,15]}
+{"kind":"shape","id":"sh/7a5cbutc","slide":29,"name":"Straight Connector 966688595","bbox":[863,313,145,15]}
+{"kind":"textbox","id":"sh/wjmt4z6t","slide":29,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/94fih8r6","slide":29,"textChars":69,"textLines":1}
+{"kind":"notes","id":"nt/i5o3q10v","slide":29,"text":"[Sources] | Educational synthesis based on standard sequence-to-sequence atte..."}
+{"kind":"slide","id":"sl/wnqh07ex","slide":30,"title":"Architecture","textShapes":7}
+{"kind":"textbox","id":"sh/769cfe54","slide":30,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/1szih076","slide":30,"textChars":51,"textLines":1}
+{"kind":"shape","id":"sh/8jqxwjuh","slide":30,"name":"Rectangle: Rounded Corners 1456392341","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/9sjehg3m","slide":30,"name":"Rectangle: Rounded Corners 1987074982","bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/gva5s7m9","slide":30,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/472lcja1","slide":30,"textChars":27,"textLines":2}
+{"kind":"textbox","id":"sh/wfa54jy1","slide":30,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/e9krm9wn","slide":30,"textChars":50,"textLines":3}
+{"kind":"textbox","id":"sh/xcbqpcvm","slide":30,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/ofulk7il","slide":30,"name":"Picture 1987074993","bbox":[240,158.09,350,469.82]}
+{"kind":"notes","id":"nt/wnqh07ex","slide":30,"text":"[Sources] | Transformer architecture image supplied by the user: https://qiit..."}
+{"kind":"slide","id":"sl/lcn6tkb6","slide":31,"title":"Transformer roadmap · Input","textShapes":16}
+{"kind":"textbox","id":"sh/gbm1ovyl","slide":31,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/dsved0nm","slide":31,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/v2hsfu9g","slide":31,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/nilk32l4","slide":31,"textChars":59,"textLines":1}
+{"kind":"shape","id":"sh/zu5o3el0","slide":31,"name":"Rectangle: Rounded Corners 26212804","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/wbipw3ud","slide":31,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/u1k3m507","slide":31,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/mlk7ex0b","slide":31,"name":"Rectangle: Rounded Corners 279736926","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/mxo3qxgz","slide":31,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/cbqho7it","slide":31,"name":"Straight Connector 1619670975","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/kjapc721","slide":31,"name":"Rectangle: Rounded Corners 1743333566","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/6donylsv","slide":31,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/7ahsj69g","slide":31,"name":"Straight Connector 145208638","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/kbup0z6l","slide":31,"name":"Rectangle: Rounded Corners 1609950337","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/cjutw3mh","slide":31,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/7ih4r2tw","slide":31,"name":"Straight Connector 785359653","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/6xwzixo3","slide":31,"name":"Rectangle: Rounded Corners 855638666","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/w36903u9","slide":31,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/v65sjqxo","slide":31,"name":"Straight Connector 693332806","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/8zut4rmx","slide":31,"name":"Rectangle: Rounded Corners 1926968986","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/psrexo32","slide":31,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/dwb290ra","slide":31,"name":"Straight Connector 365425087","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/mhkn6d43","slide":31,"name":"Rectangle: Rounded Corners 245865221","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/ilgfm9kn","slide":31,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/n6h8zmtc","slide":31,"name":"Straight Connector 275380547","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/fal4v6xs","slide":31,"name":"Rectangle: Rounded Corners 2080764040","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/94ba18fy","slide":31,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/l8zm50fi","slide":31,"name":"Straight Connector 1060762689","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/c7ixs7ed","slide":31,"name":"Rectangle: Rounded Corners 727588092","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/5w3a10vm","slide":31,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/kbud4fyl","slide":31,"name":"Straight Connector 1664930942","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/t4netcbe","slide":31,"name":"Rectangle: Rounded Corners 248230012","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/ls3yxkju","slide":31,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/x8rqtkja","slide":31,"textChars":15,"textLines":1}
+{"kind":"notes","id":"nt/lcn6tkb6","slide":31,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/6l0j294r","slide":32,"title":"Transformer roadmap · Input","textShapes":16}
+{"kind":"textbox","id":"sh/vitcrahw","slide":32,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/bqpw3e9g","slide":32,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/wbqhc3uh","slide":32,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/1orm10zi","slide":32,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/7ylc3al0","slide":32,"name":"Rectangle: Rounded Corners 1012559160","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/o7axkfap","slide":32,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/cbydo3m5","slide":32,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/fe9of2p4","slide":32,"name":"Rectangle: Rounded Corners 215861248","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/7qdcb2tw","slide":32,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/7ypkn6pw","slide":32,"name":"Straight Connector 1927723798","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/1o7i1oz6","slide":32,"name":"Rectangle: Rounded Corners 329236221","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/zm1gvepw","slide":32,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/1k7e54nm","slide":32,"name":"Straight Connector 1239363628","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/4ve9876d","slide":32,"name":"Rectangle: Rounded Corners 1808606350","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/xsnqd8re","slide":32,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/b2t0bmxc","slide":32,"name":"Straight Connector 372799236","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/58n65kbq","slide":32,"name":"Rectangle: Rounded Corners 39541051","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/gvatkv2d","slide":32,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/ix4fadon","slide":32,"name":"Straight Connector 473089442","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/v6hc3qd4","slide":32,"name":"Rectangle: Rounded Corners 505397229","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/kzqpc369","slide":32,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/ydcni5kb","slide":32,"name":"Straight Connector 1353970452","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/zet0vmpo","slide":32,"name":"Rectangle: Rounded Corners 406273477","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/e14vyxwf","slide":32,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/hcnu1kz2","slide":32,"name":"Straight Connector 458049314","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/nud4ne5o","slide":32,"name":"Rectangle: Rounded Corners 1206745481","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/pojm9476","slide":32,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/3i9cry1w","slide":32,"name":"Straight Connector 547570178","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/mto7m14j","slide":32,"name":"Rectangle: Rounded Corners 1868051656","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/ju1kjq5s","slide":32,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/8vqt4jal","slide":32,"name":"Straight Connector 1197472556","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/tczm907u","slide":32,"name":"Rectangle: Rounded Corners 632538634","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/f698nqh4","slide":32,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/1sv6twf2","slide":32,"textChars":15,"textLines":1}
+{"kind":"notes","id":"nt/6l0j294r","slide":32,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/nax4b2dk","slide":33,"title":"Transformer roadmap · Input","textShapes":16}
+{"kind":"textbox","id":"sh/bads7298","slide":33,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/crmtsbyx","slide":33,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/258jep0n","slide":33,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/5cbqtwjm","slide":33,"textChars":65,"textLines":1}
+{"kind":"shape","id":"sh/j2lgve9g","slide":33,"name":"Rectangle: Rounded Corners 223341809","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/83udo32l","slide":33,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/u9knupgv","slide":33,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/jmhsbal8","slide":33,"name":"Rectangle: Rounded Corners 15823732","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/ex4zml07","slide":33,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/szqlgn2p","slide":33,"name":"Straight Connector 525634098","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/lk7epgry","slide":33,"name":"Rectangle: Rounded Corners 674286044","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/u9gva903","slide":33,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/2l8bepgj","slide":33,"name":"Straight Connector 1426500242","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/729wbqh0","slide":33,"name":"Rectangle: Rounded Corners 1367709388","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/vil4vm94","slide":33,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/yps3mpgv","slide":33,"name":"Straight Connector 1500557142","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/8zqd47i9","slide":33,"name":"Rectangle: Rounded Corners 1502394842","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/c3q5o72h","slide":33,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/sbylk36d","slide":33,"name":"Straight Connector 799654873","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/qpcjilwj","slide":33,"name":"Rectangle: Rounded Corners 657808798","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/a14j25kz","slide":33,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/yhgfqhon","slide":33,"name":"Straight Connector 1949861611","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/q94ru94z","slide":33,"name":"Rectangle: Rounded Corners 375602484","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/i1krudsr","slide":33,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/ze583uh8","slide":33,"name":"Straight Connector 1424137737","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/re183610","slide":33,"name":"Rectangle: Rounded Corners 636703503","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/jmh0fq98","slide":33,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/sved8bqx","slide":33,"name":"Straight Connector 587719898","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/pc7ydsje","slide":33,"name":"Rectangle: Rounded Corners 457359032","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/betobu9k","slide":33,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/x07exgbi","slide":33,"name":"Straight Connector 1869277450","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/f6pg3atg","slide":33,"name":"Rectangle: Rounded Corners 208888040","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/u98rmd8n","slide":33,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/58vmx43q","slide":33,"textChars":15,"textLines":1}
+{"kind":"notes","id":"nt/nax4b2dk","slide":33,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/ofu103u5","slide":34,"title":"Transformer roadmap · Encoder","textShapes":16}
+{"kind":"textbox","id":"sh/07exsba5","slide":34,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/j2tgry10","slide":34,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/nq5k3ap8","slide":34,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0zutsnat","slide":34,"textChars":63,"textLines":1}
+{"kind":"shape","id":"sh/hkvy9ov2","slide":34,"name":"Rectangle: Rounded Corners 1349570965","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/6lgvatgr","slide":34,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/pszato3y","slide":34,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/0raxcvq1","slide":34,"name":"Rectangle: Rounded Corners 176541761","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/kbip0nu1","slide":34,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/sbqhozy5","slide":34,"name":"Straight Connector 600780342","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/ydwrq5gz","slide":34,"name":"Rectangle: Rounded Corners 192673418","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/zmdc7edc","slide":34,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/h8zmd4nu","slide":34,"name":"Straight Connector 2115912948","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/up0nqd8j","slide":34,"name":"Rectangle: Rounded Corners 1669837260","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/nmlkzux0","slide":34,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/gvi5kz65","slide":34,"name":"Straight Connector 618109235","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/10vidkni","slide":34,"name":"Rectangle: Rounded Corners 1448512622","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/m9kvy9gj","slide":34,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/adwrmloz","slide":34,"name":"Straight Connector 611044704","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/but8bmd8","slide":34,"name":"Rectangle: Rounded Corners 1801361334","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/l472lobe","slide":34,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/s3ypszqt","slide":34,"name":"Straight Connector 2062227753","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/9svutkj2","slide":34,"name":"Rectangle: Rounded Corners 1885577813","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/q1cfyd0b","slide":34,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/9snm9ojq","slide":34,"name":"Straight Connector 352979733","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/ap0jq9g7","slide":34,"name":"Rectangle: Rounded Corners 1336102285","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/tozet0vu","slide":34,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/lc3itwbi","slide":34,"name":"Straight Connector 1371789296","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/87m1g3e1","slide":34,"name":"Rectangle: Rounded Corners 511992750","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/dcbm10vi","slide":34,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/07at8rmh","slide":34,"name":"Straight Connector 176145285","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/a9cvypwv","slide":34,"name":"Rectangle: Rounded Corners 938876559","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/xcbalsny","slide":34,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/sz6ls3ul","slide":34,"textChars":17,"textLines":1}
+{"kind":"notes","id":"nt/ofu103u5","slide":34,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/1obmtofm","slide":35,"title":"Transformer roadmap · Encoder","textShapes":16}
+{"kind":"textbox","id":"sh/k76t0zud","slide":35,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/4v6h4vel","slide":35,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/mdsbehgz","slide":35,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/toni90z2","slide":35,"textChars":66,"textLines":1}
+{"kind":"shape","id":"sh/ze94f298","slide":35,"name":"Rectangle: Rounded Corners 2124759827","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/5ob2lg7u","slide":35,"textChars":23,"textLines":1}
+{"kind":"textbox","id":"sh/87axovex","slide":35,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/54fmpojm","slide":35,"name":"Rectangle: Rounded Corners 1212521509","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/8ryd4jyh","slide":35,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/4v2dsnud","slide":35,"name":"Straight Connector 1082776073","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/f29g76do","slide":35,"name":"Rectangle: Rounded Corners 889310825","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/svipk3ax","slide":35,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/e1c72l4z","slide":35,"name":"Straight Connector 1627926123","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/cj6pofyl","slide":35,"name":"Rectangle: Rounded Corners 1192935410","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/m98za9c7","slide":35,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/rmdgn29o","slide":35,"name":"Straight Connector 407523360","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/dwvm5svi","slide":35,"name":"Rectangle: Rounded Corners 139870702","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/u98rmh8f","slide":35,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/netcfq54","slide":35,"name":"Straight Connector 1722433847","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/snulonit","slide":35,"name":"Rectangle: Rounded Corners 1802370230","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/q103qh8b","slide":35,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/cjqhk3yt","slide":35,"name":"Straight Connector 1897884152","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/7qd4r2xc","slide":35,"name":"Rectangle: Rounded Corners 1387834287","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/l4vexsfa","slide":35,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/ori94nup","slide":35,"name":"Straight Connector 452092562","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/94b2pwz2","slide":35,"name":"Rectangle: Rounded Corners 5361157","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/w3y5orup","slide":35,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/1czulkbe","slide":35,"name":"Straight Connector 75788939","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/loba1orq","slide":35,"name":"Rectangle: Rounded Corners 321816876","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/rmlkby5c","slide":35,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/h8jixk7y","slide":35,"name":"Straight Connector 730717556","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/832t0jq5","slide":35,"name":"Rectangle: Rounded Corners 403779116","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/7et0n658","slide":35,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/bm1kryh0","slide":35,"textChars":17,"textLines":1}
+{"kind":"notes","id":"nt/1obmtofm","slide":35,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/m9s3ehgf","slide":36,"title":"Transformer roadmap · Encoder","textShapes":16}
+{"kind":"textbox","id":"sh/w3mx4nml","slide":36,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/pwnyhcfu","slide":36,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/qxcrixsz","slide":36,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/bmxwbul0","slide":36,"textChars":60,"textLines":1}
+{"kind":"shape","id":"sh/yt0jeh8n","slide":36,"name":"Rectangle: Rounded Corners 1297482730","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/mpobm5gz","slide":36,"textChars":38,"textLines":1}
+{"kind":"textbox","id":"sh/qxcvm58f","slide":36,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/r2xsvap4","slide":36,"name":"Rectangle: Rounded Corners 708556130","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/90ny5wnq","slide":36,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/sj6xkr6l","slide":36,"name":"Straight Connector 847957589","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/y5kb2d0r","slide":36,"name":"Rectangle: Rounded Corners 1044367556","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/3yl8ru9o","slide":36,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/neds32t0","slide":36,"name":"Straight Connector 1339640358","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/obadgnm9","slide":36,"name":"Rectangle: Rounded Corners 1174751442","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/o721o321","slide":36,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/8fyd0ned","slide":36,"name":"Straight Connector 1896514296","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/2dsnq94r","slide":36,"name":"Rectangle: Rounded Corners 1251191564","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/tgjy5cn2","slide":36,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/k3yhgv6d","slide":36,"name":"Straight Connector 1716038944","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/61c7yhsb","slide":36,"name":"Rectangle: Rounded Corners 82172497","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/zedsbupg","slide":36,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/fe50rut4","slide":36,"name":"Straight Connector 1438817859","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/7a9wj6t4","slide":36,"name":"Rectangle: Rounded Corners 311964682","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/n61sra5k","slide":36,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/l0rq9o7y","slide":36,"name":"Straight Connector 172637880","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/o7qpc7ap","slide":36,"name":"Rectangle: Rounded Corners 664865695","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/r2pozqhk","slide":36,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/36x8zyx8","slide":36,"name":"Straight Connector 124461839","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/187y1kf6","slide":36,"name":"Rectangle: Rounded Corners 1388074794","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/9wz69o7i","slide":36,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/sn61cfep","slide":36,"name":"Straight Connector 626513158","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/nul4bi1s","slide":36,"name":"Rectangle: Rounded Corners 1348387769","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/7ixwzypc","slide":36,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/nq10rmxo","slide":36,"textChars":17,"textLines":1}
+{"kind":"notes","id":"nt/m9s3ehgf","slide":36,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/jyhsreh4","slide":37,"title":"Transformer roadmap · Encoder","textShapes":16}
+{"kind":"textbox","id":"sh/yho76x0r","slide":37,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/ba5c7q14","slide":37,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/dczaton2","slide":37,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/2h8b6ls7","slide":37,"textChars":75,"textLines":1}
+{"kind":"shape","id":"sh/tkn29c7y","slide":37,"name":"Rectangle: Rounded Corners 27431758","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/bq1wneps","slide":37,"textChars":31,"textLines":1}
+{"kind":"textbox","id":"sh/7ehs36xs","slide":37,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/qls3ytoj","slide":37,"name":"Rectangle: Rounded Corners 87767121","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/zihg3idg","slide":37,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/6xoj254b","slide":37,"name":"Straight Connector 517415219","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/i1sryxsn","slide":37,"name":"Rectangle: Rounded Corners 1999558657","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/uhsna1cb","slide":37,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/8ral8vyd","slide":37,"name":"Straight Connector 1626366937","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/czexsned","slide":37,"name":"Rectangle: Rounded Corners 1349263431","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/y9kfedg3","slide":37,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/psf658v2","slide":37,"name":"Straight Connector 1117391912","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/wbitcjix","slide":37,"name":"Rectangle: Rounded Corners 2030421428","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/bats725w","slide":37,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/alcjyxgb","slide":37,"name":"Straight Connector 185798312","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/ytwz6xsf","slide":37,"name":"Rectangle: Rounded Corners 1576514479","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/c7y10za9","slide":37,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/6dkf6pof","slide":37,"name":"Straight Connector 1984365111","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/9orilkrm","slide":37,"name":"Rectangle: Rounded Corners 869054346","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/eho3qh0r","slide":37,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/w7mxk36d","slide":37,"name":"Straight Connector 2029725028","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/0by9wzmp","slide":37,"name":"Rectangle: Rounded Corners 396229294","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/2l07i1gb","slide":37,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/vqh0jet4","slide":37,"name":"Straight Connector 875512187","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/d4ra1s76","slide":37,"name":"Rectangle: Rounded Corners 1677424928","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/sr6lonyl","slide":37,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/fqxgb69s","slide":37,"name":"Straight Connector 842723330","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/wbuxonil","slide":37,"name":"Rectangle: Rounded Corners 1153467284","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/v6lcfi98","slide":37,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/hk32xs7e","slide":37,"textChars":17,"textLines":1}
+{"kind":"notes","id":"nt/jyhsreh4","slide":37,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/ofahkri5","slide":38,"title":"Transformer roadmap · Decoder","textShapes":16}
+{"kind":"textbox","id":"sh/dwfql4n2","slide":38,"textChars":29,"textLines":1}
+{"kind":"textbox","id":"sh/xona1wba","slide":38,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/l4vyh8z6","slide":38,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/tgvmhgbu","slide":38,"textChars":80,"textLines":1}
+{"kind":"shape","id":"sh/14zad8fm","slide":38,"name":"Rectangle: Rounded Corners 1687046557","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/t0z6hsj2","slide":38,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/lsrids3q","slide":38,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/al43epon","slide":38,"name":"Rectangle: Rounded Corners 648015228","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/m50fm5c3","slide":38,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/nmdsz2lg","slide":38,"name":"Straight Connector 85389353","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/18bm98ry","slide":38,"name":"Rectangle: Rounded Corners 361100454","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/zm1cfahc","slide":38,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/z21kb6ts","slide":38,"name":"Straight Connector 2015909228","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/g7y14va1","slide":38,"name":"Rectangle: Rounded Corners 142575113","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/18z21wna","slide":38,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/6hovq9of","slide":38,"name":"Straight Connector 1465333174","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/5gzyx872","slide":38,"name":"Rectangle: Rounded Corners 1389563848","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/2h8zitsf","slide":38,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/cfepkj6x","slide":38,"name":"Straight Connector 1742930671","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/54jyd0v2","slide":38,"name":"Rectangle: Rounded Corners 1443619556","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/l836d4ru","slide":38,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/filw7i58","slide":38,"name":"Straight Connector 47922108","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/e5cf2dob","slide":38,"name":"Rectangle: Rounded Corners 1140412520","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/ax4jupoj","slide":38,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/jyxor6xk","slide":38,"name":"Straight Connector 1991870028","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/ved4ba1c","slide":38,"name":"Rectangle: Rounded Corners 756682","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/i5gni5kn","slide":38,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/614zqxwf","slide":38,"name":"Straight Connector 1466953926","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/g3ux0bep","slide":38,"name":"Rectangle: Rounded Corners 188622404","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/wv29432x","slide":38,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/4bmxgnq5","slide":38,"name":"Straight Connector 1064198225","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/lcne10ba","slide":38,"name":"Rectangle: Rounded Corners 1706007458","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/lkv694bm","slide":38,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/nidwfmho","slide":38,"textChars":17,"textLines":1}
+{"kind":"notes","id":"nt/ofahkri5","slide":38,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/twb2lg7e","slide":39,"title":"Transformer roadmap · Output","textShapes":16}
+{"kind":"textbox","id":"sh/4jedc3ut","slide":39,"textChars":28,"textLines":1}
+{"kind":"textbox","id":"sh/4ze5c3uh","slide":39,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/sb2tg7q9","slide":39,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/s76xc7qd","slide":39,"textChars":70,"textLines":1}
+{"kind":"shape","id":"sh/vu54ze5o","slide":39,"name":"Rectangle: Rounded Corners 2093550814","bbox":[170,250,940,150]}
+{"kind":"textbox","id":"sh/6xcbul0j","slide":39,"textChars":39,"textLines":1}
+{"kind":"textbox","id":"sh/65o7ylkb","slide":39,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/9wbehg7u","slide":39,"name":"Rectangle: Rounded Corners 1039537940","bbox":[128,510,92,46]}
+{"kind":"textbox","id":"sh/u1cj69wr","slide":39,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/3el8behw","slide":39,"name":"Straight Connector 1845023768","bbox":[220,533,20,0]}
+{"kind":"shape","id":"sh/z2x4v2do","slide":39,"name":"Rectangle: Rounded Corners 1303166908","bbox":[240,510,92,46]}
+{"kind":"textbox","id":"sh/fi50b6x8","slide":39,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/b6l836l0","slide":39,"name":"Straight Connector 197604630","bbox":[332,533,20,0]}
+{"kind":"shape","id":"sh/por2ls7m","slide":39,"name":"Rectangle: Rounded Corners 1670026602","bbox":[352,510,92,46]}
+{"kind":"textbox","id":"sh/yh03mtg3","slide":39,"textChars":19,"textLines":1}
+{"kind":"shape","id":"sh/d43y9cjm","slide":39,"name":"Straight Connector 81515368","bbox":[444,533,20,0]}
+{"kind":"shape","id":"sh/r21476ds","slide":39,"name":"Rectangle: Rounded Corners 1561005203","bbox":[464,510,92,46]}
+{"kind":"textbox","id":"sh/5k3i10r2","slide":39,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/r2tcj25s","slide":39,"name":"Straight Connector 674230048","bbox":[556,533,20,0]}
+{"kind":"shape","id":"sh/1s3at8ji","slide":39,"name":"Rectangle: Rounded Corners 955373584","bbox":[576,510,92,46]}
+{"kind":"textbox","id":"sh/4zih0fep","slide":39,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/1kz2xkjy","slide":39,"name":"Straight Connector 1938108988","bbox":[668,533,20,0]}
+{"kind":"shape","id":"sh/d0bqd4vq","slide":39,"name":"Rectangle: Rounded Corners 159381263","bbox":[688,510,92,46]}
+{"kind":"textbox","id":"sh/h4zuxwny","slide":39,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/14val8be","slide":39,"name":"Straight Connector 1402802111","bbox":[780,533,20,0]}
+{"kind":"shape","id":"sh/50beh0re","slide":39,"name":"Rectangle: Rounded Corners 800324750","bbox":[800,510,92,46]}
+{"kind":"textbox","id":"sh/lgnyp8j6","slide":39,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/idkbidcf","slide":39,"name":"Straight Connector 1541871373","bbox":[892,533,20,0]}
+{"kind":"shape","id":"sh/kzitg7m1","slide":39,"name":"Rectangle: Rounded Corners 1829725634","bbox":[912,510,92,46]}
+{"kind":"textbox","id":"sh/alcnmx0j","slide":39,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/1srel4bq","slide":39,"name":"Straight Connector 372489361","bbox":[1004,533,20,0]}
+{"kind":"shape","id":"sh/t072dkzy","slide":39,"name":"Rectangle: Rounded Corners 2057956785","bbox":[1024,510,92,46]}
+{"kind":"textbox","id":"sh/fyls32h4","slide":39,"textChars":19,"textLines":1}
+{"kind":"textbox","id":"sh/ml4f2pgn","slide":39,"textChars":16,"textLines":1}
+{"kind":"notes","id":"nt/twb2lg7e","slide":39,"text":"[Sources] | Educational synthesis based on the standard Transformer architect..."}
+{"kind":"slide","id":"sl/5ojatgfe","slide":40,"title":"Embeddings","textShapes":7}
+{"kind":"textbox","id":"sh/8bqpczqx","slide":40,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/8z2d8bix","slide":40,"textChars":20,"textLines":1}
+{"kind":"shape","id":"sh/tkvy547q","slide":40,"name":"Rectangle: Rounded Corners 81270832","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/szeps3m9","slide":40,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/mhcvads7","slide":40,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/5o3yxkre","slide":40,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/ri5cvet4","slide":40,"name":"Arrow: Right 719400496","bbox":[575,325,125,50]}
+{"kind":"shape","id":"sh/udsn6h4n","slide":40,"name":"Rectangle: Rounded Corners 1479447591","bbox":[780,262.5,35,127.5]}
+{"kind":"shape","id":"sh/zqh0b6lc","slide":40,"name":"Rectangle: Rounded Corners 2028005840","bbox":[835,347.5,35,42.5]}
+{"kind":"shape","id":"sh/8z2hc36t","slide":40,"name":"Rectangle: Rounded Corners 1882830141","bbox":[890,237,35,153]}
+{"kind":"shape","id":"sh/pkr61wzq","slide":40,"name":"Rectangle: Rounded Corners 60243026","bbox":[945,322,35,68]}
+{"kind":"shape","id":"sh/alovulo7","slide":40,"name":"Rectangle: Rounded Corners 1134928050","bbox":[1000,288,35,102]}
+{"kind":"textbox","id":"sh/65gve9sj","slide":40,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/ut4nm5wv","slide":40,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/5ojatgfe","slide":40,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/cnmpwjmp","slide":41,"title":"Embeddings","textShapes":10}
+{"kind":"textbox","id":"sh/knuhg7a1","slide":41,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/dg7e1cju","slide":41,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/qx47y9s7","slide":41,"name":"Rectangle: Rounded Corners 1169649151","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/ytk7utkb","slide":41,"name":"Straight Connector 2011469827","bbox":[195,535,855,1]}
+{"kind":"shape","id":"sh/f6lkze1o","slide":41,"name":"Straight Connector 181034433","bbox":[195,205,1,330]}
+{"kind":"shape","id":"sh/obep43e9","slide":41,"name":"Oval 1553006746","bbox":[359,274,22,22]}
+{"kind":"textbox","id":"sh/balgnq9o","slide":41,"textChars":4,"textLines":1}
+{"kind":"shape","id":"sh/9gzad0f6","slide":41,"name":"Oval 21898783","bbox":[409,239,22,22]}
+{"kind":"textbox","id":"sh/czm1cnuh","slide":41,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/itofqpsb","slide":41,"name":"Oval 2041526387","bbox":[319,369,22,22]}
+{"kind":"textbox","id":"sh/r65sr6lw","slide":41,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/y90bapgj","slide":41,"name":"Oval 1942427474","bbox":[424,354,22,22]}
+{"kind":"textbox","id":"sh/zyp4rihg","slide":41,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/k3il8nmh","slide":41,"name":"Oval 358440105","bbox":[749,319,22,22]}
+{"kind":"textbox","id":"sh/jup47ep0","slide":41,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/wjip8nmp","slide":41,"name":"Oval 1935212152","bbox":[809,289,22,22]}
+{"kind":"textbox","id":"sh/xcbu943u","slide":41,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/d0ju9kve","slide":41,"name":"Oval 1096938976","bbox":[919,464,22,22]}
+{"kind":"textbox","id":"sh/w72943qp","slide":41,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/d4val0z6","slide":41,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/cnmpwjmp","slide":41,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/7mdw7yh8","slide":42,"title":"Sequences","textShapes":9}
+{"kind":"textbox","id":"sh/i9kf65sn","slide":42,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/10vyxkfq","slide":42,"textChars":25,"textLines":1}
+{"kind":"shape","id":"sh/qds7ah0j","slide":42,"name":"Rectangle: Rounded Corners 1185614033","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/0bm9wjmh","slide":42,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/0bidcbet","slide":42,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/jipsn65s","slide":42,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/ob61wfm9","slide":42,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/fi9sze5g","slide":42,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/nmlwru90","slide":42,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/ydsfutsz","slide":42,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/7mdw7yh8","slide":42,"text":"[Sources] | Educational synthesis based on standard machine learning concepts."}
+{"kind":"slide","id":"sl/qhkbqxoz","slide":43,"title":"Mechanism","textShapes":9}
+{"kind":"textbox","id":"sh/bql0bqp0","slide":43,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ofy10361","slide":43,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/juls761c","slide":43,"name":"Rectangle: Rounded Corners 856291304","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/2lsnihor","slide":43,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/yxsfux8n","slide":43,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/k7a50fux","slide":43,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/5wna94re","slide":43,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/0b6pcful","slide":43,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/mpcbe1oj","slide":43,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/s32xkri5","slide":43,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/qhkbqxoz","slide":43,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/pcvutcvy","slide":44,"title":"Mechanism","textShapes":10}
+{"kind":"textbox","id":"sh/mdgbal8b","slide":44,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/srmp8fup","slide":44,"textChars":37,"textLines":1}
+{"kind":"shape","id":"sh/fu5szel8","slide":44,"name":"Rectangle: Rounded Corners 1012080298","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/1o3etwzi","slide":44,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/filgra14","slide":44,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/qdcrul0n","slide":44,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/836h8bap","slide":44,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/8vat43ip","slide":44,"name":"Rectangle: Rounded Corners 570514558","bbox":[770,390,30,40]}
+{"kind":"shape","id":"sh/14v6p83m","slide":44,"name":"Rectangle: Rounded Corners 1825339525","bbox":[818,355,30,75]}
+{"kind":"shape","id":"sh/h4765grq","slide":44,"name":"Rectangle: Rounded Corners 1330424870","bbox":[866,405,30,25]}
+{"kind":"shape","id":"sh/72xsf2hg","slide":44,"name":"Rectangle: Rounded Corners 1894137061","bbox":[914,335,30,95]}
+{"kind":"shape","id":"sh/gzqd0rq9","slide":44,"name":"Rectangle: Rounded Corners 402898928","bbox":[962,375,30,55]}
+{"kind":"textbox","id":"sh/axgbix0b","slide":44,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/25s7qdkr","slide":44,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/c7m90r2d","slide":44,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/507qpc7a","slide":44,"textChars":122,"textLines":2}
+{"kind":"notes","id":"nt/pcvutcvy","slide":44,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/kvipwnmh","slide":45,"title":"Mechanism","textShapes":8}
+{"kind":"textbox","id":"sh/61wfudwz","slide":45,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/gr6pofq9","slide":45,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/ls7mlobu","slide":45,"name":"Rectangle: Rounded Corners 464705818","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/8vet0ne9","slide":45,"name":"Rectangle: Rounded Corners 1141548239","bbox":[260,365,30,35]}
+{"kind":"shape","id":"sh/epkz6hwz","slide":45,"name":"Rectangle: Rounded Corners 498832919","bbox":[308,320,30,80]}
+{"kind":"shape","id":"sh/7u90r25o","slide":45,"name":"Rectangle: Rounded Corners 1769908897","bbox":[356,380,30,20]}
+{"kind":"shape","id":"sh/j6hk7a1g","slide":45,"name":"Rectangle: Rounded Corners 1914348486","bbox":[404,305,30,95]}
+{"kind":"shape","id":"sh/3atw7uhc","slide":45,"name":"Rectangle: Rounded Corners 1678518739","bbox":[452,355,30,45]}
+{"kind":"textbox","id":"sh/etsjuhk7","slide":45,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/hsbqlgvm","slide":45,"name":"Rectangle: Rounded Corners 211572738","bbox":[800,375,30,25]}
+{"kind":"shape","id":"sh/dg3utor6","slide":45,"name":"Rectangle: Rounded Corners 1030269239","bbox":[848,330,30,70]}
+{"kind":"shape","id":"sh/mt0bytwj","slide":45,"name":"Rectangle: Rounded Corners 642494706","bbox":[896,385,30,15]}
+{"kind":"shape","id":"sh/0fq14fmp","slide":45,"name":"Rectangle: Rounded Corners 1203968868","bbox":[944,310,30,90]}
+{"kind":"shape","id":"sh/3mtsbydg","slide":45,"name":"Rectangle: Rounded Corners 666818066","bbox":[992,360,30,40]}
+{"kind":"textbox","id":"sh/pcf2hkzy","slide":45,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/lg7ehcbm","slide":45,"textChars":27,"textLines":1}
+{"kind":"textbox","id":"sh/ets3mt0b","slide":45,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/rat0nu10","slide":45,"textChars":40,"textLines":1}
+{"kind":"textbox","id":"sh/hszixc72","slide":45,"textChars":71,"textLines":1}
+{"kind":"notes","id":"nt/kvipwnmh","slide":45,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/zixsf2ps","slide":46,"title":"Mechanism","textShapes":13}
+{"kind":"textbox","id":"sh/rq14bex8","slide":46,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/ils7uhcz","slide":46,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/p8b29obm","slide":46,"name":"Rectangle: Rounded Corners 832807897","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/xc3q9cfq","slide":46,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/hwfq9cbe","slide":46,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/nit8nql4","slide":46,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/byp8vulg","slide":46,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/idwjmp87","slide":46,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/y1gnqh4j","slide":46,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/ylg7i10n","slide":46,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/7i1wbap8","slide":46,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/vul4ji5o","slide":46,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/qpwvq9wz","slide":46,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/9ozmx07m","slide":46,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/zixsf2ps","slide":46,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/atcnytkf","slide":47,"title":"Self-attention","textShapes":15}
+{"kind":"textbox","id":"sh/vatonitw","slide":47,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/tcfq58vq","slide":47,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/lkrip8j2","slide":47,"name":"Rectangle: Rounded Corners 658275056","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/qlgzuxw3","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/y107u1wf","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/u5wnq98v","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/tgbylg7m","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/tgrqpgve","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/fm98na5g","slide":47,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/jadg76pk","slide":47,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/ytw3yd4b","slide":47,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/kba5kj6x","slide":47,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/tsb2d03e","slide":47,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/d4nup0vm","slide":47,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/cvyhsbuh","slide":47,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/p8rqxwfy","slide":47,"name":"Straight Connector 484203624","bbox":[245,335,1,110]}
+{"kind":"shape","id":"sh/dkfadovi","slide":47,"name":"Straight Connector 390803704","bbox":[395,335,1,110]}
+{"kind":"shape","id":"sh/0b2twvu9","slide":47,"name":"Straight Connector 1483356268","bbox":[545,335,1,110]}
+{"kind":"shape","id":"sh/ls7ypony","slide":47,"name":"Straight Connector 491113418","bbox":[695,335,1,110]}
+{"kind":"shape","id":"sh/pg7ul4vy","slide":47,"name":"Straight Connector 1895177637","bbox":[845,335,1,110]}
+{"kind":"shape","id":"sh/rmpo3ed0","slide":47,"name":"Straight Connector 1498279708","bbox":[995,335,1,110]}
+{"kind":"shape","id":"sh/lsfyxs7m","slide":47,"name":"Straight Connector 139583842","bbox":[245,300,1,180]}
+{"kind":"shape","id":"sh/8zqxg32l","slide":47,"name":"Straight Connector 810730709","bbox":[245,300,300,180]}
+{"kind":"shape","id":"sh/sny9o7ah","slide":47,"name":"Straight Connector 521066155","bbox":[245,300,600,180]}
+{"kind":"shape","id":"sh/ipsjeh0v","slide":47,"name":"Straight Connector 316407275","bbox":[245,300,150,180]}
+{"kind":"shape","id":"sh/wbal4jq1","slide":47,"name":"Straight Connector 218150276","bbox":[395,300,150,180]}
+{"kind":"shape","id":"sh/6hgz214b","slide":47,"name":"Straight Connector 499927860","bbox":[395,300,450,180]}
+{"kind":"shape","id":"sh/07udwbeh","slide":47,"name":"Straight Connector 1350622295","bbox":[245,300,300,180]}
+{"kind":"shape","id":"sh/d4fm9kb2","slide":47,"name":"Straight Connector 45691064","bbox":[545,300,1,180]}
+{"kind":"shape","id":"sh/18nm10bq","slide":47,"name":"Straight Connector 1145050028","bbox":[545,300,300,180]}
+{"kind":"shape","id":"sh/t83ilkj2","slide":47,"name":"Straight Connector 969983034","bbox":[245,300,450,180]}
+{"kind":"shape","id":"sh/0v6d0329","slide":47,"name":"Straight Connector 452016390","bbox":[545,300,150,180]}
+{"kind":"shape","id":"sh/xob69wju","slide":47,"name":"Straight Connector 1200418004","bbox":[695,300,150,180]}
+{"kind":"shape","id":"sh/hc7ulkb6","slide":47,"name":"Straight Connector 1516866411","bbox":[245,300,600,180]}
+{"kind":"shape","id":"sh/vehwryd4","slide":47,"name":"Straight Connector 251999135","bbox":[545,300,300,180]}
+{"kind":"shape","id":"sh/0rahgz2h","slide":47,"name":"Straight Connector 86571184","bbox":[845,300,1,180]}
+{"kind":"shape","id":"sh/vu5w3u58","slide":47,"name":"Straight Connector 602661193","bbox":[245,300,750,180]}
+{"kind":"shape","id":"sh/g3q94bux","slide":47,"name":"Straight Connector 2078817605","bbox":[545,300,450,180]}
+{"kind":"shape","id":"sh/byd4vih4","slide":47,"name":"Straight Connector 37467791","bbox":[845,300,150,180]}
+{"kind":"textbox","id":"sh/tkneh4bi","slide":47,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/atcnytkf","slide":47,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/pwb6x4jy","slide":48,"title":"Multi-head","textShapes":7}
+{"kind":"textbox","id":"sh/lcjmpk36","slide":48,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/yl4n6lgn","slide":48,"textChars":32,"textLines":1}
+{"kind":"shape","id":"sh/y50fm14n","slide":48,"name":"Rectangle: Rounded Corners 800864107","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/tkz2tk7u","slide":48,"name":"Oval 233773315","bbox":[170,250,160,160]}
+{"kind":"shape","id":"sh/5cj2p472","slide":48,"name":"Straight Connector 1564947674","bbox":[205,330,90,1]}
+{"kind":"shape","id":"sh/j294fupw","slide":48,"name":"Straight Connector 995560161","bbox":[250,285,1,90]}
+{"kind":"textbox","id":"sh/90fqt0ji","slide":48,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/p4bilczu","slide":48,"name":"Oval 79558485","bbox":[435,250,160,160]}
+{"kind":"shape","id":"sh/9gnu5w72","slide":48,"name":"Straight Connector 1609830998","bbox":[470,330,90,1]}
+{"kind":"shape","id":"sh/9sr250va","slide":48,"name":"Straight Connector 1713490366","bbox":[515,285,1,90]}
+{"kind":"textbox","id":"sh/8fulwjet","slide":48,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/fip83y10","slide":48,"name":"Oval 1805008483","bbox":[700,250,160,160]}
+{"kind":"shape","id":"sh/ex8zihsr","slide":48,"name":"Straight Connector 1911549704","bbox":[735,330,90,1]}
+{"kind":"shape","id":"sh/kr6xwfmt","slide":48,"name":"Straight Connector 1791936671","bbox":[780,285,1,90]}
+{"kind":"textbox","id":"sh/7atgba5w","slide":48,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/d4bix8ja","slide":48,"name":"Oval 446622830","bbox":[965,250,160,160]}
+{"kind":"shape","id":"sh/8n6lsf6t","slide":48,"name":"Straight Connector 858706386","bbox":[1000,330,90,1]}
+{"kind":"shape","id":"sh/sfy5grq9","slide":48,"name":"Straight Connector 1428863682","bbox":[1045,285,1,90]}
+{"kind":"textbox","id":"sh/x4nmhs3i","slide":48,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/wzupsfe1","slide":48,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/pwb6x4jy","slide":48,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/oz2xg3q1","slide":49,"title":"Order","textShapes":8}
+{"kind":"textbox","id":"sh/wb6l07it","slide":49,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/wzyp8zq5","slide":49,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/szi5g7ml","slide":49,"name":"Rectangle: Rounded Corners 87118212","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/yd03e1kj","slide":49,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/3mpwvm9s","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/21s3ux8n","slide":49,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/3a94jqhc","slide":49,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/e1g3ylor","slide":49,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/qhofq14r","slide":49,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/oz2xg3q1","slide":49,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/a9gvuxsb","slide":50,"title":"Block","textShapes":8}
+{"kind":"textbox","id":"sh/9wz650ju","slide":50,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/6po3m5kn","slide":50,"textChars":38,"textLines":1}
+{"kind":"shape","id":"sh/up4vi5g3","slide":50,"name":"Rectangle: Rounded Corners 1987948612","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/kjqxw7u9","slide":50,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/b6loz65k","slide":50,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/m5o3ml0b","slide":50,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/atgzidwr","slide":50,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/p83i14ny","slide":50,"name":"Straight Connector 94601081","bbox":[380,445,65,67]}
+{"kind":"shape","id":"sh/epoji94f","slide":50,"name":"Straight Connector 1000744926","bbox":[705,325,70,120]}
+{"kind":"shape","id":"sh/w3e1ore9","slide":50,"name":"Straight Connector 781772780","bbox":[1000,245,35,80]}
+{"kind":"textbox","id":"sh/wr6lwnu9","slide":50,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/6xgfm9cn","slide":50,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/a9gvuxsb","slide":50,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/36hsrmts","slide":51,"title":"Encoder","textShapes":11}
+{"kind":"textbox","id":"sh/v250vyps","slide":51,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/fa1cvyxs","slide":51,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/298zqh0b","slide":51,"name":"Rectangle: Rounded Corners 1919655130","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/fq9kn2d8","slide":51,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/czmhsna9","slide":51,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/uxkbe90z","slide":51,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/7etgnqxk","slide":51,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/nqh0fqh8","slide":51,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/6xcv2t47","slide":51,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/z6pofylg","slide":51,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/50zidsfy","slide":51,"name":"Arrow: Right 237891345","bbox":[565,460,95,38]}
+{"kind":"textbox","id":"sh/ofqxcn25","slide":51,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/cny5kjyp","slide":51,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/36hsrmts","slide":51,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/gfe1wbu1","slide":52,"title":"Decoder","textShapes":5}
+{"kind":"textbox","id":"sh/i9grq18j","slide":52,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/bax4jqt0","slide":52,"textChars":28,"textLines":1}
+{"kind":"shape","id":"sh/7edgze5g","slide":52,"name":"Rectangle: Rounded Corners 634225882","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/1wf650b6","slide":52,"name":"Rectangle: Rounded Corners 2010502302","bbox":[360,240,42,42]}
+{"kind":"shape","id":"sh/j614b2h8","slide":52,"name":"Rectangle: Rounded Corners 1366762973","bbox":[406,240,42,42]}
+{"kind":"shape","id":"sh/o3edw7m9","slide":52,"name":"Rectangle: Rounded Corners 1460632181","bbox":[452,240,42,42]}
+{"kind":"shape","id":"sh/v2d0ny58","slide":52,"name":"Rectangle: Rounded Corners 1175856486","bbox":[498,240,42,42]}
+{"kind":"shape","id":"sh/hgja14zy","slide":52,"name":"Rectangle: Rounded Corners 2061757066","bbox":[544,240,42,42]}
+{"kind":"shape","id":"sh/a10nq1o7","slide":52,"name":"Rectangle: Rounded Corners 1169118889","bbox":[590,240,42,42]}
+{"kind":"shape","id":"sh/lo32hc3q","slide":52,"name":"Rectangle: Rounded Corners 238188300","bbox":[360,286,42,42]}
+{"kind":"shape","id":"sh/8j6l4byh","slide":52,"name":"Rectangle: Rounded Corners 2049301056","bbox":[406,286,42,42]}
+{"kind":"shape","id":"sh/ihkv29o3","slide":52,"name":"Rectangle: Rounded Corners 1282082344","bbox":[452,286,42,42]}
+{"kind":"shape","id":"sh/4zy5ovix","slide":52,"name":"Rectangle: Rounded Corners 1172922271","bbox":[498,286,42,42]}
+{"kind":"shape","id":"sh/vmh0rqp4","slide":52,"name":"Rectangle: Rounded Corners 603029256","bbox":[544,286,42,42]}
+{"kind":"shape","id":"sh/d8jqpcb6","slide":52,"name":"Rectangle: Rounded Corners 1879817439","bbox":[590,286,42,42]}
+{"kind":"shape","id":"sh/wzy1cbit","slide":52,"name":"Rectangle: Rounded Corners 875542064","bbox":[360,332,42,42]}
+{"kind":"shape","id":"sh/6tk7id4b","slide":52,"name":"Rectangle: Rounded Corners 51908471","bbox":[406,332,42,42]}
+{"kind":"shape","id":"sh/xwjmt8fy","slide":52,"name":"Rectangle: Rounded Corners 1689509712","bbox":[452,332,42,42]}
+{"kind":"shape","id":"sh/ep83qx4f","slide":52,"name":"Rectangle: Rounded Corners 791720529","bbox":[498,332,42,42]}
+{"kind":"shape","id":"sh/zuh4jah8","slide":52,"name":"Rectangle: Rounded Corners 105367441","bbox":[544,332,42,42]}
+{"kind":"shape","id":"sh/3qpsvits","slide":52,"name":"Rectangle: Rounded Corners 1563215529","bbox":[590,332,42,42]}
+{"kind":"shape","id":"sh/7m58jidg","slide":52,"name":"Rectangle: Rounded Corners 315081294","bbox":[360,378,42,42]}
+{"kind":"shape","id":"sh/ed4rqx47","slide":52,"name":"Rectangle: Rounded Corners 248452190","bbox":[406,378,42,42]}
+{"kind":"shape","id":"sh/4ra9gbix","slide":52,"name":"Rectangle: Rounded Corners 1671279799","bbox":[452,378,42,42]}
+{"kind":"shape","id":"sh/obepwzex","slide":52,"name":"Rectangle: Rounded Corners 1239843558","bbox":[498,378,42,42]}
+{"kind":"shape","id":"sh/xwjupkj2","slide":52,"name":"Rectangle: Rounded Corners 1474960510","bbox":[544,378,42,42]}
+{"kind":"shape","id":"sh/4na587y9","slide":52,"name":"Rectangle: Rounded Corners 1705162463","bbox":[590,378,42,42]}
+{"kind":"shape","id":"sh/6h4rq90v","slide":52,"name":"Rectangle: Rounded Corners 7576924","bbox":[360,424,42,42]}
+{"kind":"shape","id":"sh/il8rqpcb","slide":52,"name":"Rectangle: Rounded Corners 426996610","bbox":[406,424,42,42]}
+{"kind":"shape","id":"sh/ipsr2dwr","slide":52,"name":"Rectangle: Rounded Corners 4937970","bbox":[452,424,42,42]}
+{"kind":"shape","id":"sh/vmlwfetc","slide":52,"name":"Rectangle: Rounded Corners 318411884","bbox":[498,424,42,42]}
+{"kind":"shape","id":"sh/7i50325s","slide":52,"name":"Rectangle: Rounded Corners 615608590","bbox":[544,424,42,42]}
+{"kind":"shape","id":"sh/61sjuxov","slide":52,"name":"Rectangle: Rounded Corners 1731456271","bbox":[590,424,42,42]}
+{"kind":"shape","id":"sh/5g36lwni","slide":52,"name":"Rectangle: Rounded Corners 484935539","bbox":[360,470,42,42]}
+{"kind":"shape","id":"sh/fq50v2hg","slide":52,"name":"Rectangle: Rounded Corners 1134420310","bbox":[406,470,42,42]}
+{"kind":"shape","id":"sh/ofuh03ap","slide":52,"name":"Rectangle: Rounded Corners 1355285829","bbox":[452,470,42,42]}
+{"kind":"shape","id":"sh/l07atcj6","slide":52,"name":"Rectangle: Rounded Corners 1945716100","bbox":[498,470,42,42]}
+{"kind":"shape","id":"sh/kjip4bip","slide":52,"name":"Rectangle: Rounded Corners 903673204","bbox":[544,470,42,42]}
+{"kind":"shape","id":"sh/vipsnud0","slide":52,"name":"Rectangle: Rounded Corners 41920753","bbox":[590,470,42,42]}
+{"kind":"textbox","id":"sh/8jmd4jep","slide":52,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/6dcna1cv","slide":52,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/by14bmhg","slide":52,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/gfe1wbu1","slide":52,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/9w7yt8zy","slide":53,"title":"2017","textShapes":6}
+{"kind":"textbox","id":"sh/jepo3m9g","slide":53,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/3apk7mlc","slide":53,"textChars":29,"textLines":1}
+{"kind":"shape","id":"sh/u54v294n","slide":53,"name":"Rectangle: Rounded Corners 1302761572","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/x436hw76","slide":53,"textChars":16,"textLines":2}
+{"kind":"textbox","id":"sh/1o3qt8bq","slide":53,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/butcbih0","slide":53,"textChars":29,"textLines":2}
+{"kind":"textbox","id":"sh/z2xsrads","slide":53,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/9w7yt8zy","slide":53,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/uhgfqdcf","slide":54,"title":"GPT architecture","textShapes":7}
+{"kind":"textbox","id":"sh/w7mts3yl","slide":54,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/po7qlc3u","slide":54,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/jqtkvy98","slide":54,"name":"Rectangle: Rounded Corners 1456392341","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/orm90fep","slide":54,"name":"Rectangle: Rounded Corners 1987074982","bbox":[826,210,336,324]}
+{"kind":"textbox","id":"sh/onitsfax","slide":54,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/2xkzy5wv","slide":54,"textChars":63,"textLines":3}
+{"kind":"textbox","id":"sh/i5wvy1g7","slide":54,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/yp83m9wr","slide":54,"textChars":65,"textLines":1}
+{"kind":"textbox","id":"sh/m1s7il4n","slide":54,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/xsbil4fy","slide":54,"name":"Picture 1987074993","bbox":[253.79,160,392.42,472]}
+{"kind":"notes","id":"nt/uhgfqdcf","slide":54,"text":"[Sources] | GPT architecture image supplied by the user: https://img.sbbit.jp..."}
+{"kind":"slide","id":"sl/vyd8bips","slide":55,"title":"GPT","textShapes":9}
+{"kind":"textbox","id":"sh/d0zi9gj2","slide":55,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/fi5k7qdk","slide":55,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/0rytkjih","slide":55,"name":"Rectangle: Rounded Corners 700677848","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/z29sjqdw","slide":55,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/axsbmdcn","slide":55,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/tkzml8ni","slide":55,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/l8zatk7u","slide":55,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/epgbutc3","slide":55,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/l0zypg76","slide":55,"name":"Arrow: Right 622048333","bbox":[385,507,65,45]}
+{"kind":"shape","id":"sh/kv2x8b6x","slide":55,"name":"Arrow: Right 476163819","bbox":[770,225,145,45]}
+{"kind":"textbox","id":"sh/wfahgbqd","slide":55,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/cvm58je9","slide":55,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/vyd8bips","slide":55,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/83ix4rex","slide":56,"title":"Objective","textShapes":10}
+{"kind":"textbox","id":"sh/gjepwfet","slide":56,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/9wz21kbq","slide":56,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/lcfixknq","slide":56,"name":"Rectangle: Rounded Corners 661849784","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/3y5kzm50","slide":56,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/dszuhk7i","slide":56,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/7yxsje14","slide":56,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/65sjid4b","slide":56,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/3etgnqxo","slide":56,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/4futk3yd","slide":56,"name":"Arrow: Right 923890290","bbox":[940,338,95,45]}
+{"kind":"textbox","id":"sh/1wrqh0ni","slide":56,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/q5obi1sr","slide":56,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/v21grepw","slide":56,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/83ix4rex","slide":56,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/p8vetc3e","slide":57,"title":"Scale","textShapes":9}
+{"kind":"textbox","id":"sh/fapwfax8","slide":57,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ihk725cn","slide":57,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/fqhw729c","slide":57,"name":"Rectangle: Rounded Corners 989138248","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/w3elcrup","slide":57,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/kz61wval","slide":57,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/rux0jatg","slide":57,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/83e1wju1","slide":57,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/qx432lwv","slide":57,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/p83i18fe","slide":57,"name":"Arrow: Right 1141760594","bbox":[1035,334,90,45]}
+{"kind":"textbox","id":"sh/lwnmdgfa","slide":57,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/etgbe5kv","slide":57,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/p8vetc3e","slide":57,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/mdo3u583","slide":58,"title":"Loading","textShapes":16}
+{"kind":"textbox","id":"sh/u5kjutoz","slide":58,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/vq1kjm1w","slide":58,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/hgjm98na","slide":58,"name":"Rectangle: Rounded Corners 989138248","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/ojatwj29","slide":58,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/254zq903","slide":58,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/bmhw3a9g","slide":58,"name":"config-component","bbox":[108,242,300,230]}
+{"kind":"textbox","id":"sh/ax432lgz","slide":58,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/zmtsbe9w","slide":58,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/i507i5g3","slide":58,"textChars":36,"textLines":2}
+{"kind":"textbox","id":"sh/m5snedkf","slide":58,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/ni9ojix4","slide":58,"name":"checkpoint-component","bbox":[468,242,300,230]}
+{"kind":"textbox","id":"sh/o3mtw7m5","slide":58,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/g3ytkzel","slide":58,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/0rel0z61","slide":58,"textChars":38,"textLines":2}
+{"kind":"textbox","id":"sh/xonaxsvm","slide":58,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/b2xonql4","slide":58,"name":"text ↔ ids-component","bbox":[828,242,300,230]}
+{"kind":"textbox","id":"sh/l8zi9kja","slide":58,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/u10ratkv","slide":58,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/vm9gnypg","slide":58,"textChars":39,"textLines":2}
+{"kind":"textbox","id":"sh/ozmxgr69","slide":58,"textChars":82,"textLines":1}
+{"kind":"notes","id":"nt/mdo3u583","slide":58,"text":"[Sources] | Hugging Face Transformers, Loading models: https://huggingface.co..."}
+{"kind":"slide","id":"sl/7uxozyps","slide":59,"title":"Generation","textShapes":7}
+{"kind":"textbox","id":"sh/mp03alov","slide":59,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/mto7ahwj","slide":59,"textChars":31,"textLines":1}
+{"kind":"shape","id":"sh/kvqxkbil","slide":59,"name":"Rectangle: Rounded Corners 1511732123","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/h4ri1gri","slide":59,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/9ozih0f6","slide":59,"name":"Arrow: Right 1804858146","bbox":[385,344,125,45]}
+{"kind":"textbox","id":"sh/xcrm1kba","slide":59,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/4nmlgfyp","slide":59,"name":"Arrow: Right 1610655777","bbox":[765,344,125,45]}
+{"kind":"textbox","id":"sh/up43u5kn","slide":59,"textChars":9,"textLines":1}
+{"kind":"shape","id":"sh/j2xwzu9s","slide":59,"name":"Straight Connector 1129615995","bbox":[285,405,720,95]}
+{"kind":"textbox","id":"sh/5gvqdwna","slide":59,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/d0vi14re","slide":59,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/7uxozyps","slide":59,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/bapcne9c","slide":60,"title":"Decoding","textShapes":5}
+{"kind":"textbox","id":"sh/pw7a9cf6","slide":60,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/18jatova","slide":60,"textChars":26,"textLines":1}
+{"kind":"shape","id":"sh/t0butorq","slide":60,"name":"Rectangle: Rounded Corners 520397166","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/wfy9c7ul","slide":60,"textChars":15,"textLines":1}
+{"kind":"shape","id":"sh/8v29s72t","slide":60,"name":"Rectangle: Rounded Corners 1392389716","bbox":[270,370,30,95]}
+{"kind":"shape","id":"sh/ba94ne5k","slide":60,"name":"Rectangle: Rounded Corners 304746229","bbox":[318,440,30,25]}
+{"kind":"shape","id":"sh/re9kry14","slide":60,"name":"Rectangle: Rounded Corners 1222174650","bbox":[366,455,30,10]}
+{"kind":"shape","id":"sh/ve1sf6xs","slide":60,"name":"Rectangle: Rounded Corners 221083532","bbox":[414,457,30,8]}
+{"kind":"shape","id":"sh/ri1orm1c","slide":60,"name":"Rectangle: Rounded Corners 1871169587","bbox":[462,460,30,5]}
+{"kind":"textbox","id":"sh/zapwvu18","slide":60,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/cnm1wv2l","slide":60,"name":"Rectangle: Rounded Corners 557756631","bbox":[800,410,30,55]}
+{"kind":"shape","id":"sh/ps7ih4j2","slide":60,"name":"Rectangle: Rounded Corners 421477788","bbox":[848,417,30,48]}
+{"kind":"shape","id":"sh/h4ryxczm","slide":60,"name":"Rectangle: Rounded Corners 358930618","bbox":[896,422,30,43]}
+{"kind":"shape","id":"sh/etcnedcf","slide":60,"name":"Rectangle: Rounded Corners 92675593","bbox":[944,430,30,35]}
+{"kind":"shape","id":"sh/i9snqp0n","slide":60,"name":"Rectangle: Rounded Corners 1199041677","bbox":[992,435,30,30]}
+{"kind":"textbox","id":"sh/dcbq5gz2","slide":60,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/bapcne9c","slide":60,"text":"[Sources] | Radford et al., 2018, 'Improving Language Understanding by Genera..."}
+{"kind":"slide","id":"sl/atgzmloz","slide":61,"title":"Decoding","textShapes":23}
+{"kind":"textbox","id":"sh/cb2pw3ut","slide":61,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/ep0nmdgf","slide":61,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/ji587mhk","slide":61,"name":"Rectangle: Rounded Corners 1167098246","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/ps7a507m","slide":61,"name":"Rectangle: Rounded Corners 391850247","bbox":[108,204,500,280]}
+{"kind":"textbox","id":"sh/knehknit","slide":61,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/wr6t03u1","slide":61,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/ojml8ja5","slide":61,"textChars":13,"textLines":1}
+{"kind":"shape","id":"sh/6pcrehsn","slide":61,"name":"Rectangle: Rounded Corners 1990101030","bbox":[160,274,22,112]}
+{"kind":"textbox","id":"sh/uhszyh4r","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/xojy94rm","slide":61,"name":"Rectangle: Rounded Corners 768585734","bbox":[194,334,22,52]}
+{"kind":"shape","id":"sh/ipcvqd0f","slide":61,"name":"Rectangle 734996419","bbox":[186,396,38,24]}
+{"kind":"shape","id":"sh/pcfu90fe","slide":61,"name":"Rectangle: Rounded Corners 904396018","bbox":[228,358,22,28]}
+{"kind":"shape","id":"sh/ydo3ep4j","slide":61,"name":"Rectangle 1723400869","bbox":[220,396,38,24]}
+{"kind":"shape","id":"sh/2p0nelsb","slide":61,"name":"Rectangle: Rounded Corners 1904735606","bbox":[262,371,22,15]}
+{"kind":"shape","id":"sh/buxgbatg","slide":61,"name":"Rectangle 1977779495","bbox":[254,396,38,24]}
+{"kind":"shape","id":"sh/xkzmdsv6","slide":61,"name":"Rectangle: Rounded Corners 758909754","bbox":[408,312,22,74]}
+{"kind":"textbox","id":"sh/k3mdkvel","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/qhs3u18b","slide":61,"name":"Rectangle: Rounded Corners 1109785804","bbox":[442,325,22,61]}
+{"kind":"shape","id":"sh/y1ofit4n","slide":61,"name":"Rectangle 87535763","bbox":[434,396,38,24]}
+{"kind":"shape","id":"sh/kv6d8ni9","slide":61,"name":"Rectangle: Rounded Corners 395524451","bbox":[476,338,22,48]}
+{"kind":"shape","id":"sh/4zmlwn2l","slide":61,"name":"Rectangle 752117888","bbox":[468,396,38,24]}
+{"kind":"shape","id":"sh/fqx0zmlk","slide":61,"name":"Rectangle: Rounded Corners 1187034514","bbox":[510,352,22,34]}
+{"kind":"shape","id":"sh/zetwni18","slide":61,"name":"Rectangle 1239831952","bbox":[502,396,38,24]}
+{"kind":"shape","id":"sh/hkz658na","slide":61,"name":"Rectangle: Rounded Corners 1990686703","bbox":[672,204,500,280]}
+{"kind":"textbox","id":"sh/1ofap43q","slide":61,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ulofmtc7","slide":61,"textChars":54,"textLines":1}
+{"kind":"shape","id":"sh/50vq54rm","slide":61,"name":"Rectangle: Rounded Corners 505587208","bbox":[730,310,34,88]}
+{"kind":"textbox","id":"sh/xkv2dk7e","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/2lsfuh0z","slide":61,"name":"Rectangle: Rounded Corners 1412774459","bbox":[785,330,34,68]}
+{"kind":"textbox","id":"sh/tcb21cj2","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/sbmdgrah","slide":61,"name":"Rectangle: Rounded Corners 1720875966","bbox":[840,348,34,50]}
+{"kind":"textbox","id":"sh/761s7ylg","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/w7a90j6x","slide":61,"name":"Rectangle: Rounded Corners 2118371450","bbox":[895,366,34,32]}
+{"kind":"textbox","id":"sh/cr2h4nqp","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/xc7ulcn2","slide":61,"name":"Rectangle: Rounded Corners 2042608732","bbox":[950,378,34,20]}
+{"kind":"textbox","id":"sh/nqlkbqd0","slide":61,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/hovep4b6","slide":61,"name":"Rectangle: Rounded Corners 1098391783","bbox":[1005,386,34,12]}
+{"kind":"textbox","id":"sh/5sfmt8bm","slide":61,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/ne58vqdw","slide":61,"textChars":26,"textLines":1}
+{"kind":"textbox","id":"sh/mxcn2pgz","slide":61,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/snyxgja1","slide":61,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/mdwv210b","slide":61,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/yl8rilof","slide":61,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/8vq1s3e9","slide":61,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/ixc769gf","slide":61,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/10z29wv2","slide":61,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/u98bmtk7","slide":61,"name":"Graphic 2118371498","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/atgzmloz","slide":61,"text":"[Sources] | OpenAI API Reference, Responses create parameters: https://platfo..."}
+{"kind":"slide","id":"sl/1kzq5knq","slide":62,"title":"Recap","textShapes":16}
+{"kind":"textbox","id":"sh/9w3ap0v6","slide":62,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/654ve9wb","slide":62,"textChars":36,"textLines":1}
+{"kind":"shape","id":"sh/a5sj2x8n","slide":62,"name":"Rectangle: Rounded Corners 1373434995","bbox":[64,142,1152,500]}
+{"kind":"shape","id":"sh/hg3ut0z6","slide":62,"name":"Straight Connector 247695513","bbox":[150,380,930,1]}
+{"kind":"textbox","id":"sh/4rat4nup","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/utobapkj","slide":62,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/8zul4ri5","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/na18ryps","slide":62,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/1wfm5g7a","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/u5cvexwj","slide":62,"textChars":8,"textLines":1}
+{"kind":"textbox","id":"sh/k7mt4z65","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/twfy14b6","slide":62,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/1ormxgne","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/tgr2dore","slide":62,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/u1ovap0n","slide":62,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/2t47edg7","slide":62,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/pwjudona","slide":62,"textChars":60,"textLines":1}
+{"kind":"textbox","id":"sh/k3etkv61","slide":62,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/1kzq5knq","slide":62,"text":"[Sources] | Vaswani et al., 2017, 'Attention Is All You Need', arXiv:1706.037..."}
+{"kind":"slide","id":"sl/8jepo3et","slide":63,"title":"GPT","textShapes":11}
+{"kind":"textbox","id":"sh/x4ri9gzi","slide":63,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/58z2x0za","slide":63,"textChars":34,"textLines":1}
+{"kind":"shape","id":"sh/gbixknel","slide":63,"name":"Rectangle: Rounded Corners 259784900","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/vepcfmdo","slide":63,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/ovapcv2p","slide":63,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/5oful4ja","slide":63,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/uh8rid0j","slide":63,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/upkbapsj","slide":63,"textChars":7,"textLines":1}
+{"kind":"shape","id":"sh/krqtsnqd","slide":63,"name":"Straight Connector 607889825","bbox":[150,435,930,1]}
+{"kind":"textbox","id":"sh/lo76pw3m","slide":63,"textChars":18,"textLines":1}
+{"kind":"textbox","id":"sh/6l47ixgb","slide":63,"textChars":14,"textLines":1}
+{"kind":"textbox","id":"sh/g7ilcfa5","slide":63,"textChars":67,"textLines":1}
+{"kind":"textbox","id":"sh/ovuhgnq1","slide":63,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/8jepo3et","slide":63,"text":"[Sources] | Conceptual explanation of special tokens in language-model system..."}
+{"kind":"slide","id":"sl/nedsfetc","slide":64,"title":"GPT","textShapes":10}
+{"kind":"textbox","id":"sh/q14rex8j","slide":64,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/3q1srulw","slide":64,"textChars":44,"textLines":1}
+{"kind":"shape","id":"sh/4bex4f29","slide":64,"name":"Rectangle: Rounded Corners 870951437","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/ny9kvi9k","slide":64,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/obuxw3up","slide":64,"name":"Arrow: Right 2018184415","bbox":[295,345,105,42]}
+{"kind":"textbox","id":"sh/ixszqdw7","slide":64,"textChars":5,"textLines":1}
+{"kind":"shape","id":"sh/rylcnulk","slide":64,"name":"Arrow: Right 1111035308","bbox":[630,345,115,42]}
+{"kind":"textbox","id":"sh/ex0byhg3","slide":64,"textChars":11,"textLines":1}
+{"kind":"shape","id":"sh/mlkfups3","slide":64,"name":"Arrow: Right 1294665978","bbox":[970,345,105,42]}
+{"kind":"textbox","id":"sh/6t4julob","slide":64,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/d4b61ove","slide":64,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/loru10vq","slide":64,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/elovmd07","slide":64,"textChars":60,"textLines":1}
+{"kind":"textbox","id":"sh/y1o3y18r","slide":64,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/nedsfetc","slide":64,"text":"[Sources] | Conceptual explanation of tool-call and end-of-generation control..."}
+{"kind":"slide","id":"sl/u5wbe5cf","slide":65,"title":"Transformer","textShapes":8}
+{"kind":"textbox","id":"sh/9krilkbi","slide":65,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/x4bitozy","slide":65,"textChars":40,"textLines":1}
+{"kind":"shape","id":"sh/mhs7m1of","slide":65,"name":"Rectangle: Rounded Corners 258575892","bbox":[64,142,1152,500]}
+{"kind":"textbox","id":"sh/8fat8bqx","slide":65,"textChars":48,"textLines":1}
+{"kind":"textbox","id":"sh/58z6hcj2","slide":65,"textChars":62,"textLines":1}
+{"kind":"textbox","id":"sh/dwv2h07q","slide":65,"textChars":81,"textLines":1}
+{"kind":"textbox","id":"sh/por2lcz6","slide":65,"textChars":66,"textLines":1}
+{"kind":"textbox","id":"sh/pw32tsnq","slide":65,"textChars":83,"textLines":1}
+{"kind":"textbox","id":"sh/ra1kb6ps","slide":65,"textChars":2,"textLines":1}
+{"kind":"image","id":"im/s7excjq9","slide":65,"name":"Picture 1837153780","bbox":[743.73,162,347.53,460]}
+{"kind":"notes","id":"nt/u5wbe5cf","slide":65,"text":"[Sources] | User-supplied FFN / knowledge-neuron figure: https://i0.wp.com/sy..."}
+{"kind":"slide","id":"sl/dovq5k3u","slide":66,"title":"Diffusion","textShapes":5}
+{"kind":"textbox","id":"sh/7m5w7ex8","slide":66,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/lw3qdg3q","slide":66,"textChars":33,"textLines":1}
+{"kind":"shape","id":"sh/3yhob2x0","slide":66,"name":"Rectangle: Rounded Corners 1456392341","bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/sj6d4zah","slide":66,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/t0valgz2","slide":66,"textChars":30,"textLines":1}
+{"kind":"textbox","id":"sh/pcni5kfq","slide":66,"textChars":51,"textLines":1}
+{"kind":"image","id":"im/dszi1ob6","slide":66,"name":"Picture 1495975738","bbox":[105,178,1070,410]}
+{"kind":"notes","id":"nt/dovq5k3u","slide":66,"text":"[Sources] | User-supplied diffusion image: https://miro.medium.com/v2/resize:..."}
+{"kind":"slide","id":"sl/w3ip4nuh","slide":67,"title":"Alternative generation","textShapes":36}
+{"kind":"textbox","id":"sh/fitgvapo","slide":67,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/d0fq9o7i","slide":67,"textChars":45,"textLines":1}
+{"kind":"shape","id":"sh/5sba9wne","slide":67,"name":"Rectangle: Rounded Corners 1990867235","bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/8nytwvyt","slide":67,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/9gr6lcn6","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ul0bq1g7","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/ofmlofy5","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/p8j2tcj2","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/g3qhkjeh","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/vmx8vid0","slide":67,"textChars":6,"textLines":1}
+{"kind":"shape","id":"sh/72tc7mt0","slide":67,"name":"Straight Connector 427538637","bbox":[580,296,1,30]}
+{"kind":"textbox","id":"sh/sre98f29","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/pofi10zu","slide":67,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/90fm1on2","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/sf2x0vmh","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/u1srehkj","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/j2dojix8","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/crm50nq5","slide":67,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/6xojyloj","slide":67,"name":"Straight Connector 2017847098","bbox":[580,404,1,30]}
+{"kind":"textbox","id":"sh/5cnepkfm","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/4zqlgjal","slide":67,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/gbutsbah","slide":67,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/ofqdk3yl","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/q14rm583","slide":67,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/0rylczmt","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/9ofmxoz2","slide":67,"textChars":1,"textLines":1}
+{"kind":"shape","id":"sh/cfy5wn65","slide":67,"name":"Straight Connector 1386166301","bbox":[580,512,1,30]}
+{"kind":"textbox","id":"sh/oji5g769","slide":67,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/1832tkzu","slide":67,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/cn25onmt","slide":67,"textChars":5,"textLines":1}
+{"kind":"textbox","id":"sh/hk32x472","slide":67,"textChars":6,"textLines":1}
+{"kind":"textbox","id":"sh/p8z2987a","slide":67,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/by5w7ut8","slide":67,"textChars":4,"textLines":1}
+{"kind":"textbox","id":"sh/1ofu98ni","slide":67,"textChars":1,"textLines":1}
+{"kind":"textbox","id":"sh/t0v6lozi","slide":67,"textChars":24,"textLines":1}
+{"kind":"textbox","id":"sh/z2dkba1w","slide":67,"textChars":2,"textLines":1}
+{"kind":"shape","id":"sh/8ve90329","slide":67,"name":"mercury-example-divider","bbox":[920,238,1,300]}
+{"kind":"textbox","id":"sh/0b2l0n6x","slide":67,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/v2h83i50","slide":67,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/ipcb69gj","slide":67,"textChars":37,"textLines":2}
+{"kind":"textbox","id":"sh/9sbe1kne","slide":67,"textChars":30,"textLines":2}
+{"kind":"notes","id":"nt/w3ip4nuh","slide":67,"text":"[Sources] | Inception, Introducing Mercury 2: https://www.inceptionlabs.ai/bl..."}
+{"kind":"slide","id":"sl/36d8jy98","slide":68,"title":"Faster inference","textShapes":20}
+{"kind":"textbox","id":"sh/ofidojqh","slide":68,"textChars":16,"textLines":1}
+{"kind":"textbox","id":"sh/4zqh87qt","slide":68,"textChars":49,"textLines":1}
+{"kind":"shape","id":"sh/6hsra1k3","slide":68,"name":"Rectangle: Rounded Corners 1531743003","bbox":[74,154,1132,474]}
+{"kind":"textbox","id":"sh/0bml8vad","slide":68,"textChars":20,"textLines":1}
+{"kind":"textbox","id":"sh/alo7ipwn","slide":68,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/c7yhor6p","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/lsjux4jm","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/exwrapgj","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/fahobu9o","slide":68,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/0jy987u5","slide":68,"textChars":22,"textLines":1}
+{"kind":"textbox","id":"sh/rqdgn6ls","slide":68,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/2d07ulgf","slide":68,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/5cnudo3i","slide":68,"name":"Straight Connector 170693198","bbox":[390,267,52,1]}
+{"kind":"shape","id":"sh/be90jm18","slide":68,"name":"Straight Connector 2021615088","bbox":[840,267,42,1]}
+{"kind":"textbox","id":"sh/szihoju5","slide":68,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/h0rux83y","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/c7ul8v29","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/10z218ra","slide":68,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/itsfehoj","slide":68,"textChars":21,"textLines":1}
+{"kind":"textbox","id":"sh/ponut8v6","slide":68,"textChars":2,"textLines":1}
+{"kind":"textbox","id":"sh/54fe1kzq","slide":68,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/na5szi1c","slide":68,"name":"Straight Connector 1668590987","bbox":[838,467,14,1]}
+{"kind":"textbox","id":"sh/5wna9ore","slide":68,"textChars":88,"textLines":2}
+{"kind":"textbox","id":"sh/c3e94r6p","slide":68,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/36d8jy98","slide":68,"text":"[Sources] | Leviathan, Kalman, and Matias, 2023, 'Fast Inference from Transfo..."}
+{"kind":"slide","id":"sl/ilkny5sj","slide":69,"title":"Scaling trend","textShapes":18}
+{"kind":"textbox","id":"sh/a5s3uxwz","slide":69,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/idcbyp4n","slide":69,"textChars":35,"textLines":1}
+{"kind":"textbox","id":"sh/kv2xwz2l","slide":69,"textChars":24,"textLines":1}
+{"kind":"shape","id":"sh/lsnmlon2","slide":69,"name":"Rectangle: Rounded Corners 1912787708","bbox":[74,164,1132,456]}
+{"kind":"textbox","id":"sh/bu14fqh8","slide":69,"textChars":23,"textLines":1}
+{"kind":"shape","id":"sh/wjaxg7ad","slide":69,"name":"Straight Connector 820052219","bbox":[274,226,732,1]}
+{"kind":"shape","id":"sh/wr29g3qp","slide":69,"name":"Rectangle: Rounded Corners 1977383084","bbox":[112,252,245,296]}
+{"kind":"shape","id":"sh/36xsny9k","slide":69,"name":"Rectangle: Rounded Corners 1598161198","bbox":[180,326,12,18]}
+{"kind":"shape","id":"sh/4z6d83ud","slide":69,"name":"Rectangle: Rounded Corners 1558195880","bbox":[198,314,12,30]}
+{"kind":"shape","id":"sh/vip8nu90","slide":69,"name":"Rectangle: Rounded Corners 521701979","bbox":[216,302,12,42]}
+{"kind":"shape","id":"sh/nidw3uhg","slide":69,"name":"Rectangle: Rounded Corners 1995606132","bbox":[234,290,12,54]}
+{"kind":"textbox","id":"sh/gnu547m1","slide":69,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/pgrit0r2","slide":69,"textChars":23,"textLines":2}
+{"kind":"textbox","id":"sh/juhsz6dc","slide":69,"textChars":18,"textLines":1}
+{"kind":"shape","id":"sh/m1cbqpcf","slide":69,"name":"Rectangle: Rounded Corners 1401385986","bbox":[386,252,245,296]}
+{"kind":"shape","id":"sh/ps3id4f2","slide":69,"name":"Oval 2082712540","bbox":[485,302,28,28]}
+{"kind":"shape","id":"sh/j6xs3qhk","slide":69,"name":"Oval 1800286295","bbox":[532,305,22,22]}
+{"kind":"shape","id":"sh/x4zul0vy","slide":69,"name":"Straight Connector 1377652961","bbox":[499,316,44,1]}
+{"kind":"shape","id":"sh/qhwzuxc7","slide":69,"name":"Oval 1129487082","bbox":[510,334.44,22,22]}
+{"kind":"shape","id":"sh/tc7mlcru","slide":69,"name":"Straight Connector 1835573147","bbox":[499,316,22,29.44]}
+{"kind":"shape","id":"sh/5c7mtsb2","slide":69,"name":"Oval 1354002711","bbox":[466,334.44,22,22]}
+{"kind":"shape","id":"sh/fupw3ipc","slide":69,"name":"Straight Connector 1642711494","bbox":[477,316,22,29.44]}
+{"kind":"shape","id":"sh/qdk721sn","slide":69,"name":"Oval 1162477815","bbox":[444,305,22,22]}
+{"kind":"shape","id":"sh/036lsv21","slide":69,"name":"Straight Connector 754093467","bbox":[455,316,44,1]}
+{"kind":"shape","id":"sh/knmd4ret","slide":69,"name":"Oval 926903494","bbox":[466,275.56,22,22]}
+{"kind":"shape","id":"sh/6d0zmt8z","slide":69,"name":"Straight Connector 1314704656","bbox":[477,286.56,22,29.44]}
+{"kind":"shape","id":"sh/6x876dg7","slide":69,"name":"Oval 297993689","bbox":[510,275.56,22,22]}
+{"kind":"shape","id":"sh/excjep0n","slide":69,"name":"Straight Connector 1869335124","bbox":[499,286.56,22,29.44]}
+{"kind":"textbox","id":"sh/f25or2lk","slide":69,"textChars":3,"textLines":1}
+{"kind":"textbox","id":"sh/gjypwnm5","slide":69,"textChars":22,"textLines":2}
+{"kind":"textbox","id":"sh/9obmls72","slide":69,"textChars":14,"textLines":1}
+{"kind":"shape","id":"sh/j6d0bmh8","slide":69,"name":"Rectangle: Rounded Corners 731916211","bbox":[660,252,245,296]}
+{"kind":"shape","id":"sh/a1g3i1of","slide":69,"name":"Oval 1174154410","bbox":[734,312,24,24]}
+{"kind":"shape","id":"sh/1o7mpsjq","slide":69,"name":"Oval 125293162","bbox":[771,298,24,24]}
+{"kind":"shape","id":"sh/y503edsr","slide":69,"name":"Oval 1712601375","bbox":[808,312,24,24]}
+{"kind":"shape","id":"sh/218fidsb","slide":69,"name":"Straight Connector 361292721","bbox":[756,313,17,7]}
+{"kind":"shape","id":"sh/wb6lgzap","slide":69,"name":"Straight Connector 1216392229","bbox":[793,313,17,7]}
+{"kind":"textbox","id":"sh/jeh4by5c","slide":69,"textChars":13,"textLines":1}
+{"kind":"textbox","id":"sh/mp47y50v","slide":69,"textChars":23,"textLines":2}
+{"kind":"textbox","id":"sh/7atk72x4","slide":69,"textChars":17,"textLines":1}
+{"kind":"shape","id":"sh/4zy987ih","slide":69,"name":"Rectangle: Rounded Corners 1132936319","bbox":[934,252,245,296]}
+{"kind":"shape","id":"sh/d4fqtgfq","slide":69,"name":"Oval 848102302","bbox":[1012,284,76,76]}
+{"kind":"shape","id":"sh/crepobel","slide":69,"name":"Straight Connector 2140277386","bbox":[1050,300,1,22]}
+{"kind":"shape","id":"sh/x8z6d07e","slide":69,"name":"Straight Connector 546058830","bbox":[1050,322,21,6]}
+{"kind":"shape","id":"sh/bex0fy54","slide":69,"name":"Straight Connector 634911421","bbox":[1090,322,28,1]}
+{"kind":"textbox","id":"sh/juxgfy5k","slide":69,"textChars":9,"textLines":1}
+{"kind":"textbox","id":"sh/yh4b2lov","slide":69,"textChars":26,"textLines":2}
+{"kind":"textbox","id":"sh/7udkb25k","slide":69,"textChars":17,"textLines":1}
+{"kind":"textbox","id":"sh/7i98ne5o","slide":69,"textChars":37,"textLines":1}
+{"kind":"textbox","id":"sh/2lsrat8r","slide":69,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/ilkny5sj","slide":69,"text":"[Sources] | Scaling Laws for Neural Language Models: https://arxiv.org/abs/20..."}
+{"kind":"slide","id":"sl/sb6p0vup","slide":70,"title":"Compression","textShapes":15}
+{"kind":"textbox","id":"sh/wrul4fq9","slide":70,"textChars":11,"textLines":1}
+{"kind":"textbox","id":"sh/v21sradw","slide":70,"textChars":47,"textLines":1}
+{"kind":"shape","id":"sh/ud8zqp4z","slide":70,"name":"Rectangle: Rounded Corners 1015940866","bbox":[74,154,1132,474]}
+{"kind":"shape","id":"sh/pkfqp4jm","slide":70,"name":"Rectangle: Rounded Corners 1808652943","bbox":[146,270,164,56]}
+{"kind":"shape","id":"sh/szalcf6l","slide":70,"name":"Rectangle: Rounded Corners 1081078089","bbox":[156,257,164,56]}
+{"kind":"shape","id":"sh/q18bahkj","slide":70,"name":"Rectangle: Rounded Corners 492680344","bbox":[166,244,164,56]}
+{"kind":"shape","id":"sh/gzipkfex","slide":70,"name":"Rectangle: Rounded Corners 1482722514","bbox":[176,231,164,56]}
+{"kind":"shape","id":"sh/f2t4feh4","slide":70,"name":"Rectangle: Rounded Corners 121026446","bbox":[186,218,164,56]}
+{"kind":"textbox","id":"sh/ad4je1sn","slide":70,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/dsfm50ja","slide":70,"textChars":16,"textLines":1}
+{"kind":"shape","id":"sh/q90bax4r","slide":70,"name":"Straight Connector 1622472842","bbox":[360,298,110,1]}
+{"kind":"textbox","id":"sh/xo32x4ve","slide":70,"textChars":12,"textLines":1}
+{"kind":"textbox","id":"sh/y5gfe1g7","slide":70,"textChars":32,"textLines":1}
+{"kind":"textbox","id":"sh/9gn2h47a","slide":70,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/edkrador","slide":70,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/9w7ydc72","slide":70,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/5or2147e","slide":70,"textChars":3,"textLines":1}
+{"kind":"shape","id":"sh/l0vydgza","slide":70,"name":"Straight Connector 319643796","bbox":[824,298,94,1]}
+{"kind":"shape","id":"sh/ni1ofil4","slide":70,"name":"Rectangle: Rounded Corners 647942513","bbox":[942,296,164,56]}
+{"kind":"shape","id":"sh/03i14r2x","slide":70,"name":"Rectangle: Rounded Corners 636131648","bbox":[952,283,164,56]}
+{"kind":"shape","id":"sh/dsrmh43y","slide":70,"name":"Rectangle: Rounded Corners 261513705","bbox":[962,270,164,56]}
+{"kind":"textbox","id":"sh/ps72xw7y","slide":70,"textChars":7,"textLines":1}
+{"kind":"textbox","id":"sh/zeps7690","slide":70,"textChars":15,"textLines":1}
+{"kind":"textbox","id":"sh/69wba54z","slide":70,"textChars":39,"textLines":1}
+{"kind":"shape","id":"sh/zyl8j618","slide":70,"name":"Oval 663275864","bbox":[1001,214,18,18]}
+{"kind":"shape","id":"sh/8ji9gjql","slide":70,"name":"Oval 302896655","bbox":[1031,214,18,18]}
+{"kind":"shape","id":"sh/y5c7algf","slide":70,"name":"Oval 1173073258","bbox":[1061,214,18,18]}
+{"kind":"textbox","id":"sh/o32ponet","slide":70,"textChars":10,"textLines":1}
+{"kind":"textbox","id":"sh/mhgvq5or","slide":70,"textChars":2,"textLines":1}
+{"kind":"notes","id":"nt/sb6p0vup","slide":70,"text":"[Sources] | Distilling the Knowledge in a Neural Network: https://arxiv.org/a..."}
+{"kind":"notice","message":"Truncated: omitted 0 lines. Increase maxChars or narrow target."}

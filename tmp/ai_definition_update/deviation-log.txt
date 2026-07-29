@@ -1,0 +1,3 @@
+Slide 3: replaced the duplicated slide 2 image progression with a concise AI definition and a three-step native flow.
+Slide 1: shifted roadmap page ranges by one because of the inserted slide.
+Slides 1-72: updated existing lower-right page markers to preserve sequential numbering.
