@@ -1,3 +1,0 @@
-The current 71-slide deck uses a 1280×720 canvas with a gray patterned background, blue section labels, large Times New Roman titles, white rounded content panels, and lower-right page markers.
-Slide 2 was selected as the source pattern because the requested definition slide must follow the newly added AI example slide while preserving its visual system.
-The inserted slide duplicates slide 2, retains its inherited layout/background and main panel, replaces the local content, and is inserted as slide 3.

@@ -1,4 +1,0 @@
-Source deck: 70 slides, 1280×720 canvas, white panels on a gray patterned title-slide background.
-Reusable pattern selected: slide 1's flat canvas, blue section label, bold title, centered white rounded panel, and lower-right page marker.
-Insertion contract: duplicate slide 1, replace its local roadmap objects with the AI capability progression, retain inherited layout/background, and insert at output slide 2.
-Typography preserved from the source deck: Times New Roman in visible content, with existing Calibri page markers.
