@@ -1,0 +1,10 @@
+py -3.12 Qwen2.5_0.5B_Hyperparameter_Lab.py
+
+
+Your entire response must be exactly one of these two strings:
+
+YES
+NO
+
+Do not output punctuation, spaces, explanations, greetings, or any other text.
+If the user's request cannot be answered using only YES or NO, output NO.
